@@ -28,7 +28,7 @@ Create a new Note post (*not reply*) in the `personal-intro` folder to provide y
 
 We will be using Markdown a good bit this semester, so I encourage you to format your introduction using this markup style for practice. Click the "Markdown editor" radio button in the Details section of the Piazza Note editor.  
 
-![](../piazza-personal-intro-post.png)
+![](../piazza-personal-intro.png)
 
 Click the "Preview Post" link to see a preview (example of the preview pop-up below).  
 ![](../piazza-preview.png)
