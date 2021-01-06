@@ -4,5 +4,6 @@ Public repo for homework assignments, tutorials, and associated files for [CS 72
 
 ## Assignments
 
+[Personal Intro](personal-intro.md) - Personal Intro in Piazza (due Jan 19, Week 1) 
 
 ## Tutorials / Lab Exercises
