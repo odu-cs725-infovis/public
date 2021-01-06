@@ -8,14 +8,9 @@ This is an *optional, but highly recommended* assignment. It will cover the nece
 
 ## ODU-CS Linux
 
-We will be using the [ODU-CS Linux systems](https://systems.cs.odu.edu/Unix_and_
-Linux_Services) for part of the course (read the information in the linked webpa
-ge). If you do not already have an account, request one at https://accounts.cs.o
-du.edu/validate/
+We will be using the [ODU-CS Linux systems](https://systems.cs.odu.edu/Unix_and_Linux_Services) for part of the course (read the information in the linked webpage). If you do not already have an account, request one at https://accounts.cs.odu.edu/validate/
 
-If you are not familiar with Unix/Linux systems, I strongly encourage you to rea
-d the materials from [CS 252 - Unix for Programmers](https://www.cs.odu.edu/~zei
-l/cs252/latest/Directory/outline/index.html).
+If you are not familiar with Unix/Linux systems, I strongly encourage you to read the materials from [CS 252 - Unix for Programmers](https://www.cs.odu.edu/~zeil/cs252/latest/Directory/outline/index.html).
 
 If you already have a webpage setup on the cs.odu.edu server, you can skip these steps, but you will need to be able to create new webpages in that space this semester.
 
@@ -56,8 +51,6 @@ Make sure to set the appropriate read permissions on the file (see step 2).  The
 Git is a version control system for tracking changes in source code, used in the popular [GitHub](https://github.com) code hosting platform.  To become familiar with the basics of Git, read [git - the simple guide](https://rogerdudler.github.io/git-guide/).
 
 If you do not have one already, you must create a GitHub account.  I recommend a username that incorporates at least part of your actual name (e.g., mine is [weiglemc](https://github.com/weiglemc)).  If you already have a GitHub account, you do *not* need to create a new one for this class.
-
-Follow the instructions at [github-classroom-for-students](https://github.com/cs625-datavis-master/github-classroom-for-students/blob/master/README.md) through the section "Make a local change, commit, and push and confirm the local change propogated to the GitHub Remote" to get setup with GitHub. You'll work through the remaining steps later.
 
 Mr. Thomas Kennedy has a nice introduction and walkthrough of Git available.  Read through [his materials](https://git-community.cs.odu.edu/tkennedy/git-workshop/-/wikis/Git-Workshop) and work through all of the exercises in the "Setting Up a Local Git Repository" section to create a repository, make changes, commit them locally, and then create a remote repo at GitHub. 
 
