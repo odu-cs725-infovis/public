@@ -16,7 +16,7 @@ If you already have a webpage setup on the cs.odu.edu server, you can skip these
 
 1. Login to the ODU-CS Linux system using ssh, Putty, or an appropriate ssh client. The host name is linux.cs.odu.edu and the port number is 22.
 
-2. Your website will reside in the directory named `secure_html`, which should be found in the home directory. Set the group ownership and access permission for your website, so that the web server can access its contents (updated to add ~/):
+2. Your website will reside in the directory named `secure_html`, which should be found in the home directory. Set the group ownership and access permission for your website, so that the web server can access its contents:
 
 ```
 chgrp -R http ~/secure_html
