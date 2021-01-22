@@ -8,4 +8,6 @@ Public repo for homework assignments, tutorials, and associated files for [CS 72
 
 [HW0](HW0.md) - Tool Setup (recommended due Jan 22, Week 1)
 
+[HW1](HW1.md) - Vega-Lite Intro (due Feb 4, Week 3)
+
 ## Tutorials / Lab Exercises
