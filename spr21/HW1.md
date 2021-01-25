@@ -1,5 +1,5 @@
 # Homework 1 - Vega-Lite Intro 
-**Due:** Thursday, February 4, 2021 by 11:59pm
+**Due:** Tuesday, February 9, 2021 by 11:59pm
 
 *Read the entire assignment before starting.*
 
