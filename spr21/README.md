@@ -10,4 +10,12 @@ Public repo for homework assignments, tutorials, and associated files for [CS 72
 
 [HW1](HW1.md) - Vega-Lite Intro (due Feb 4, Week 3)
 
+[Academic Paper Presentation](presentation.md)
+* paper selection due Feb 19
+* presentations begin Mar 9
+
 ## Tutorials / Lab Exercises
+
+[CS 725/825 Collection at Observable](https://observablehq.com/collection/@weiglemc/cs-725-825-spring-2021)
+* [Vega-Lite Intro notebook](https://observablehq.com/@weiglemc/observable-vega-lite-intro)
+* [D3 Data Intro notebook](https://observablehq.com/@weiglemc/d3-data-intro)
