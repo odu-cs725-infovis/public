@@ -14,6 +14,8 @@ Public repo for homework assignments, tutorials, and associated files for [CS 72
 * paper selection due Feb 19
 * presentations begin Mar 9
 
+[HW2](HW2.md) - D3 Intro (due Feb 25, Week 6)
+
 ## Tutorials / Lab Exercises
 
 [CS 725/825 Collection at Observable](https://observablehq.com/collection/@weiglemc/cs-725-825-spring-2021)
