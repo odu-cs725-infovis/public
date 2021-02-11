@@ -19,6 +19,8 @@ We will be using the same dataset as in [HW1](https://github.com/cs725-infovis-m
 
 > We are going to examine a dataset provided by the Virginia Department of Health (VDH) related to COVID-19. The dataset, [VDH-COVID-19-PublicUseDataset-Cases](https://data.virginia.gov/Government/VDH-COVID-19-PublicUseDataset-Cases/bre9-aqqr), has been made available through the [Virginia Open Data Portal](https://data.virginia.gov) and the [VDH's COVID-19 in Virginia page](https://www.vdh.virginia.gov/coronavirus/).  *Click the Export button on the dataset page to download the CSV.*
 
+If you are using a collection, one option is to create a notebook that holds the various datasets and import them into the chart notebooks.  This way, you only need to attach the main datafile to a single notebook.  The data notebook needs to be made public so that you can import items into other notebooks.
+
 ### Charts to Create
 
 Use D3 in Observable to create the following charts.  You do not need tooltips or a legend for any of these charts.  All of these will be single charts (no repeating or faceting as we did with Vega-Lite).  You must provide an explanation of your code.
@@ -57,10 +59,26 @@ Note: When asked for totals (not over time), you should use only the last day of
 
 In D3, you will usually want to transform your data appropriately outside of your charting code. 
 
+When parsing the datafile, you can sort the data by date in the same cell:
+
+~~~js
+covid = d3.csvParse(await FileAttachment("VDH-COVID-19-PublicUseDataset-Cases@4.csv").text(), function(d) {
+  return {
+    date: d3.timeParse("%x")(d["Report Date"]),
+    fips: d.FIPS,
+    locality: d.Locality,
+    district: d["VDH Health District"],
+    cases: +d["Total Cases"],
+    hospitalizations: +d.Hospitalizations,
+    deaths: +d.Deaths
+  };})
+  .sort(function (a, b) {return a.date - b.date;});
+~~~
+
 For Chart 2 (cases vs. hospitalizations), you'll need to rollup and sum multiple attributes.  You can use the following JavaScript code to do this, but you will need to explain how it works in your notebook.
 
 ~~~js
- casesHospPerDay = 
+casesHospPerDay = 
  d3.rollups(covid, v => [d3.sum(v, d => d.cases), d3.sum(v, d => d.hospitalizations)], d => d.date)
    .map(obj => {let rObj= {}; rObj["date"] = obj[0]; rObj["cases"] = obj[1][0]; 
                 rObj["hospitalizations"] = obj[1][1]; return rObj;})
