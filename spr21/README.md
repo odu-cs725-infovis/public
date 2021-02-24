@@ -16,11 +16,8 @@ Public repo for homework assignments, tutorials, and associated files for [CS 72
 
 [HW2](HW2.md) - D3 Intro (due Feb 25, Week 6)
 
+[HW3](HW3.md) - Dashboards and Interaction (due Mar 16, Week 9)
+
 ## Tutorials / Lab Exercises
 
 [CS 725/825 Collection at Observable](https://observablehq.com/collection/@weiglemc/cs-725-825-spring-2021)
-* [Vega-Lite Intro notebook](https://observablehq.com/@weiglemc/observable-vega-lite-intro)
-* [D3 Data Intro notebook](https://observablehq.com/@weiglemc/d3-data-intro)
-* [Clustering Example with Vega-Lite Vis](https://observablehq.com/@weiglemc/clustering-example-with-vega-lite)
-* [D3 Vis Intro notebook](https://observablehq.com/@weiglemc/d3-vis-intro)
-
