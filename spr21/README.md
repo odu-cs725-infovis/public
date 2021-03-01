@@ -18,6 +18,9 @@ Public repo for homework assignments, tutorials, and associated files for [CS 72
 
 [HW3](HW3.md) - Dashboards and Interaction (due Mar 16, Week 9)
 
+[Visualization Project](project.md)
+* demos begin April 13
+
 ## Tutorials / Lab Exercises
 
 [CS 725/825 Collection at Observable](https://observablehq.com/collection/@weiglemc/cs-725-825-spring-2021)
