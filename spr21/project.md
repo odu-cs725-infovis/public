@@ -22,6 +22,8 @@ You will also provide a report about the design of your project.  This should be
 
 Your project page/notebook must include your name, CS 725/825 (as appropriate), Spring 2021, and a link to your report.
 
+You are *strongly encouraged* to choose your dataset soon and regularly communicate with me about your progress.  I would like to meet at least once with each student during office hours once you have an initial design for your project.
+
 ## Project Guidelines
 
 Your visualization must be in a dashboard design, meaning that it employs multiple interactive charts that allow the user to ask and answer questions about the data.  You may add widgets such as drop-down menus, radio buttons, etc. to provide filtering functions.  There should also be some amount of direct interaction with the charts themselves, at the very least in the form of tooltips. You are encouraged to use brushing and linking and chart navigation (pan/zoom or focus+context) as appropriate. The interactive elements must add value. *Do not add interactivity just because you can.*
