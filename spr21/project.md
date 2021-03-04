@@ -6,7 +6,7 @@ A well-chosen dataset is key to creating an interesting project.  Choose somethi
 
 All projects will be demonstrated live in class.  These will be scheduled between **April 13-27** with 3 presentations per class meeting.  
 
-For some inspiration, this [slideset](https://courses.cs.washington.edu/courses/cse442/20au/lectures/CSE442-FinalProjects.pdf) contains links to demo videos from projects for Jeffrey Heer's Fall 2020 data visualization course. Note that I am not necessarily expecting this type of output. Their assignment was different and was a group project, but this can give you some ideas of things that could be done. 
+For some inspiration, this [slideset](https://courses.cs.washington.edu/courses/cse442/20au/lectures/CSE442-FinalProjects.pdf) contains links to demo videos from projects for Jeffrey Heer's Fall 2020 data visualization course. Note that I am not necessarily expecting this type of output. Their assignment was different and was a group project, but this can give you some ideas of things that could be done.  Some examples from my previous courses are available in my [InfoVis Gallery](https://www.cs.odu.edu/~mweigle/Research/InfoVis-Gallery#toc5).  Again, they had a different assignment than you, so don't assume that those examples are exactly what I'm looking for.
 
 ## Mechanics
 
@@ -55,7 +55,7 @@ Your report must include the following sections:
 
 **Design Decisions.** You must explain every design decision you make and essentially be able to explain the contribution of every pixel in the display. 
 * For each chart in your dashboard, document the visual encodings (idioms, marks, channels) you used and why they are appropriate for the data. These decisions include the choice of visualization idiom, size, color, scale, and other visual elements, as well as the use of sorting or other data transformations. How do these decisions facilitate effective communication?  
-* Include a description of the principles of effective dashboard design that you used.
+* Include a description of the principles of effective dashboard design that you used.  Classify your dashboard according to the classifications described in ["What Do We Talk About When We Talk About Dashboards?"](https://alper.datav.is/publications/dashboards/).
 * Provide a justification for the interactive elements (filters, facets, etc.) that you provide. Why is this particular representation of the data useful?  How does the interaction contribute to the user's insight into the data?
 
 **Development Process.** Include a commentary on the development process, including answers to the following questions:
