@@ -10,7 +10,7 @@ Paper selection and scheduling will be done through Piazza in the "presentation"
 
 You may send me a draft of your slides for early feedback.  The draft is due the Thursday before your scheduled presentation date.  I will not be able to look at drafts sent after that time.
 
-Before class time on the day of your presentation, you must submit your slides via Blackboard (either upload the slides or post a link if they're in Google Slides).  
+**Submission:** Before class time on the day of your presentation, you must submit your slides via Blackboard (either upload the slides or post a link if they're in Google Slides).  See Assignments > Academic Paper Presentation
 
 I would prefer for all students to deliver their presentations live in Zoom.  If you are not able to attend on your scheduled presentation date, then you may pre-record your presentation -- but this must be approved by me ahead of time. Before class time on the day of your scheduled presentation, submit both your slides and a link to the recording (don't try to attach the actual video file) on Blackboard.  
 
