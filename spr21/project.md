@@ -18,7 +18,7 @@ Your project must be implemented in Vega-Lite or D3. You may build your project 
 * [Advanced Embedding and Downloading](https://observablehq.com/@observablehq/downloading-and-embedding-notebooks)
 * [Observable to standalone](https://projet.liris.cnrs.fr/mi2/posts/2019/09/11/observable-to-standalone.html)
 
-You will also provide a report about the design of your project.  This should be done as a Markdown document separate from your project visualization page.  Details are below.  
+You will also provide a report about the design of your project.  This should be done as a Markdown document separate from your project visualization page.  Details are below.  **Report is due on April 27 by 11:59pm**
 
 Your project page/notebook must include your name, CS 725/825 (as appropriate), Spring 2021, and a link to your report.
 
@@ -79,8 +79,16 @@ In addition, you should be prepared to answer questions about your visualization
 
 ## Submission
 
-Before class time on your demo day, submit the links to your project and your project report in Blackboard.  If you use an Observable notebook, make sure that you Publish the notebook so that it is viewable.
+*Updated Apr 7*
+
+Before class time on your demo day, submit the link to your project in Blackboard.  If you use an Observable notebook, make sure that you Publish the notebook so that it is viewable.
 * Click on Project under Assignments.
 * Under "Assignment Submission", click the "Write Submission" button.
-* Copy/paste the URLs of your Observable notebook and report into the edit box. 
+* Copy/paste the URL of your project into the edit box. 
+* Make sure to "Submit" your assignment.
+
+By 11:59pm on April 27, submit the link to your project report in Blackboard 
+* Click on Project Report under Assignments.
+* Under "Assignment Submission", click the "Write Submission" button.
+* Copy/paste the URL of your project report into the edit box. 
 * Make sure to "Submit" your assignment.
