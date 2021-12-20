@@ -96,7 +96,7 @@ Any assignment submitted after its deadline is considered late. Late assignments
 [ODU Spring 2022 academic schedule](https://www.odu.edu/academics/calendar/spring)
 
 |Week |Class Date|Topic|
-|---|---|---|---|
+|---|---|---|
 |1|	Jan 11|	Course Intro, Data Vis Overview | 
 |2|	Jan 18|	Visual Analytics Principles, Vega-Lite Intro |
 |3|	Jan 25|	D3 Data Principles, D3 Vis  | 
