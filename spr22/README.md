@@ -3,8 +3,7 @@
 ## Links
 
 * [Syllabus](syllabus.md)
-* [Course Materials on Blackboard](https://www.blackboard.odu.edu/ultra/courses/_385481_1/cl/outline)
-* [Topic Objectives](objectives.md)
+* [Course Materials on Blackboard](https://www.blackboard.odu.edu/ultra/courses/_394424_1/cl/outline)
 * [*Visualization Analysis and Design* textbook](https://www.cs.ubc.ca/~tmm/vadbook/) (VAD)
   * [TM VAD lecture slides](https://www.cs.ubc.ca/~tmm/talks.html#vadallslides) by Tamara Munzner (textbook author)
   * [EB VAD lecture slides](http://bit.ly/lecture-slides-iv16) by [Enrico Bertini](http://enrico.bertini.io/), NYU
