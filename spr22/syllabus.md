@@ -95,24 +95,24 @@ Any assignment submitted after its deadline is considered late. Late assignments
 
 [ODU Spring 2022 academic schedule](https://www.odu.edu/academics/calendar/spring)
 
-|Week |Date|Topic| Textbook Reading|
+|Week |Class Date|Topic|
 |---|---|---|---|
-|1|	Aug 31, Sep 2|	Introduction, What's Vis and Why Do It? | Ch 1|
-|2|	Sep 7, 9|	Data and Data Cleaning | Ch 2|
-|3|	Sep 14, 16|	Marks and Channels | Ch 5|
-|4|	Sep 21, 23	|Arrange Tables | Ch 7|
-|5|	Sep 28, 30|	Arrange Tables (continued) | Ch 7|
-|6|	Oct 5, 7|	Map Color and Other Channels | Ch 10|
-|7|	Tue, Oct 12<br/>Thu, Oct 14|	**NO CLASS - Fall Break**<br/>Review for Mid-Term Exam| |
-|8|	Tue, Oct 19<br/>Thu, Oct 21|	**MID-TERM EXAM**<br/>**NO CLASS**| |
-|9|	Oct 26, 28|	Reduce Items | Ch 13 (through 13.4.1)
-|10|	Nov 2, 4|	Exploratory Data Analysis (EDA)
-|11|	Nov 9, 11|	Storytelling Vis
-|12|	Nov 16, 18|	Rules of Thumb, Maps|Ch 6, Ch 8.1-8.3
-| | Nov 23, 25|**NO CLASS - Thanksgiving Break** | |
-|13|	Nov 30, Dec 2|	Multiple Views | Ch 12 (skip 12.4.4)
-|14|	Dec 7, 9|	Manipulate View | Ch 11 (through 11.5)|
-|| Fri, Dec 10|	*last day of classes*
+|1|	Jan 11|	Course Intro, Data Vis Overview | 
+|2|	Jan 18|	Visual Analytics Principles, Vega-Lite Intro |
+|3|	Jan 25|	D3 Data Principles, D3 Vis  | 
+|4|	Feb 1| Handling Complexity in Data, IEEE VIS Conferences, Giving Presentations |
+|5|	Feb 8| Interactivity in D3|
+|6|	Feb 15|	Dashboard Design and Graph Visualization, Implementing Dashboards in Vega-Lite, D3|
+|7|	Feb 22|	Project Discussion |
+|8|	Mar 1|	Student Presentations |
+||	Mar 8|	**NO CLASS - Spring Break** | 
+|9|	Mar 15|	Student Presentations | 
+|10| Mar 22|	Student Presentatios | 
+|11| Mar 29|	TBA |
+|12| Apr 5|	Student Project Demos | 
+|13| Apr 12|	Student Project Demos |
+|14| Apr 19|	Student Project Demos |
+
 
 ## Course Policies
 
