@@ -1,6 +1,6 @@
 # CS 725/825, Spring 2022 Syllabus
 
-[Jump to Summary Schedule](#summary-schedule) | [Download printable PDF version](https://github.com/odu-cs725-infovis/public/raw/main/spr22/syllabus.pdf)
+[Jump to Summary Schedule](#summary-schedule) | [Download printable PDF version](https://github.com/odu-cs725-infovis/public/raw/main/spr22/syllabus.pdf) - *coming soon*
 
 ## Course Overview
 
