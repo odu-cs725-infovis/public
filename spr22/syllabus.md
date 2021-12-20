@@ -124,7 +124,7 @@ Each student must check the class Blackboard site and email daily. You should us
 
 In-person students: I expect you to arrive on time for class. Your grade will be affected if you are consistently tardy. Students may leave after 15 minutes if the instructor or a guest lecturer does not arrive in that time.
 
-Online studnets: It is essential that you regularly stay involved in class activities. This includes attending synchronous class meetings when possible, checking the class Blackboard for announcements, and submitting assignments on time. Online students who cannot attend synchronously are expected to have watched the posted videos of the week's in-class meetings before the next week's first meeting. However, students are strongly encouraged to watch the videos on the same day they are posted.
+Online students: It is essential that you regularly stay involved in class activities. This includes attending synchronous class meetings when possible, checking the class Blackboard for announcements, and submitting assignments on time. Online students who cannot attend synchronously are expected to have watched the posted videos of the week's in-class meetings before the next week's first meeting. However, students are strongly encouraged to watch the videos on the same day they are posted.
 
 If you have to miss a class, you are responsible checking the course Blackboard site to find any assignments or notes you may have missed. 
 
