@@ -1,6 +1,8 @@
 # CS 725/825, Spring 2022 Syllabus
 
-[Jump to Summary Schedule](#summary-schedule) | [Download printable PDF version](https://github.com/odu-cs725-infovis/public/raw/main/spr22/syllabus.pdf) - *coming soon*
+Tu 4:20-7pm, MGB 0127 and online via Zoom
+
+[Download printable PDF version](https://github.com/odu-cs725-infovis/public/raw/main/spr22/syllabus.pdf) - *coming soon*
 
 ## Course Overview
 
@@ -14,7 +16,7 @@
 
 Dr. Michele Weigle: mweigle at cs.odu.edu, <https://www.cs.odu.edu/~mweigle/>
 
-My office hours will be TBA (in-person and/or Zoom), or by appointment. See Blackboard for the link to the Zoom office hours meeting room. For Zoom office hours, students will be placed into the waiting room if I am already meeting with another student. If you cannot attend during regular office hours, please contact me to set up an alternate appointment time.
+My office hours will be Tues 2-3:30pm (in-person ECSB 3327 or Zoom), Wed 5-6:30pm (Zoom only), or by appointment. See Blackboard for the link to the Zoom office hours meeting room. For Zoom office hours, students will be placed into the waiting room if I am already meeting with another student. If you cannot attend during regular office hours, please contact me to set up an alternate appointment time.
 
 ## Meeting Times and Course Delivery Method
 
@@ -107,7 +109,7 @@ Any assignment submitted after its deadline is considered late. Late assignments
 |8|	Mar 1|	Student Presentations |
 ||	Mar 8|	**NO CLASS - Spring Break** | 
 |9|	Mar 15|	Student Presentations | 
-|10| Mar 22|	Student Presentatios | 
+|10| Mar 22|	Student Presentations | 
 |11| Mar 29|	TBA |
 |12| Apr 5|	Student Project Demos | 
 |13| Apr 12|	Student Project Demos |
