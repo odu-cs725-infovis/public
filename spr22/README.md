@@ -20,4 +20,27 @@ Tu 4:20-7pm, [MGB 0127](https://www.odu.edu/ts/labs-classrooms/technology-classr
 
 ## Schedule
 
+*Note: This is a tentative schedule and will be updated throughout the semester.*
+
+[ODU Spring 2022 academic schedule](https://www.odu.edu/academics/calendar/spring)
+
+Click on the week number to get that week's agenda, reading assignment, and links to additional resources.
+
+|Week |Date|Topic|HW Assigned|HW Due|
+|---|---|---|---|---|
+|[1](agenda.md#week-1)|	Jan 11|	Course Intro, Data Vis Overview | Personal Intro | Personal Intro|
+|[2](agenda.md#week-2)|	Jan 18|	Visual Analytics Principles, Vega-Lite Intro | HW1 |  |
+|[3](agenda.md#week-3)|	Jan 25|	D3 Data Principles, D3 Vis  | HW - presentation | |
+|[4](agenda.md#week-4)|	Feb 1| Handling Complexity in Data, IEEE VIS Conferences, Giving Presentations | HW2 | | 
+|[5](agenda.md#week-5)|	Feb 8| Interactivity in D3| | | 
+|[6](agenda.md#week-6)|	Feb 15|	Dashboard Design and Graph Visualization, Implementing Dashboards in Vega-Lite, D3| HW3 | | 
+|[7](agenda.md#week-7)|	Feb 22|	Project Discussion | HW - project | | 
+|[8](agenda.md#week-8)|	Mar 1|	Student Presentations | | | 
+||	Mar 8|	**NO CLASS - Spring Break** | | | 
+|[9](agenda.md#week-9)|	Mar 15|	Student Presentations | | | 
+|[10](agenda.md#week-10)| Mar 22|	Student Presentations | | | 
+|[11](agenda.md#week-11)| Mar 29|	TBA | | | 
+|[12](agenda.md#week-12)| Apr 5|	Student Project Demos | | | 
+|[13](agenda.md#week-13)| Apr 12|	Student Project Demos | | | 
+|[14](agenda.md#week-14)| Apr 19|	Student Project Demos | | | 
 
