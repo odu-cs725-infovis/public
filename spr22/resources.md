@@ -1,7 +1,5 @@
 # References and Additional Resources
 
-# Semester Agenda
-
 ## Week 1
 Jan 11
 
