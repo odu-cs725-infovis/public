@@ -18,15 +18,10 @@ Due (before class):
 [References and Additional Resources for Week 1](resources.md#week-1)
 
 Assignment:
-* Review [Week 2](#week-2) materials and complete the reading assignment before class
+* Review Week 2 materials and complete the reading assignment before class
 
 ## Week 2
 **Tues, Jan 18** - Visual Analytics Principles, Vega-Lite 
-
-Due (before class):
-* Read Keim et al., [Visual Analytics: Definition, Process, and Challenges](https://d-nb.info/1098134664/34), *Information Visualization*, 2008
-* Review Week-02-Visual-Analytics slides
-* Look over Observable/Vega-Lite intro notebook and resources included there
 
 [References and Additional Resources for Week 2](resources.md#week-2)
 
@@ -39,14 +34,12 @@ Jan 25
 
 [References and Additional Resources for Week 3](resources.md#week-3)
 
-Assignments: HW - presentation
 
 ## Week 4
 Feb 1
 
 [References and Additional Resources for Week 4](resources.md#week-4)
 
-Assignments: HW2
 
 ## Week 5
 Feb 8
@@ -58,14 +51,12 @@ Feb 15
 
 [References and Additional Resources for Week 6](resources.md#week-6)
 
-Assignments:  HW3 
 
 ## Week 7
 Feb 22
 
 [References and Additional Resources for Week 7](resources.md#week-7)
 
-Assignments: HW - project
 
 ## Week 8
 Mar 1
