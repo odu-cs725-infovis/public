@@ -25,10 +25,6 @@ Assignment:
 
 [References and Additional Resources for Week 2](resources.md#week-2)
 
-Assignment: 
-* HW1
-* Review Week 3 materials and complete the reading assignment before class
-
 ## Week 3
 Jan 25
 
