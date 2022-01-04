@@ -13,7 +13,7 @@ Due (before class):
   * My Intro to InfoVis lectures from CS 432/532 in the Media Gallery ([slides](https://docs.google.com/presentation/d/1dnKwKgOAWQ37QzHXxbbIZ-J4R8KYFO4Ss12VFkit-wA/edit?usp=sharing))
     * CS 432/532 - Mod 03, p1 - InfoVis Principles (12:15)
     * CS 432/532 - Mod 03, p2 - Visualization Idioms (12:39)
-* Post at least one question in the [Vis Overview Forum](https://www.blackboard.odu.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_394424_1&nav=discussion_board_entry&conf_id=_457380_1&forum_id=_517326_1) in Blackboard. If you have a question about a particular point in one of the videos, make sure to note video, time, and slide number so that we can reference back to it. Review other students' questions and endorse (via the "good question" button) ones that you also have. We'll discuss these in class.
+* Create a new thread with at least one question in the [Vis Overview Forum](https://www.blackboard.odu.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_394424_1&nav=discussion_board_entry&conf_id=_457380_1&forum_id=_517326_1) in Blackboard. If you have a question about a particular point in one of the videos, make sure to note video, time, and slide number so that we can reference back to it. Review other students' questions and use the rating mechanism to endorse ones that you also have. We'll discuss these in class.
 
 [References and Additional Resources for Week 1](resources.md#week-1)
 
