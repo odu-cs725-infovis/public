@@ -2,7 +2,7 @@
 
 Tu 4:20-7pm, MGB 0127 and online via Zoom
 
-[Download printable PDF version](https://github.com/odu-cs725-infovis/public/raw/main/spr22/syllabus.pdf) - *coming soon*
+[Download printable PDF version](https://github.com/odu-cs725-infovis/public/raw/main/spr22/syllabus.pdf)
 
 ## Course Overview
 
