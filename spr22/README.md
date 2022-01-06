@@ -28,8 +28,8 @@ Click on the week number to get that week's agenda, reading assignment, and link
 
 |Week |Date|Topic|HW Assigned|HW Due|
 |---|---|---|---|---|
-|[1](agenda.md#week-1)|	Jan 11|	Course Intro, Data Vis Overview | Personal Intro | Personal Intro|
-|[2](agenda.md#week-2)|	Jan 18|	Visual Analytics Principles, Vega-Lite Intro | HW1 |  |
+|[1](agenda.md#week-1)|	Jan 11<br/>ONLINE|	Course Intro, Data Vis Overview | Personal Intro | Personal Intro|
+|[2](agenda.md#week-2)|	Jan 18<br/>ONLINE|	Visual Analytics Principles, Vega-Lite Intro | HW1 |  |
 |[3](agenda.md#week-3)|	Jan 25|	D3 Data Principles, D3 Vis  | HW - presentation | |
 |[4](agenda.md#week-4)|	Feb 1| Handling Complexity in Data, IEEE VIS Conferences, Giving Presentations | HW2 | | 
 |[5](agenda.md#week-5)|	Feb 8| Interactivity in D3| | | 
