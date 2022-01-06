@@ -65,7 +65,10 @@ In addition, see the online writing resources collected on the ODU-CS [New Stude
 
 ## Grading
 
-This will be a project and presentation based course, so no exams will be given. Grades will be based largely on visualization implementations and class presentations. More information will be provided before the semester begins.
+This will be a project and presentation based course, so no exams will be given. The general breakdown will be:
+* 50% - homework assignments
+* 25% - paper presentation
+* 25% - final project
 
 ### Grading Scale
 
