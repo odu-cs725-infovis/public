@@ -1,0 +1,134 @@
+locality,fips,health_district,health_region,population_estimate
+Giles,51071,New River,Southwest,16720
+Patrick,51141,West Piedmont,Southwest,17608
+Accomack,51001,Eastern Shore,Eastern,32316
+Madison,51113,Rappahannock Rapidan,Northwest,13261
+Covington,51580,Alleghany,Southwest,5538
+Cumberland,51049,Piedmont,Central,9932
+Hopewell,51670,Crater,Central,22529
+Craig,51045,Alleghany,Southwest,5131
+Tazewell,51185,Cumberland Plateau,Southwest,40595
+Hampton,51650,Hampton,Eastern,134510
+Colonial Heights,51570,Chesterfield,Central,17370
+Gloucester,51073,Three Rivers,Eastern,37348
+Greensville,51081,Crater,Central,11336
+Fairfax,51059,Fairfax,Northern,1147532
+Scott,51169,Lenowisco,Southwest,21566
+Rappahannock,51157,Rappahannock Rapidan,Northwest,7370
+Nelson,51125,Blue Ridge,Northwest,14930
+Staunton,51790,Central Shenandoah,Northwest,24932
+Galax,51640,Mount Rogers,Southwest,6347
+Southampton,51175,Western Tidewater,Eastern,17631
+Roanoke City,51770,Roanoke,Southwest,99143
+Pittsylvania,51143,Pittsylvania-Danville,Southwest,60354
+Botetourt,51023,Alleghany,Southwest,33419
+Spotsylvania,51177,Rappahannock,Northwest,136215
+Russell,51167,Cumberland Plateau,Southwest,26586
+York,51199,Peninsula,Eastern,68280
+Manassas Park,51685,Prince William,Northern,17478
+Alexandria,51510,Alexandria,Northern,159428
+Fauquier,51061,Rappahannock Rapidan,Northwest,71222
+Mathews,51115,Three Rivers,Eastern,8834
+Arlington,51013,Arlington,Northern,236842
+Appomattox,51011,Central Virginia,Southwest,15911
+Goochland,51075,Chickahominy,Central,23753
+Orange,51137,Rappahannock Rapidan,Northwest,37051
+Falls Church,51610,Fairfax,Northern,14617
+Buckingham,51029,Piedmont,Central,17148
+Northampton,51131,Eastern Shore,Eastern,11710
+Emporia,51595,Crater,Central,5346
+Martinsville,51690,West Piedmont,Southwest,12554
+Brunswick,51025,Southside,Central,16231
+Danville,51590,Pittsylvania-Danville,Southwest,40044
+Buchanan,51027,Cumberland Plateau,Southwest,21004
+Norfolk,51710,Norfolk,Eastern,242742
+Powhatan,51145,Chesterfield,Central,29652
+Franklin City,51620,Western Tidewater,Eastern,7967
+Montgomery,51121,New River,Southwest,98535
+Albemarle,51003,Blue Ridge,Northwest,109330
+Louisa,51109,Blue Ridge,Northwest,37591
+Pulaski,51155,New River,Southwest,34027
+Radford,51750,New River,Southwest,18249
+Surry,51181,Crater,Central,6422
+Bristol,51520,Mount Rogers,Southwest,16762
+Poquoson,51735,Peninsula,Eastern,12271
+Henry,51089,West Piedmont,Southwest,50557
+Waynesboro,51820,Central Shenandoah,Northwest,22630
+Roanoke County,51161,Alleghany,Southwest,94186
+James City,51095,Peninsula,Eastern,76523
+King and Queen,51097,Three Rivers,Eastern,7025
+Harrisonburg,51660,Central Shenandoah,Northwest,53016
+Prince George,51149,Crater,Central,38353
+Rockbridge,51163,Central Shenandoah,Northwest,22573
+Rockingham,51165,Central Shenandoah,Northwest,81948
+Greene,51079,Blue Ridge,Northwest,19819
+Bland,51021,Mount Rogers,Southwest,6280
+Williamsburg,51830,Peninsula,Eastern,14954
+Washington,51191,Mount Rogers,Southwest,53740
+Dickenson,51051,Cumberland Plateau,Southwest,14318
+Fluvanna,51065,Blue Ridge,Northwest,27270
+Grayson,51077,Mount Rogers,Southwest,15550
+Chesapeake,51550,Chesapeake,Eastern,244835
+Amherst,51009,Central Virginia,Southwest,31605
+Lunenburg,51111,Piedmont,Central,12196
+Prince William,51153,Prince William,Northern,470335
+Wythe,51197,Mount Rogers,Southwest,28684
+Bedford,51019,Central Virginia,Southwest,78997
+Augusta,51015,Central Shenandoah,Northwest,75558
+Bath,51017,Central Shenandoah,Northwest,4147
+Highland,51091,Central Shenandoah,Northwest,2190
+Alleghany,51005,Alleghany,Southwest,14860
+Salem,51775,Alleghany,Southwest,25301
+Nottoway,51135,Piedmont,Central,15232
+Essex,51057,Three Rivers,Eastern,10953
+Isle of Wight,51093,Western Tidewater,Eastern,37109
+Suffolk,51800,Western Tidewater,Eastern,92108
+Stafford,51179,Rappahannock,Northwest,152882
+Floyd,51063,New River,Southwest,15749
+Caroline,51033,Rappahannock,Northwest,30725
+Campbell,51031,Central Virginia,Southwest,54885
+Richmond City,51760,Richmond,Central,230436
+Charlottesville,51540,Blue Ridge,Northwest,47266
+Clarke,51043,Lord Fairfax,Northwest,14619
+Manassas City,51683,Prince William,Northern,41085
+Sussex,51183,Crater,Central,11159
+Petersburg,51730,Crater,Central,31346
+Portsmouth,51740,Portsmouth,Eastern,94398
+King William,51101,Three Rivers,Eastern,17148
+Lee,51105,Lenowisco,Southwest,23423
+Amelia,51007,Piedmont,Central,13145
+Prince Edward,51147,Piedmont,Central,22802
+Henrico,51087,Henrico,Central,330818
+Lynchburg,51680,Central Virginia,Southwest,82168
+Fairfax City,51600,Fairfax,Northern,24019
+Westmoreland,51193,Three Rivers,Eastern,18015
+Northumberland,51133,Three Rivers,Eastern,12095
+Fredericksburg,51630,Rappahannock,Northwest,29036
+Dinwiddie,51053,Crater,Central,28544
+Carroll,51035,Mount Rogers,Southwest,29791
+Charlotte,51037,Piedmont,Central,11880
+Franklin County,51067,West Piedmont,Southwest,56042
+New Kent,51127,Chickahominy,Central,23091
+Page,51139,Lord Fairfax,Northwest,23902
+Winchester,51840,Lord Fairfax,Northwest,28078
+Norton,51720,Lenowisco,Southwest,3981
+Lancaster,51103,Three Rivers,Eastern,10603
+King George,51099,Rappahannock,Northwest,26836
+Charles City,51036,Chickahominy,Central,6963
+Buena Vista City,51530,Central Shenandoah,Northwest,6478
+Wise,51195,Lenowisco,Southwest,37383
+Culpeper,51047,Rappahannock Rapidan,Northwest,52605
+Smyth,51173,Mount Rogers,Southwest,30104
+Hanover,51085,Chickahominy,Central,107766
+Newport News,51700,Peninsula,Eastern,179225
+Virginia Beach,51810,Virginia Beach,Eastern,449974
+Frederick,51069,Lord Fairfax,Northwest,89313
+Mecklenburg,51117,Southside,Central,30587
+Richmond County,51159,Three Rivers,Eastern,9023
+Shenandoah,51171,Lord Fairfax,Northwest,43616
+Middlesex,51119,Three Rivers,Eastern,10582
+Loudoun,51107,Loudoun,Northern,413538
+Lexington,51678,Central Shenandoah,Northwest,7446
+Halifax,51083,Southside,Central,33911
+Warren,51187,Lord Fairfax,Northwest,40164
+Chesterfield,51041,Chesterfield,Central,352802
