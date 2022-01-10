@@ -30,15 +30,15 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |---|---|---|---|---|
 |[1](agenda.md#week-1)|	Jan 11<br/>ONLINE|	Course Intro, Data Vis Overview | [Personal Intro](https://www.blackboard.odu.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_394424_1&nav=discussion_board_entry&conf_id=_457380_1&forum_id=_495686_1) | Personal Intro|
 |[2](agenda.md#week-2)|	Jan 18<br/>ONLINE|	Visual Analytics Principles, Vega-Lite Intro | HW1 |  |
-|[3](agenda.md#week-3)|	Jan 25|	D3 Data Principles, D3 Vis  | HW - presentation | |
-|[4](agenda.md#week-4)|	Feb 1| Handling Complexity in Data, IEEE VIS Conferences, Giving Presentations | HW2 | | 
-|[5](agenda.md#week-5)|	Feb 8| Interactivity in D3| | | 
-|[6](agenda.md#week-6)|	Feb 15|	Dashboard Design and Graph Visualization, Implementing Dashboards in Vega-Lite, D3| HW3 | | 
-|[7](agenda.md#week-7)|	Feb 22|	Project Discussion | HW - project | | 
-|[8](agenda.md#week-8)|	Mar 1|	TBA | | | 
+|[3](agenda.md#week-3)|	Jan 25|	D3 Principles, D3 Vis  | HW2 | HW1 |
+|[4](agenda.md#week-4)|	Feb 1| Handling Complexity in Data, IEEE VIS Conferences, Giving Presentations | HW - presentation | | 
+|[5](agenda.md#week-5)|	Feb 8| D3 Data Manipulation | HW3 | HW2 | 
+|[6](agenda.md#week-6)|	Feb 15|	Graph Visualization, Interactivity in D3 |  | | 
+|[7](agenda.md#week-7)|	Feb 22|	Dashboard Design, Implementing Dashboards in Vega-Lite, D3 | HW4 | HW3 | 
+|[8](agenda.md#week-8)|	Mar 1|	Project Discussion | HW - project | | 
 ||	Mar 8|	**NO CLASS - Spring Break** | | | 
-|[9](agenda.md#week-9)|	Mar 15|	Student Presentations | | | 
-|[10](agenda.md#week-10)| Mar 22|	Student Presentations | | | 
+|[9](agenda.md#week-9)|	Mar 15|	Student Presentations | | HW - presentation | 
+|[10](agenda.md#week-10)| Mar 22|	Student Presentations | | HW4 | 
 |[11](agenda.md#week-11)| Mar 29|	TBA | | | 
 |[12](agenda.md#week-12)| Apr 5|	TBA | | | 
 |[13](agenda.md#week-13)| Apr 12|	Student Project Demos | | | 
