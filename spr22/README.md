@@ -39,7 +39,7 @@ Click on the week number to get that week's agenda, reading assignment, and link
 ||	Mar 8|	**NO CLASS - Spring Break** | | | 
 |[9](agenda.md#week-9)|	Mar 15|	Student Presentations | |  | 
 |[10](agenda.md#week-10)| Mar 22|	Student Presentations | | HW4 | 
-|[11](agenda.md#week-11)| Mar 29|	TBA | | | 
+|[11](agenda.md#week-11)| Mar 29|	Uncertainty Vis - *tentative* | | | 
 |[12](agenda.md#week-12)| Apr 5|	TBA | | | 
 |[13](agenda.md#week-13)| Apr 12|	Student Project Demos | |  | 
 |[14](agenda.md#week-14)| Apr 19|	Student Project Demos | | | 
