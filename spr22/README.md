@@ -28,7 +28,7 @@ Click on the week number to get that week's agenda, reading assignment, and link
 
 |Week |Date|Topic|HW Assigned|HW Due|
 |---|---|---|---|---|
-|[1](agenda.md#week-1)|	Jan 11<br/>ONLINE|	Course Intro, Data Vis Overview | Personal Intro | Personal Intro|
+|[1](agenda.md#week-1)|	Jan 11<br/>ONLINE|	Course Intro, Data Vis Overview | [Personal Intro](https://www.blackboard.odu.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_394424_1&nav=discussion_board_entry&conf_id=_457380_1&forum_id=_495686_1) | Personal Intro|
 |[2](agenda.md#week-2)|	Jan 18<br/>ONLINE|	Visual Analytics Principles, Vega-Lite Intro | HW1 |  |
 |[3](agenda.md#week-3)|	Jan 25|	D3 Data Principles, D3 Vis  | HW - presentation | |
 |[4](agenda.md#week-4)|	Feb 1| Handling Complexity in Data, IEEE VIS Conferences, Giving Presentations | HW2 | | 
