@@ -35,12 +35,12 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |[5](agenda.md#week-5)|	Feb 8| Interactivity in D3| | | 
 |[6](agenda.md#week-6)|	Feb 15|	Dashboard Design and Graph Visualization, Implementing Dashboards in Vega-Lite, D3| HW3 | | 
 |[7](agenda.md#week-7)|	Feb 22|	Project Discussion | HW - project | | 
-|[8](agenda.md#week-8)|	Mar 1|	Student Presentations | | | 
+|[8](agenda.md#week-8)|	Mar 1|	TBA | | | 
 ||	Mar 8|	**NO CLASS - Spring Break** | | | 
 |[9](agenda.md#week-9)|	Mar 15|	Student Presentations | | | 
 |[10](agenda.md#week-10)| Mar 22|	Student Presentations | | | 
 |[11](agenda.md#week-11)| Mar 29|	TBA | | | 
-|[12](agenda.md#week-12)| Apr 5|	Student Project Demos | | | 
+|[12](agenda.md#week-12)| Apr 5|	TBA | | | 
 |[13](agenda.md#week-13)| Apr 12|	Student Project Demos | | | 
 |[14](agenda.md#week-14)| Apr 19|	Student Project Demos | | | 
 
