@@ -25,6 +25,17 @@ Assignment:
 
 [References and Additional Resources for Week 2](resources.md#week-2)
 
+Due (before class):
+* Read Keim et al., [Visual Analytics: Definition, Process, and Challenges](https://d-nb.info/1098134664/34), *Information Visualization*, 2008
+
+Materials:
+* [Week-02-Visual-Analytics slides](https://docs.google.com/presentation/d/1-P6DoGLG0CkWuQUfgqJ3MZSJoxZPF_HuX3WkK7fBQEQ/edit#slide=id.g92989c8d88_0_0)
+* Observable/Vega-Lite intro notebook - *to be added*
+
+Assignment: 
+* HW1 - *to be added*
+* Review Week 3 materials before class
+
 ## Week 3
 **Tues, Jan 25**
 
