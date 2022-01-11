@@ -1,7 +1,7 @@
 # References and Additional Resources
 
 ## Week 1
-Jan 11
+**Tues, Jan 11** - Course Intro, Data Vis Overview
 
 Addtional Resources
 
@@ -20,10 +20,10 @@ Addtional Resources
 * [How to define a map’s bins to visualize your data](https://policyviz.com/2018/02/08/how-to-define-a-maps-bins-to-visualize-your-data/), Policy Viz
 
 ## Week 2
-Jan 18
+**Tues, Jan 18** 
 
 ## Week 3
-Jan 25
+**Tues, Jan 25** 
 
 ## Week 4
 Feb 1
