@@ -22,6 +22,42 @@ Addtional Resources
 ## Week 2
 **Tues, Jan 18** 
 
+Visual Analytics
+* Keim et al., [Visual Analytics: Definition, Process, and Challenges](https://d-nb.info/1098134664/34), *Information Visualization*, 2008
+
+Observable
+* [A Taste of Observable](https://observablehq.com/@observablehq/a-taste-of-observable)
+* [A Minimal Introduction to JavaScript and Observable](https://observablehq.com/@uwdata/a-minimal-introduction-to-javascript-and-observable)
+* [Observable/GitHub flavored Markdown summary](https://observablehq.com/@ajlimbert/github-flavored-markdown-cheatsheet-observable)
+* [Introduction to Data](https://observablehq.com/@observablehq/introduction-to-data)
+
+Vega-Lite API style
+* [Vega-Lite API Reference](https://vega.github.io/vega-lite-api/api/)
+* [Observable for Vega-Lite](https://observablehq.com/collection/@observablehq/observable-for-vega-lite) - collection of intro notebooks
+    * [Charting with Vega-Lite](https://observablehq.com/@observablehq/vega-lite?collection=@observablehq/observable-for-vega-lite)
+    * [Vega-Lite Chart Types](https://observablehq.com/@observablehq/vega-lite-chart-types?collection=@observablehq/observable-for-vega-lite)
+    * [Layers and Facets and Concat, Oh My!](https://observablehq.com/@observablehq/layers-facets-concat?collection=@observablehq/observable-for-vega-lite)
+* [UW's Data Visualization Curriculum](https://observablehq.com/@uwdata/data-visualization-curriculum) - collection of more detailed notebooks
+    * *won't be directly covered in class, but here for your reference*
+    * including [Introduction to Vega-Lite](https://observablehq.com/@uwdata/introduction-to-vega-lite), [Data Types, Graphical Marks, and Visual Encoding Channels](https://observablehq.com/@uwdata/data-types-graphical-marks-and-visual-encoding-channels), [Data Transformation](https://observablehq.com/@uwdata/data-transformation), [Scales, Axes, and Legends](https://observablehq.com/@uwdata/scales-axes-and-legends), [Multi-View Composition](https://observablehq.com/@uwdata/multi-view-composition), [Interaction](https://observablehq.com/@uwdata/interaction)
+* [CS 625 Observable Collection](https://observablehq.com/collection/@weiglemc/cs625)
+
+Vega-Lite JSON-style
+* [Vega-Lite Reference](https://vega.github.io/vega-lite) (JSON-based)
+* [Vega Embed](https://github.com/vega/vega-embed)
+* [Hello Vega-Embed](https://observablehq.com/@vega/hello-vega-embed)
+
+JSON vs. API style
+* [Working with Vega-Lite](https://observablehq.com/@didoesdigital/working-with-vega-lite)
+* [CS 625 notes on JSON vs. API style](https://github.com/odu-cs625-datavis/public/blob/main/fall21/vega-lite.md)
+
+Arquero - dplyr-like data manipulation in JavaScript
+* [Introducing Arquero](https://observablehq.com/@uwdata/introducing-arquero)
+* [Arquero API Reference](https://uwdata.github.io/arquero/api/)
+
+[CS 725/825, S22 Observable Collection](https://observablehq.com/collection/@weiglemc/cs-725-825-spring-2022) - public notebooks for this semester
+
+
 ## Week 3
 **Tues, Jan 25** 
 
