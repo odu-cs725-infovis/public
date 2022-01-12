@@ -30,13 +30,17 @@ Assignment:
 Due (before class):
 * Read Keim et al., [Visual Analytics: Definition, Process, and Challenges](https://d-nb.info/1098134664/34), *Information Visualization*, 2008
 
-Materials:
-* [Week-02-Visual-Analytics slides](https://docs.google.com/presentation/d/1-P6DoGLG0CkWuQUfgqJ3MZSJoxZPF_HuX3WkK7fBQEQ/edit#slide=id.g92989c8d88_0_0)
-* Observable/Vega-Lite intro notebook - *to be added*
+Materials/Agenda:
+* Visual Analytics ([slides](https://docs.google.com/presentation/d/1-P6DoGLG0CkWuQUfgqJ3MZSJoxZPF_HuX3WkK7fBQEQ/edit#slide=id.g92989c8d88_0_0))
+* Quick tour of [Observable](https://observablehq.com/@observablehq/a-taste-of-observable)
+* Quick refresher on [Vega-Lite](https://observablehq.com/collection/@observablehq/observable-for-vega-lite)
+* [Intro to Arquero](https://observablehq.com/@uwdata/introducing-arquero) - library for query processing and transformation of array-backed data tables
+* Breakout session - using Arquero and Vega-Lite in Observable to create simple charts
+   * fork the [CS 725-S22 Vega-Lite Breakout Observable notebook](https://observablehq.com/@weiglemc/cs-725-s22-vega-lite-breakout-notebook) to get started
 
 Assignment: 
 * HW1 - *to be added*
-* Review Week 3 materials before class
+* Review next week's materials before class
 
 ## Week 3
 **Tues, Jan 25**
