@@ -66,11 +66,11 @@ Use Vega-Lite in Observable to create the following charts. All charts should co
   * y: {number PCR given, number PCR positive} per lab report day
   * sum data over all health districts for each report day
   * two separate line charts in a single row (hint: use `repeat()` and `columns(2)`)
-4. Layered Chart -  time series of number PCR tests given, number PCR tests positive in VA over time
+4. Layered Line Chart -  time series of number PCR tests given, number PCR tests positive in VA over time
   * x: time
   * y: {number PCR given, number PCR positive} per lab report day
   * sum data over all health districts for each report day (same data as previous chart)
-  * single chart with number of PCR tests given as an area mark and number of positive PCR tests as line mark with color `#f6ac23`
+  * single chart with number of PCR tests given as line mark (default color) and number of positive PCR tests as line mark with color `#f6ac23`
 5. Faceted Line Chart - time series of % PCR positivity for HR health districts
   * filter for only the Hampton Roads health districts
   * x: time
