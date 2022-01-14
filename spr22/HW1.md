@@ -37,7 +37,7 @@ This dataset contains data similar to that displayed at the [VDH Testing - Coron
 
 There is some data cleaning that will need to be performed on the data before charts can be created.  I would encourage the use of the [Arquero library](https://uwdata.github.io/arquero/api/) for this.
 * Remove any row where the `lab_report_date` is "Not Reported".
-* Remove any row where the `health_district` is "Out of State".
+* Remove any row where the `health_district` is "Out of State" or "Unknown".
 * Remove any row where the number of PCR tests given is less than 100 (small sample sizes can result in artificially large positivity rates).
 
 You will also need to calculate the positivity rate (or, % positivity) for PCR tests.  As explained in [COVID-19 Testing: Understanding the “Percent Positive”](https://publichealth.jhu.edu/2020/covid-19-testing-understanding-the-percent-positive) from Johns Hopkins, the percent positivity is calculated as (positive tests)/(total tests) x 100%. Create this derived data from the number of PCR tests given and the number of positive PCR tests.
