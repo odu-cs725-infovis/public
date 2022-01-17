@@ -54,6 +54,7 @@ JSON vs. API style
 Arquero - dplyr-like data manipulation in JavaScript
 * [Introducing Arquero](https://observablehq.com/@uwdata/introducing-arquero)
 * [Arquero API Reference](https://uwdata.github.io/arquero/api/)
+* [Arquero Notebook Collection](https://observablehq.com/collection/@uwdata/arquero)
 
 [CS 725/825, S22 Observable Collection](https://observablehq.com/collection/@weiglemc/cs-725-825-spring-2022) - public notebooks for this semester
 
