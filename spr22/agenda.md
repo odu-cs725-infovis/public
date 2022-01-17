@@ -41,6 +41,7 @@ Materials/Agenda:
 Assignment: 
 * HW1 - *to be added*
 * Review next week's materials before class
+   * in particular, start experimenting with the "Introduction to D3, Part 1" notebook and tutorials in the "Learn D3 Collection" in [Week 3 resources](resources.md#week-3)
 
 ## Week 3
 **Tues, Jan 25**
