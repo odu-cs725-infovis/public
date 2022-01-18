@@ -30,6 +30,7 @@ Observable
 * [A Minimal Introduction to JavaScript and Observable](https://observablehq.com/@uwdata/a-minimal-introduction-to-javascript-and-observable)
 * [Observable/GitHub flavored Markdown summary](https://observablehq.com/@ajlimbert/github-flavored-markdown-cheatsheet-observable)
 * [Introduction to Data](https://observablehq.com/@observablehq/introduction-to-data)
+* [Introducing Visual Dataflow](https://observablehq.com/@observablehq/introducing-visual-dataflow) (Minimap)
 
 Vega-Lite API style
 * [Vega-Lite API Reference](https://vega.github.io/vega-lite-api/api/)
@@ -52,6 +53,7 @@ JSON vs. API style
 * [CS 625 notes on JSON vs. API style](https://github.com/odu-cs625-datavis/public/blob/main/fall21/vega-lite.md)
 
 Arquero - dplyr-like data manipulation in JavaScript
+* [Arquero](https://github.com/uwdata/arquero/blob/master/README.md)
 * [Introducing Arquero](https://observablehq.com/@uwdata/introducing-arquero)
 * [Arquero API Reference](https://uwdata.github.io/arquero/api/)
 * [Arquero Notebook Collection](https://observablehq.com/collection/@uwdata/arquero)
