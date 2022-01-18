@@ -39,9 +39,9 @@ Materials/Agenda:
    * fork the [CS 725-S22 Vega-Lite Breakout Observable notebook](https://observablehq.com/@weiglemc/cs-725-s22-vega-lite-breakout-notebook) to get started
 
 Assignment: 
-* HW1 - *to be added*
+* [HW1](HW1.md) - Vega-Lite Intro
 * Review next week's materials before class
-   * in particular, start experimenting with the "Introduction to D3, Part 1" notebook and tutorials in the "Learn D3 Collection" in [Week 3 resources](resources.md#week-3)
+   * in particular, fork and start experimenting with the D3 Observable notebook (*to be added*)
 
 ## Week 3
 **Tues, Jan 25**
