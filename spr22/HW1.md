@@ -46,13 +46,19 @@ For some charts, you will need to filter to include data from only the latest re
 
 For some charts, you will need to filter to include data from only health districts in Hampton Roads.  The following JavaScript code creates a Set with the names of the HR districts.  You can use this along with the `has()` function to determine if a health district in the dataset belongs to this group.
 ```javascript
-hr_districts = new Set(["Western Tidewater", "Peninsula", "Chesapeake", "Virginia Beach", "Norfolk", "Portsmouth", "Hampton"])
+hr_districts = new Set(["Western Tidewater", "Peninsula", "Chesapeake", 
+                        "Virginia Beach", "Norfolk", "Portsmouth", "Hampton"])
 ```
 
-### Charts to Create
+### Charts
 
-Use Vega-Lite in Observable to create the following charts. All charts should contain helpful [tooltips](https://vega.github.io/vega-lite/docs/tooltip.html), appropriate axis labels, and an informative chart title. If possible, your chart title should be a headline (i.e., an interesting observation) instead of just a description of the chart. Information about the data source should be noted in the chart [subtitle](https://vega.github.io/vega-lite/docs/title.html).
+All charts must contain:
+* helpful [tooltips](https://vega.github.io/vega-lite/docs/tooltip.html)
+* appropriate axis labels
+* an informative chart title, ideally this should be a headline (i.e., an interesting observation) instead of just a description of the chart
+* a [subtitle](https://vega.github.io/vega-lite/docs/title.html) that contains information about the data source
 
+Use Vega-Lite in Observable to create the following charts. 
 1. Scatterplot 1 - number of PCR tests administered vs. PCR positivity rate
   * x: number of PCR tests given
   * y: % PCR positivity
