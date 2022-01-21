@@ -31,7 +31,7 @@ Due (before class):
 * Read Keim et al., [Visual Analytics: Definition, Process, and Challenges](https://d-nb.info/1098134664/34), *Information Visualization*, 2008
 
 Materials/Agenda:
-* Visual Analytics ([slides](https://docs.google.com/presentation/d/1-P6DoGLG0CkWuQUfgqJ3MZSJoxZPF_HuX3WkK7fBQEQ/edit#slide=id.g92989c8d88_0_0))
+* Visual Analytics slides ([Week-02-Visual-Analytics](https://docs.google.com/presentation/d/1-P6DoGLG0CkWuQUfgqJ3MZSJoxZPF_HuX3WkK7fBQEQ/edit#slide=id.g92989c8d88_0_0))
 * Quick tour of [Observable](https://observablehq.com/@observablehq/a-taste-of-observable)
 * Quick refresher on [Vega-Lite](https://observablehq.com/collection/@observablehq/observable-for-vega-lite)
 * [Intro to Arquero](https://observablehq.com/@uwdata/introducing-arquero) - library for query processing and transformation of array-backed data tables
