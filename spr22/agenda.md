@@ -44,10 +44,21 @@ Assignment:
    * in particular, fork and start experimenting with the D3 Observable notebook (*to be added*)
 
 ## Week 3
-**Tues, Jan 25**
+**Tues, Jan 25** - IEEE VIS Conferences, Reading Papers, D3 Principles and Data Manipulation
 
 [References and Additional Resources for Week 3](resources.md#week-3)
 
+Due (before 11:59pm on Wed):
+* HW1
+
+Materials 
+* IEEE VIS slides ([Week-03-VIS](https://docs.google.com/presentation/d/1G4x1PqiADpeTJmbXA2wkq5u2TBqvklBYPq0Jt_Y9uSs/edit#slide=id.p1))
+* Reading Academic Papers slides from CS 800 ([Week-03b-Reading](https://docs.google.com/presentation/d/1iCAQLektZfcHzJi95StyGhzhAc-zjhi2cDmII3_Tlik/edit#slide=id.p1))
+* [D3 Data Intro](https://observablehq.com/@weiglemc/d3-data-intro/2)
+
+**Assignment**
+* HW2 - *to be added*
+* Review next week's materials before class
 
 ## Week 4
 **Tues, Feb 1**
