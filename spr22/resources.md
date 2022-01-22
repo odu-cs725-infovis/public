@@ -62,7 +62,73 @@ Arquero - dplyr-like data manipulation in JavaScript
 
 
 ## Week 3
-**Tues, Jan 25** 
+**Tues, Jan 25** - IEEE VIS Conferences, D3 Principles and Data Manipulation
+
+IEEE VIS
+* [Things are Changing in 2021](http://ieeevis.org/year/2021/blog/things-are-changing-2021)
+* https://www.ieee-vis.org
+* Papers lists from previous conferences:
+  * http://ieeevis.org/year/2019/info/papers-sessions
+  * http://ieeevis.org/year/2020/info/papers-sessions
+  * http://ieeevis.org/year/2021/info/papers-sessions
+* IEEE Xplore - https://ieeexplore-ieee-org.proxy.lib.odu.edu/Xplore/home.jsp
+* [IEEE VisWeek Papers on the Web](http://www.cad.zju.edu.cn/home/vagblog/vispapers.html)
+* [IEEE Transactions on Visualization and Computer Graphics (TVCG)](https://www.computer.org/csdl/journal/tg)
+  * [TVCG @ IEEE Xplore](https://ieeexplore-ieee-org.proxy.lib.odu.edu/xpl/RecentIssue.jsp?punumber=29456754)
+  * VIS 2019 ([TVCG, No. 1, Jan 2020](https://ieeexplore-ieee-org.proxy.lib.odu.edu/xpl/tocresult.jsp?isnumber=8911289&punumber=2945))
+  * VIS 2020 ([TVCG, No. 2, Feb 2021](https://ieeexplore-ieee-org.proxy.lib.odu.edu/xpl/tocresult.jsp?isnumber=9340023&punumber=2945)) 
+  * VIS 2021 ([TVCG, No. 1, Jan 2022](https://ieeexplore-ieee-org.proxy.lib.odu.edu/xpl/tocresult.jsp?isnumber=9663056&punumber=2945)) 
+* [Vispubdata](https://sites.google.com/site/vispubdata/home)
+* [IEEE Anthology Vis](https://visav.vizhub.ai/)
+
+Past VIS Reflections
+* Robert Kosara, [VIS 2016 – Tuesday](https://eagereyes.org/blog/2016/vis-2016-tuesday)
+* Robert Kosara, [VIS 2016 – Wednesday, Thursday: Papers and the Death of SciVis](https://eagereyes.org/blog/2016/vis-2016-wednesday-thursday-papers-and-the-death-of-scivis)
+* Robert Kosara, [VIS 2016 – Thursday, Friday: Empirical Methods, Better Presentations](https://eagereyes.org/blog/2016/vis-2016-thursday-friday-empirical-methods-better-presentations)
+* Robert Kosara, [IEEE VIS 2017: Machine Learning, Diversity, Parties](https://eagereyes.org/blog/2017/ieee-vis-2017-machine-learning-diversity-parties)
+* Robert Kosara, [IEEE VIS 2017: Perception, Evaluation, Vision Science](https://eagereyes.org/blog/2017/ieee-vis-2017-perception-evaluation-vision)
+* Robert Kosara, [IEEE VIS 2017: Word Clouds, Stories, Interaction](https://eagereyes.org/blog/2017/ieee-vis-2017-word-clouds-sparklines-stories-interaction)
+* Robert Kosara, [IEEE VIS 2017: Best Papers and Other Awards](https://eagereyes.org/blog/2017/ieee-vis-2017-best-papers-keynote-capstone)
+* Robert Kosara, [IEEE VIS 2018, Part 1: VisComm, VisInPractice, BELIV, Best Papers](https://eagereyes.org/blog/2018/ieee-vis-2018-viscomm-visinpractice-beliv-best-papers)
+* Robert Kosara, [IEEE VIS 2018, Part 2: Time, Evaluation, Dashboards, The Future of VIS](https://eagereyes.org/blog/2018/ieee-vis-2018-time-evaluation-dashboards-the-future-of-vis)
+* Robert Kosara, [IEEE VIS 2018, Part 3: New Approaches, Meet the Founders, Perception and Cognition](https://eagereyes.org/blog/2018/ieee-vis-2018-storytelling-meet-the-founders-perception-and-cognition)
+* Theresa-Marie Rhyne, [A Snapshot View of IEEE VIS 2019](https://blog.siggraph.org/2019/12/a-snapshot-view-of-ieee-vis-2019.html/)
+* Michael Correll, [A Reflection on VIS2019: Or, How Doomed Are We?](https://medium.com/multiple-views-visualization-research-explained/a-reflection-on-vis2019-or-how-doomed-are-we-21b90d8b8ab5)
+* Theresa-Marie Rhyne and Georges Hattab, [A Snapshot View of IEEE VIS 2020](https://blog.siggraph.org/2020/11/a-snapshot-view-of-ieee-vis-2020.html/)
+* Alper Sarikaya, [VIS 2020 Recap](https://alper.datav.is/blog/2020/12/vis-2020-recap/)
+* Matt Brehmer, [Highlights from VIS 2020](https://medium.com/nightingale/highlights-from-ieee-vis-2020-d9ae98a5319e)
+* Theresa-Marie Rhyne and Georges Hattab, [A Snapshot View of IEEE VIS 2021](https://blog.siggraph.org/2021/11/a-snapshot-view-of-ieee-vis-2021.html/)
+
+Reading Academic Papers
+* [My Research Methods Guidelines](https://docs.google.com/document/d/1ZIlCog36OoNKymgWZkJ5D8142JQ19WGjbaqW34ymd_8/edit)
+* Example of off-campus access to ACM Digital Library, https://dl-acm-org.proxy.lib.odu.edu/doi/abs/10.5555/1218112.1218509
+* Example of off-campus access to IEEE Xplore, https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/6970187
+* Fatcat, https://fatcat.wiki/
+   * My papers: https://fatcat.wiki/release/search?q=michele+c.+weigle
+   * Example search for a particular paper, https://fatcat.wiki/release/search?q=Automatically+Selecting+Striking+Images+for+Social+Cards 
+   * Example search for a particular conference venue, https://fatcat.wiki/container/search?q=Joint+conference+on+digital+libraries  
+   * JCDL page, https://fatcat.wiki/container/kw2apmx5ynfyjf6jhs5gzrrx6e
+   * IEEE Transactions on Visualization and Computer Graphics page, https://fatcat.wiki/container/hjrujdrg7zaghbdsp5pdzq7cmm 
+* Internet Archive Scholar, https://scholar.archive.org/
+   * My papers: https://scholar.archive.org/search?q=michele+c.+weigle 
+   * Example search for a particular paper, https://scholar.archive.org/search?q=automatically+selecting+striking+images+for+social+cards 
+* S. Keshav, [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
+* [Reading Papers](https://www.cs.odu.edu/~jbrunelle/cs891/lectures/03_reading_papers.pdf) (pdf), lecture slides from Dr. Brunelle's CS 891, Spring 2019
+* William Griswold, [How to Read an Engineering Research Paper](http://www.cs.ucsd.edu/users/wgg/CSE210/howtoread.html)
+* [Example of marking up a paper](https://drive.google.com/open?id=1UQeT9o-IvLhp5RAv1vAJ7DS-lXQdNW7E)
+* Jason Eisner, [How to Read a Technical Paper](http://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
+* Michael Mitzenmacher, [How to Read a Research Paper](http://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
+* Tia Newhall, [Some Tips for Reading Research Papers](http://www.cs.swarthmore.edu/~newhall/cs97/s00/ReadingAdvice.html)
+
+D3 Data
+* NYU Visualization [Guides and Examples Collection](https://observablehq.com/collection/@nyuvis/guides-and-examples)
+* JavaScript
+  * [Docs @Mozilla Dev Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  * [Docs @W3Schools](https://www.w3schools.com/jsref/jsref_reference.asp)
+  * NYU Vis [JavaScript Basics](https://observablehq.com/@nyuvis/javascript-basics?collection=@nyuvis/guides-and-examples)
+* NYU Vis [Data Transformation](https://observablehq.com/@nyuvis/data-transformation)
+* NYU Vis [SVG and D3 Basics](https://observablehq.com/@nyuvis/d3-introduction?collection=@nyuvis/guides-and-examples)
+
 
 ## Week 4
 Feb 1
