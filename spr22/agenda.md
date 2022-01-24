@@ -57,7 +57,7 @@ Materials
 * [D3 Data Intro](https://observablehq.com/@weiglemc/d3-data-intro/2)
 
 **Assignment**
-* HW2 - *to be added*
+* [HW2](HW2.md) -  Data Manipulation
 * Review next week's materials before class
 
 ## Week 4
