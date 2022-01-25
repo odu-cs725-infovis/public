@@ -26,9 +26,9 @@ Assignment:
 
 ## Week 2
 
-**Tues, Jan 18** - Visual Analytics Principles, Vega-Lite 
-
 [References and Additional Resources for Week 2](resources.md#week-2)
+
+**Tues, Jan 18** - Visual Analytics Principles, Vega-Lite 
 
 Due (before class):
 
@@ -47,13 +47,13 @@ Assignment:
 
 * [HW1](HW1.md) - Vega-Lite Intro
 * Review next week's materials before class
-  * in particular, fork and start experimenting with the D3 Observable notebook (*to be added*)
+  * in particular, fork and start experimenting with the D3 Observable notebook
 
 ## Week 3
 
-**Tues, Jan 25** - IEEE VIS Conferences, Reading Papers, D3 Principles and Data Manipulation
-
 [References and Additional Resources for Week 3](resources.md#week-3)
+
+**Tues, Jan 25** - IEEE VIS Conferences, Reading Papers, D3 Principles and Data Manipulation
 
 Due (before 11:59pm on Wed):
 
@@ -72,13 +72,9 @@ Materials
 
 ## Week 4
 
-**Tues, Feb 1** - Giving Presentations, D3 Vis Intro
-
 [References and Additional Resources for Week 4](resources.md#week-4)
 
-Due (before 11:59pm on Wed):
-
-* HW2
+**Tues, Feb 1** - Giving Presentations, D3 Vis Intro
 
 Materials
 
@@ -92,17 +88,23 @@ Materials
 
 ## Week 5
 
+[References and Additional Resources for Week 5](resources.md#week-5)
+
 **Tues, Feb 8** - Handling Complexity in Data, D3 Vis
 
-[References and Additional Resources for Week 5](resources.md#week-5)
+Due (before 11:59pm on Wed):
+
+* HW2
 
 ## Week 6
 
-**Tues, Feb 15** - Graph Visualization, Interactivity in D3
-
 [References and Additional Resources for Week 6](resources.md#week-6)
 
+**Tues, Feb 15** - Graph Visualization, Interactivity in D3
+
 ## Week 7
+
+[References and Additional Resources for Week 7](resources.md#week-7)
 
 **Tues, Feb 22** - Dashboard Design, Implementing Dashboards in Vega-Lite and D3
 
@@ -110,15 +112,15 @@ Due (before 11:59pm on Wed):
 
 * HW3
 
-[References and Additional Resources for Week 7](resources.md#week-7)
-
 ## Week 8
-
-**Tues, Mar 1** - Project Discussion
 
 [References and Additional Resources for Week 8](resources.md#week-8)
 
+**Tues, Mar 1** - Project Discussion
+
 ## Week 9
+
+[References and Additional Resources for Week 9](resources.md#week-9)
 
 **Tues, Mar 15** - Visualizing Uncertainty
 
@@ -126,9 +128,9 @@ Due (before 11:59pm on Wed):
 
 * HW4
 
-[References and Additional Resources for Week 9](resources.md#week-9)
-
 ## Week 10
+
+[References and Additional Resources for Week 10](resources.md#week-10)
 
 **Tues, Mar 22** - VIS Paper Presentations
 
@@ -136,21 +138,21 @@ Due before class:
 
 * HW - presentation slides
 
-[References and Additional Resources for Week 10](resources.md#week-10)
-
 ## Week 11
-
-**Tues, Mar 29** - VIS Paper Presentations
 
 [References and Additional Resources for Week 11](resources.md#week-11)
 
-## Week 12
+**Tues, Mar 29** - VIS Paper Presentations
 
-**Tues, Apr 5** - VIS Paper Presentations
+## Week 12
 
 [References and Additional Resources for Week 12](resources.md#week-12)
 
+**Tues, Apr 5** - VIS Paper Presentations
+
 ## Week 13
+
+[References and Additional Resources for Week 13](resources.md#week-13)
 
 **Tues, Apr 12** - Project Demos
 
@@ -158,10 +160,8 @@ Due before class:
 
 * HW - project
 
-[References and Additional Resources for Week 13](resources.md#week-13)
-
 ## Week 14
 
-**Tues, Apr 19** - Project Demos
-
 [References and Additional Resources for Week 14](resources.md#week-14)
+
+**Tues, Apr 19** - Project Demos

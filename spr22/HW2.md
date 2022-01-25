@@ -1,5 +1,5 @@
 # Homework 2 - Data Manipulation
-**Due:** *Wednesday*, February 2, 2022 by 11:59pm
+**Due:** *Wednesday*, February 9, 2022 by 11:59pm
 
 Read the entire assignment before starting.
 
@@ -18,7 +18,7 @@ You will be using JavaScript and Vega-Lite in an Observable notebook for this as
 ```markdown
 # HW2 - CS 725/825, Spring 2022
 Your Name Here  
-Due: Feb 2, 2022
+Due: Due Date Here
 ```
 
 ### Datasets 
