@@ -1,6 +1,7 @@
 # References and Additional Resources
 
 ## Week 1
+
 **Tues, Jan 11** - Course Intro, Data Vis Overview
 
 Addtional Resources
@@ -20,12 +21,15 @@ Addtional Resources
 * [How to define a map’s bins to visualize your data](https://policyviz.com/2018/02/08/how-to-define-a-maps-bins-to-visualize-your-data/), Policy Viz
 
 ## Week 2
+
 **Tues, Jan 18** 
 
 Visual Analytics
+
 * Keim et al., [Visual Analytics: Definition, Process, and Challenges](https://d-nb.info/1098134664/34), *Information Visualization*, 2008
 
 Observable
+
 * [A Taste of Observable](https://observablehq.com/@observablehq/a-taste-of-observable)
 * [A Minimal Introduction to JavaScript and Observable](https://observablehq.com/@uwdata/a-minimal-introduction-to-javascript-and-observable)
 * [Observable/GitHub flavored Markdown summary](https://observablehq.com/@ajlimbert/github-flavored-markdown-cheatsheet-observable)
@@ -33,26 +37,30 @@ Observable
 * [Introducing Visual Dataflow](https://observablehq.com/@observablehq/introducing-visual-dataflow) (Minimap)
 
 Vega-Lite API style
+
 * [Vega-Lite API Reference](https://vega.github.io/vega-lite-api/api/)
 * [Observable for Vega-Lite](https://observablehq.com/collection/@observablehq/observable-for-vega-lite) - collection of intro notebooks
-    * [Charting with Vega-Lite](https://observablehq.com/@observablehq/vega-lite?collection=@observablehq/observable-for-vega-lite)
-    * [Vega-Lite Chart Types](https://observablehq.com/@observablehq/vega-lite-chart-types?collection=@observablehq/observable-for-vega-lite)
-    * [Layers and Facets and Concat, Oh My!](https://observablehq.com/@observablehq/layers-facets-concat?collection=@observablehq/observable-for-vega-lite)
+  * [Charting with Vega-Lite](https://observablehq.com/@observablehq/vega-lite?collection=@observablehq/observable-for-vega-lite)
+  * [Vega-Lite Chart Types](https://observablehq.com/@observablehq/vega-lite-chart-types?collection=@observablehq/observable-for-vega-lite)
+  * [Layers and Facets and Concat, Oh My!](https://observablehq.com/@observablehq/layers-facets-concat?collection=@observablehq/observable-for-vega-lite)
 * [UW's Data Visualization Curriculum](https://observablehq.com/@uwdata/data-visualization-curriculum) - collection of more detailed notebooks
-    * *won't be directly covered in class, but here for your reference*
-    * including [Introduction to Vega-Lite](https://observablehq.com/@uwdata/introduction-to-vega-lite), [Data Types, Graphical Marks, and Visual Encoding Channels](https://observablehq.com/@uwdata/data-types-graphical-marks-and-visual-encoding-channels), [Data Transformation](https://observablehq.com/@uwdata/data-transformation), [Scales, Axes, and Legends](https://observablehq.com/@uwdata/scales-axes-and-legends), [Multi-View Composition](https://observablehq.com/@uwdata/multi-view-composition), [Interaction](https://observablehq.com/@uwdata/interaction)
+  * *won't be directly covered in class, but here for your reference*
+  * including [Introduction to Vega-Lite](https://observablehq.com/@uwdata/introduction-to-vega-lite), [Data Types, Graphical Marks, and Visual Encoding Channels](https://observablehq.com/@uwdata/data-types-graphical-marks-and-visual-encoding-channels), [Data Transformation](https://observablehq.com/@uwdata/data-transformation), [Scales, Axes, and Legends](https://observablehq.com/@uwdata/scales-axes-and-legends), [Multi-View Composition](https://observablehq.com/@uwdata/multi-view-composition), [Interaction](https://observablehq.com/@uwdata/interaction)
 * [CS 625 Observable Collection](https://observablehq.com/collection/@weiglemc/cs625)
 
 Vega-Lite JSON-style
+
 * [Vega-Lite Reference](https://vega.github.io/vega-lite) (JSON-based)
 * [Vega Embed](https://github.com/vega/vega-embed)
 * [Hello Vega-Embed](https://observablehq.com/@vega/hello-vega-embed)
 
 JSON vs. API style
+
 * [Working with Vega-Lite](https://observablehq.com/@didoesdigital/working-with-vega-lite)
 * [CS 625 notes on JSON vs. API style](https://github.com/odu-cs625-datavis/public/blob/main/fall21/vega-lite.md)
 
 Arquero - dplyr-like data manipulation in JavaScript
+
 * [Arquero](https://github.com/uwdata/arquero/blob/master/README.md)
 * [Introducing Arquero](https://observablehq.com/@uwdata/introducing-arquero)
 * [Arquero API Reference](https://uwdata.github.io/arquero/api/)
@@ -60,11 +68,12 @@ Arquero - dplyr-like data manipulation in JavaScript
 
 [CS 725/825, S22 Observable Collection](https://observablehq.com/collection/@weiglemc/cs-725-825-spring-2022) - public notebooks for this semester
 
-
 ## Week 3
+
 **Tues, Jan 25** - IEEE VIS Conferences, D3 Principles and Data Manipulation
 
 IEEE VIS
+
 * [Things are Changing in 2021](http://ieeevis.org/year/2021/blog/things-are-changing-2021)
 * https://www.ieee-vis.org
 * Papers lists from previous conferences:
@@ -82,6 +91,7 @@ IEEE VIS
 * [IEEE Anthology Vis](https://visav.vizhub.ai/)
 
 Past VIS Reflections
+
 * Robert Kosara, [VIS 2016 – Tuesday](https://eagereyes.org/blog/2016/vis-2016-tuesday)
 * Robert Kosara, [VIS 2016 – Wednesday, Thursday: Papers and the Death of SciVis](https://eagereyes.org/blog/2016/vis-2016-wednesday-thursday-papers-and-the-death-of-scivis)
 * Robert Kosara, [VIS 2016 – Thursday, Friday: Empirical Methods, Better Presentations](https://eagereyes.org/blog/2016/vis-2016-thursday-friday-empirical-methods-better-presentations)
@@ -100,18 +110,19 @@ Past VIS Reflections
 * Theresa-Marie Rhyne and Georges Hattab, [A Snapshot View of IEEE VIS 2021](https://blog.siggraph.org/2021/11/a-snapshot-view-of-ieee-vis-2021.html/)
 
 Reading Academic Papers
+
 * [My Research Methods Guidelines](https://docs.google.com/document/d/1ZIlCog36OoNKymgWZkJ5D8142JQ19WGjbaqW34ymd_8/edit)
 * Example of off-campus access to ACM Digital Library, https://dl-acm-org.proxy.lib.odu.edu/doi/abs/10.5555/1218112.1218509
 * Example of off-campus access to IEEE Xplore, https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/6970187
 * Fatcat, https://fatcat.wiki/
-   * My papers: https://fatcat.wiki/release/search?q=michele+c.+weigle
-   * Example search for a particular paper, https://fatcat.wiki/release/search?q=Automatically+Selecting+Striking+Images+for+Social+Cards 
-   * Example search for a particular conference venue, https://fatcat.wiki/container/search?q=Joint+conference+on+digital+libraries  
-   * JCDL page, https://fatcat.wiki/container/kw2apmx5ynfyjf6jhs5gzrrx6e
-   * IEEE Transactions on Visualization and Computer Graphics page, https://fatcat.wiki/container/hjrujdrg7zaghbdsp5pdzq7cmm 
+  * My papers: https://fatcat.wiki/release/search?q=michele+c.+weigle
+  * Example search for a particular paper, https://fatcat.wiki/release/search?q=Automatically+Selecting+Striking+Images+for+Social+Cards 
+  * Example search for a particular conference venue, https://fatcat.wiki/container/search?q=Joint+conference+on+digital+libraries  
+  * JCDL page, https://fatcat.wiki/container/kw2apmx5ynfyjf6jhs5gzrrx6e
+  * IEEE Transactions on Visualization and Computer Graphics page, https://fatcat.wiki/container/hjrujdrg7zaghbdsp5pdzq7cmm 
 * Internet Archive Scholar, https://scholar.archive.org/
-   * My papers: https://scholar.archive.org/search?q=michele+c.+weigle 
-   * Example search for a particular paper, https://scholar.archive.org/search?q=automatically+selecting+striking+images+for+social+cards 
+  * My papers: https://scholar.archive.org/search?q=michele+c.+weigle 
+  * Example search for a particular paper, https://scholar.archive.org/search?q=automatically+selecting+striking+images+for+social+cards 
 * S. Keshav, [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
 * [Reading Papers](https://www.cs.odu.edu/~jbrunelle/cs891/lectures/03_reading_papers.pdf) (pdf), lecture slides from Dr. Brunelle's CS 891, Spring 2019
 * William Griswold, [How to Read an Engineering Research Paper](http://www.cs.ucsd.edu/users/wgg/CSE210/howtoread.html)
@@ -121,6 +132,7 @@ Reading Academic Papers
 * Tia Newhall, [Some Tips for Reading Research Papers](http://www.cs.swarthmore.edu/~newhall/cs97/s00/ReadingAdvice.html)
 
 D3 Data
+
 * NYU Visualization [Guides and Examples Collection](https://observablehq.com/collection/@nyuvis/guides-and-examples)
 * JavaScript
   * [Docs @Mozilla Dev Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -129,36 +141,60 @@ D3 Data
 * NYU Vis [Data Transformation](https://observablehq.com/@nyuvis/data-transformation)
 * NYU Vis [SVG and D3 Basics](https://observablehq.com/@nyuvis/d3-introduction?collection=@nyuvis/guides-and-examples)
 
-
 ## Week 4
-Feb 1
+
+**Tues, Feb 1** - Giving Presentations, D3 Vis Intro
+
+Presentation Slide References
+
+* Ashwin Ram, [Presenting a Paper](https://www.cc.gatech.edu/faculty/ashwin/wisdom/how-to-present-a-paper.html%20) - focuses on presenting others' work
+* Jiri Srba, [How to Read and Present a Scientific Paper](https://people.cs.aau.dk/~hans/Dat5/slides.pdf)
+* Nicholas Nethercote, [Giving a Good Research Talk](https://web.archive.org/web/20200220135851/http://njn.valgrind.org/good-talk.html)
+* Justin Brunelle, [Presenting Academic Research slides](https://www.cs.odu.edu/~jbrunelle/cs891/lectures/06_presenting101.pdf), from CS 891, Fall 2019
+* Tamara Munzner, http://www.cs.ubc.ca/~tmm/policy.txt 
+* Jones et al., [How to Give a Good Research Talk](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/giving-a-talk.pdf)
+* Arnaud Legout, [How To Give a Talk](http://cel.archives-ouvertes.fr/cel-00529505/en/) - comprehensive set of guidelines, includes advice on slide design
+* Jean-luc Doumont, [Creating Effective Slides](https://www.youtube.com/watch?v=meBXuTIPJQk), talk April 4, 2013 at Clark Center, Stanford Univeristy, video (1:03:03)
+* English Communication for Scientists, [Giving Oral Presentations](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/giving-oral-presentations-14239332) (includes delivering as a non-native speaker)
+
+D3 Vis Intro - *to be added*
 
 ## Week 5
-Feb 8
+
+**Tues, Feb 8** - Handling Complexity in Data, D3 Vis
 
 ## Week 6
-Feb 15
+
+**Tues, Feb 15** - Graph Visualization, Interactivity in D3
 
 ## Week 7
-Feb 22
+
+**Tues, Feb 22** - Dashboard Design, Implementing Dashboards in Vega-Lite and D3
 
 ## Week 8
-Mar 1
+
+**Tues, Mar 1** - Project Discussion
 
 ## Week 9
-Mar 15
+
+**Tues, Mar 15** - Visualizing Uncertainty
 
 ## Week 10
-Mar 22
+
+**Tues, Mar 22** - VIS Paper Presentations
 
 ## Week 11
-Mar 29
+
+**Tues, Mar 29** - VIS Paper Presentations
 
 ## Week 12
-Apr 5
+
+**Tues, Apr 5** - VIS Paper Presentations
 
 ## Week 13
-Apr 12
+
+**Tues, Apr 12** - Project Demos
 
 ## Week 14
-Apr 19
+
+**Tues, Apr 19** - Project Demos
