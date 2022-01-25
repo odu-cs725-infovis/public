@@ -157,7 +157,10 @@ Presentation Slide References
 * Jean-luc Doumont, [Creating Effective Slides](https://www.youtube.com/watch?v=meBXuTIPJQk), talk April 4, 2013 at Clark Center, Stanford Univeristy, video (1:03:03)
 * English Communication for Scientists, [Giving Oral Presentations](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/giving-oral-presentations-14239332) (includes delivering as a non-native speaker)
 
-D3 Vis Intro - *to be added*
+D3 Vis Intro - *more to be added*
+
+* [Video playlist for W209 Data Visualization at UC Berkeley's Masters in Data Science (MIDS) Program](
+https://www.youtube.com/playlist?list=PLmRfPZr9-VoGodduNBkPKoNNXeOBMmQGz) - includes web development basics, ObservableHQ, Intro to D3 with Observable, Intro to Vega-Lite with Observable, and more!
 
 ## Week 5
 
