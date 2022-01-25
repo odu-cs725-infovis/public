@@ -15,7 +15,7 @@ Due (before class):
 * Watch intro to data visualization videos
   * [Tamara Munzner's keynote at d3.unconf](https://www.youtube.com/watch?v=jVC6SQS23ak) (55:49) ([slides](https://www.cs.ubc.ca/~tmm/talks/minicourse14/vad15d3unconf.pdf))
     * at time 34:15 (slide 19) -- pause this video, watch the two below, then go back and finish this one
-  * My Intro to InfoVis lectures from CS 432/532 in the Media Gallery ([slides](https://docs.google.com/presentation/d/1dnKwKgOAWQ37QzHXxbbIZ-J4R8KYFO4Ss12VFkit-wA/edit?usp=sharing))
+  * My Intro to InfoVis lectures from CS 432/532 in the Media Gallery ([slides](https://docs.google.com/presentation/d/1dnKwKgOAWQ37QzHXxbbIZ-J4R8KYFO4Ss12VFkit-wA/preview?rm=minimal))
     * CS 432/532 - Mod 03, p1 - InfoVis Principles (12:15)
     * CS 432/532 - Mod 03, p2 - Visualization Idioms (12:39)
 * Create a new thread with at least one question in the [Vis Overview Forum](https://www.blackboard.odu.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_394424_1&nav=discussion_board_entry&conf_id=_457380_1&forum_id=_517326_1) in Blackboard. If you have a question about a particular point in one of the videos, make sure to note video, time, and slide number so that we can reference back to it. Review other students' questions and use the rating mechanism to endorse ones that you also have. We'll discuss these in class.
@@ -36,7 +36,7 @@ Due (before class):
 
 Materials/Agenda:
 
-* Visual Analytics slides ([Week-02-Visual-Analytics](https://docs.google.com/presentation/d/1-P6DoGLG0CkWuQUfgqJ3MZSJoxZPF_HuX3WkK7fBQEQ/edit#slide=id.g92989c8d88_0_0))
+* Visual Analytics slides ([Week-02-Visual-Analytics](https://docs.google.com/presentation/d/1-P6DoGLG0CkWuQUfgqJ3MZSJoxZPF_HuX3WkK7fBQEQ/preview?rm=minimal))
 * Quick tour of [Observable](https://observablehq.com/@observablehq/a-taste-of-observable)
 * Quick refresher on [Vega-Lite](https://observablehq.com/collection/@observablehq/observable-for-vega-lite)
 * [Intro to Arquero](https://observablehq.com/@uwdata/introducing-arquero) - library for query processing and transformation of array-backed data tables
@@ -61,8 +61,8 @@ Due (before 11:59pm on Wed):
 
 Materials
 
-* IEEE VIS slides ([Week-03-VIS](https://docs.google.com/presentation/d/1G4x1PqiADpeTJmbXA2wkq5u2TBqvklBYPq0Jt_Y9uSs/edit#slide=id.p1))
-* Reading Academic Papers slides from CS 800 ([Week-03b-Reading](https://docs.google.com/presentation/d/1iCAQLektZfcHzJi95StyGhzhAc-zjhi2cDmII3_Tlik/edit#slide=id.p1))
+* IEEE VIS slides ([Week-03-VIS](https://docs.google.com/presentation/d/1G4x1PqiADpeTJmbXA2wkq5u2TBqvklBYPq0Jt_Y9uSs/preview?rm=minimal))
+* Reading Academic Papers slides from CS 800 ([Week-03b-Reading](https://docs.google.com/presentation/d/1iCAQLektZfcHzJi95StyGhzhAc-zjhi2cDmII3_Tlik/preview?rm=minimal))
 * [D3 Data Intro](https://observablehq.com/@weiglemc/d3-data-intro/2)
 
 **Assignment**
