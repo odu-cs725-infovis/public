@@ -79,7 +79,7 @@ Materials
 Materials
 
 * Academic Communication - presenting slides from CS 800 ([Week-06-Presenting](https://docs.google.com/presentation/d/1bCCL7bw5j41e3se3oLH-qakLT0P0GKFhec5T8EZ9FXs/edit#slide=id.p1))
-* D3 Vis Intro - *to be added*
+* [D3 Vis Intro](https://observablehq.com/@weiglemc/cs725-s22-d3-vis-intro)
 
 **Assignment**
 
