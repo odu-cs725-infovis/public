@@ -83,7 +83,7 @@ Materials
 
 **Assignment**
 
-* HW - Academic Paper Presentation - *to be added*
+* [Academic Paper Presentation](presentation.md)
 * Review next week's materials before class
 
 ## Week 5

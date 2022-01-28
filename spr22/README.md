@@ -29,15 +29,15 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |[1](agenda.md#week-1)|Jan 11<br/>ONLINE|Course Intro, Data Vis Overview | [Personal Intro](https://www.blackboard.odu.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_394424_1&nav=discussion_board_entry&conf_id=_457380_1&forum_id=_495686_1) | Personal Intro|
 |[2](agenda.md#week-2)|Jan 18<br/>ONLINE|Visual Analytics Principles, Vega-Lite Intro | [HW1](HW1.md) |  |
 |[3](agenda.md#week-3)|Jan 25<br/>ONLINE|IEEE VIS Conferences, Reading Academic Papers, D3 Principles and Data Manipulation | [HW2](HW2.md) | HW1 (Jan 26) |
-|[4](agenda.md#week-4)|Feb 1| Giving Presentations, D3 Vis Intro  | HW - presentation |  |
+|[4](agenda.md#week-4)|Feb 1| Giving Presentations, D3 Vis Intro  | [paper presentation](presentation.md) |  |
 |[5](agenda.md#week-5)|Feb 8| Handling Complexity in Data, D3 Vis | HW3 | HW2 (Feb 9) |
-|[6](agenda.md#week-6)|Feb 15|Graph Visualization, Interactivity in D3 |  | |
+|[6](agenda.md#week-6)|Feb 15|Graph Visualization, Interactivity in D3 |  | paper selected|
 |[7](agenda.md#week-7)|Feb 22|Dashboard Design, Implementing Dashboards in Vega-Lite and D3 | HW4 | HW3 (Feb 23) |
-|[8](agenda.md#week-8)|Mar 1|Project Discussion | HW - project | |
+|[8](agenda.md#week-8)|Mar 1|Project Discussion | project | |
 ||Mar 8|**NO CLASS - Spring Break** | | |
 |[9](agenda.md#week-9)|Mar 15<br/>ONLINE|Visualizing Uncertainty - *tentative*  | | HW4 (Mar 16)|
-|[10](agenda.md#week-10)| Mar 22|VIS Paper Presentations | | HW - presentation |
+|[10](agenda.md#week-10)| Mar 22|VIS Paper Presentations | | paper  presentation |
 |[11](agenda.md#week-11)| Mar 29|VIS Paper Presentations | | |
 |[12](agenda.md#week-12)| Apr 5|VIS Paper Presentations | | |
-|[13](agenda.md#week-13)| Apr 12|Project Demos | | HW - project |
+|[13](agenda.md#week-13)| Apr 12|Project Demos | | project |
 |[14](agenda.md#week-14)| Apr 19|Project Demos | | |
