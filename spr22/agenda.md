@@ -84,6 +84,7 @@ Materials
 **Assignment**
 
 * [Academic Paper Presentation](presentation.md)
+  * Required reading: Tamara Munzner, ["Process and Pitfalls in Writing Information Visualization Research Papers"](http://www.cs.ubc.ca/labs/imager/tr/2008/pitfalls/pitfalls.pdf), 2008.
 * Review next week's materials before class
 
 ## Week 5
@@ -101,6 +102,10 @@ Due (before 11:59pm on Wed):
 [References and Additional Resources for Week 6](resources.md#week-6)
 
 **Tues, Feb 15** - Graph Visualization, Interactivity in D3
+
+Due (before class):
+
+* Paper selection for presentation
 
 ## Week 7
 
@@ -136,7 +141,7 @@ Due (before 11:59pm on Wed):
 
 Due before class:
 
-* HW - presentation slides
+* paper presentation slides
 
 ## Week 11
 
@@ -158,7 +163,7 @@ Due before class:
 
 Due before class:
 
-* HW - project
+* project
 
 ## Week 14
 
