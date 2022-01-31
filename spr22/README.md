@@ -1,6 +1,6 @@
 # ODU CS 725/825 - Information Visualization & Data Analytics, Spring 2022
 
-Tu 4:20-7pm, [MGB 0127](https://www.odu.edu/ts/labs-classrooms/technology-classrooms/mgb) and online via Zoom
+Tu 4:20-7pm, ECSB 3316 (3rd floor conference room) (originally [MGB 0127](https://www.odu.edu/ts/labs-classrooms/technology-classrooms/mgb)) and online via Zoom
 
 ## Links
 
