@@ -2,6 +2,8 @@
 
 Give a 15-20 minute presentation on an academic paper from the IEEE VIS conference. The presentations will be scheduled during class on **March 22, March 29, April 5** with 4 presentations per class meeting.
 
+**Required pre-reading:** Tamara Munzner, ["Process and Pitfalls in Writing Information Visualization Research Papers"](http://www.cs.ubc.ca/labs/imager/tr/2008/pitfalls/pitfalls.pdf), 2008.
+
 ## Mechanics
 
 Paper selection and scheduling will be done through the Blackboard Discussion Board in the "Presentation" forum.  See the "Paper Selection" thread for information on how to register your selection. Once all papers have been chosen, we'll start scheduling the presentations in a similar manner.  See [Suggested Papers](papers.md) for a list of suggested papers, but you may request approval to present any other IEEE VIS paper. All papers must be selected by **Tuesday, February 15** *before class*.
@@ -16,11 +18,13 @@ I would prefer for all students to deliver their presentations live.  If you liv
 
 The goal of the presentation is to teach us about the paper.  To do this, you must be able to identify and understand the main points of the paper and present them in a clear manner.  
 
+*All presentations must classify their paper into one of the five paper types discussed in Munzner's paper (see above) and justify/explain their classification.*
+
 ***Don't wait until the last minute to start preparing this.*** If the paper is about something that is not familiar to you, you may need to do some outside research on the topic.  Odds are, if the topic is unfamiliar to you, it is also unfamiliar to your classmates.  You should include enough background information in your presentation so that everyone can understand the main points of the paper.
 
 Refer back to the [Reading Academic Papers slides](https://docs.google.com/presentation/d/1iCAQLektZfcHzJi95StyGhzhAc-zjhi2cDmII3_Tlik/preview?rm=minimal) while studying your paper and focus on the questions asked on slide 20.
 
-Some papers may have an associated 30-second video (for example, see the [VIS 2019 30-second Videos](https://vimeo.com/groups/vis19preview)).  These might be good to incorporate into your presentation, especially if the paper is describing an interactive system.  (Do not show a video just because one exists -- it must be helpful for the presentation.) 
+Some papers may have an associated 30-second video (for example, see the [VIS 2019 30-second Videos](https://vimeo.com/groups/vis19preview)).  These might be good to incorporate into your presentation, especially if the paper is describing an interactive system.  (Do not show a video just because one exists -- it must be helpful for the presentation.)
 
 ## Grading
 
@@ -36,11 +40,12 @@ Your grade will largely be based on how well you demonstrate understanding of th
 
 You may use Google Slides, PowerPoint, or something that generates PDF to create your slides.  
 
-***Slides must be your own work!*** You may find the authors' slides online.  While these may be helpful to look at, you are not allowed to copy them.  (If there are figures from the paper or presentation that would be helpful in your presentation, you may use them, but *you must include an acknowledgement on the slide*.) The main goal of this assignment is for you to summarize the paper and teach it to the class.  This means that you must organize and develop the slides yourself. 
+***Slides must be your own work!*** You may find the authors' slides online.  While these may be helpful to look at, you are not allowed to copy them.  (If there are figures from the paper or presentation that would be helpful in your presentation, you may use them, but *you must include an acknowledgement on the slide*.) The main goal of this assignment is for you to summarize the paper and teach it to the class.  This means that you must organize and develop the slides yourself.
 
 Please refer back to the [Academic Communication - presenting slides](https://docs.google.com/presentation/d/1bCCL7bw5j41e3se3oLH-qakLT0P0GKFhec5T8EZ9FXs/edit) while preparing your presentation.  All of the guidelines we discussed are applicable for this assignment.
 
 Your title slide must contain the following information:
+
 * Title of paper
 * Authors
 * Venue (conference)
@@ -56,6 +61,7 @@ You must have a conclusion slide that provides a summary of the main points of t
 ### Delivery
 
 Here's what I expect in terms of the actual delivery of the presentation:
+
 * Speak clearly and at an appropriate volume and speed
 * Try to maintain eye contact with the audience (for Zoom - look at your camera)
 * Demonstrate that you are prepared and have practiced the talk
@@ -74,6 +80,7 @@ Students who are not presenting also have responsibilities.
 ## Submission
 
 Before class on **Tuesday, March 22**, submit your slides via Blackboard:
+
 * Click on Academic Paper Presentation under Assignments.
 * Under "Assignment Submission", either upload the slides or post the link under "Write Submission" if they're in Google Slides.
 * Make sure to "Submit" your assignment, or I will not be able to find your slides.

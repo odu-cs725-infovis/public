@@ -1,19 +1,24 @@
 # Suggested Papers
 
-This is a list of suggested papers from IEEE VIS 2019-2021, along with an older paper. All of these can be accessed through IEEE Xplore via ODU. If you are interested in a paper not on this list, contact me for approval first. Your paper must be selected by **Tues, Feb 15** *before class*.
+This is a list of suggested papers from IEEE VIS 2019-2021, along with a couple older papers. All of these can be accessed through IEEE Xplore via ODU. If you are interested in a paper not on this list, contact me for approval first. Your paper must be selected by **Tues, Feb 15** *before class*.
 
 Suggestion: From just the titles, select 5 papers to download and perform Keshav's 1st pass on.  This will help you to determine an appropriate paper.  If you don't find one that you're interested in from those 5, try another 5, but you don't need to read all of the papers before selecting one.
 
 ## Pre-2019
 
-http://www.cad.zju.edu.cn/home/vagblog/vispapers.html
-
 1. Graph-Theoretic Scagnostics  
 Authors: Leland Wilkinson, Anushka Anand, Robert Grossman  
 IEEE InfoVis 2005
+1. Graphical Inference for Infovis  
+Authors: Hadley Wickham, Dianne Cook, Heike Hofmann, Andreas Buja  
+IEEE InfoVis 2010
+1. Overview: The Design, Adoption, and Analysis of a Visual Document Mining Tool For Investigative Journalists  
+Authors: Matthew Brehmer, Stephen Ingram, Jonathan Stray, and Tamara Munzner  
+IEEE InfoVis 2014
 
 ## IEEE VIS 2019
-http://www.cad.zju.edu.cn/home/vagblog/vispapers/vis2019.html
+
+<http://www.cad.zju.edu.cn/home/vagblog/vispapers/vis2019.html>
 
 1. A Comparative Evaluation of Animation and Small Multiples for Trend Visualization on Mobile Phones  
 Authors: Matthew Brehmer, Bongshin Lee, Petra Isenberg, Eun Kyoung Choe
@@ -29,7 +34,8 @@ Authors: Enamul Hoque, Maneesh Agrawala
 Authors: Hannah Kim, Dongjin Choi, Barry Drake, Alex Endert, Haesun Park
 
 ## IEEE VIS 2020
-http://ieeevis.org/year/2020/info/papers-sessions
+
+<http://ieeevis.org/year/2020/info/papers-sessions>
 
 1. Visual Reasoning Strategies for Effect Size Judgments and Decisions
 (Best Paper Award)  
@@ -48,7 +54,8 @@ Authors: Xiao Xie, Jiachen Wang, Hongye Liang, Dazhen Deng, Shoubin Cheng, Hui Z
 Authors: Arjun Choudhry, Mandar Sharma, Pramod Chundury, Thomas Kapler, Derek Gray, Naren Ramakrishnan, Niklas Elmqvist
 
 ## IEEE VIS 2021
-http://ieeevis.org/year/2021/info/papers-sessions
+
+<http://ieeevis.org/year/2021/info/papers-sessions>
 
 *Caveat:* I haven't looked at these yet, but either the title looked interesting or the authors are well-known for excellent papers
 
