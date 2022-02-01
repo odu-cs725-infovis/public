@@ -97,6 +97,14 @@ Due (before 11:59pm on Wed):
 
 * HW2
 
+Materials:
+
+* Handling Complexity in Data slides ([Week-05-Complexity](https://docs.google.com/presentation/d/14ddgduj5kJ-JzJ-_pTkzOKmbO9NlSVuJcUX_IZLr7n0/preview?rm=minimal))
+  * [Flat and Hierarchical Clustering | The Dendrogram Explained](https://www.youtube.com/watch?v=ijUMKMC4f9I) (8:26)
+  * [K Means Clustering: Pros and Cons of K Means Clustering](https://www.youtube.com/watch?v=YIGtalP1mv0) (watch up to time 4:44)
+* [Clustering Example with Vega-Lite](https://observablehq.com/@weiglemc/clustering-example-with-vega-lite)
+* D3 Vis materials - *to be added*
+
 ## Week 6
 
 [References and Additional Resources for Week 6](resources.md#week-6)

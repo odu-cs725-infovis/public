@@ -171,10 +171,20 @@ https://www.youtube.com/playlist?list=PLmRfPZr9-VoGodduNBkPKoNNXeOBMmQGz) - incl
 * [D3 API Reference](https://github.com/d3/d3/blob/main/API.md)
 * [NYU Visualization Guides and Examples Collection](https://observablehq.com/collection/@nyuvis/guides-and-examples)
 
-
 ## Week 5
 
 **Tues, Feb 8** - Handling Complexity in Data, D3 Vis
+
+Clustering
+
+* Segaran, [*Programming Collective Intelligence*](https://go.oreilly.com/old-dominion-university/library/view/programming-collective-intelligence/9780596529321/) - textbook used in CS 432/532, includes lots of Python code examples
+* K-Means
+  * [K-means Clustering Python Example](https://towardsdatascience.com/machine-learning-algorithms-part-9-k-means-example-in-python-f2ad05ed5203)
+  * [Visualizing K-Means Algorithm](http://tech.nitoyon.com/en/blog/2013/11/07/k-means/)
+  * [K-Means Walkthrough in Observable](https://observablehq.com/@andreaskdk/k-means)
+  * [kmeans() in Observable](https://observablehq.com/@spond/k-means-clustering-algorithm)
+
+D3 Vis - *to be added*
 
 ## Week 6
 
