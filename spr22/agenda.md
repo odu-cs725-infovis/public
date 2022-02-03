@@ -59,13 +59,13 @@ Due (before 11:59pm on Wed):
 
 * HW1
 
-Materials
+Materials:
 
 * IEEE VIS slides ([Week-03-VIS](https://docs.google.com/presentation/d/1G4x1PqiADpeTJmbXA2wkq5u2TBqvklBYPq0Jt_Y9uSs/preview?rm=minimal))
 * Reading Academic Papers slides from CS 800 ([Week-03b-Reading](https://docs.google.com/presentation/d/1iCAQLektZfcHzJi95StyGhzhAc-zjhi2cDmII3_Tlik/preview?rm=minimal))
 * [D3 Data Intro](https://observablehq.com/@weiglemc/d3-data-intro/2)
 
-**Assignment**
+Assignment:
 
 * [HW2](HW2.md) -  Data Manipulation
 * Review next week's materials before class
@@ -76,12 +76,12 @@ Materials
 
 **Tues, Feb 1** - Giving Presentations, D3 Vis Intro
 
-Materials
+Materials:
 
 * Academic Communication - presenting slides from CS 800 ([Week-06-Presenting](https://docs.google.com/presentation/d/1bCCL7bw5j41e3se3oLH-qakLT0P0GKFhec5T8EZ9FXs/edit#slide=id.p1))
 * [D3 Vis Intro](https://observablehq.com/@weiglemc/cs725-s22-d3-vis-intro)
 
-**Assignment**
+Assignment:
 
 * [Academic Paper Presentation](presentation.md)
   * Required reading: Tamara Munzner, ["Process and Pitfalls in Writing Information Visualization Research Papers"](http://www.cs.ubc.ca/labs/imager/tr/2008/pitfalls/pitfalls.pdf), 2008.
@@ -103,7 +103,16 @@ Materials:
   * [Flat and Hierarchical Clustering | The Dendrogram Explained](https://www.youtube.com/watch?v=ijUMKMC4f9I) (8:26)
   * [K Means Clustering: Pros and Cons of K Means Clustering](https://www.youtube.com/watch?v=YIGtalP1mv0) (watch up to time 4:44)
 * [Clustering Example with Vega-Lite](https://observablehq.com/@weiglemc/clustering-example-with-vega-lite)
-* D3 Vis materials - *to be added*
+* D3 Intro notebooks
+  * [Bar Chart](https://observablehq.com/@weiglemc/cs725-s22-d3-intro-bar-chart?collection=@weiglemc/cs-725-825-spring-2022)
+  * [Scatterplot](https://observablehq.com/@weiglemc/cs725-s22-d3-intro-scatterplot?collection=@weiglemc/cs-725-825-spring-2022)
+  * [Line and Area Charts](https://observablehq.com/@weiglemc/cs725-s22-d3-intro-line-and-area-charts?collection=@weiglemc/cs-725-825-spring-2022)
+  * Layered Line and Area Charts - *to be added*
+
+Assignment:
+
+* HW3
+* Review next week's materials before class
 
 ## Week 6
 

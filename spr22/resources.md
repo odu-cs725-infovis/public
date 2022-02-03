@@ -184,7 +184,12 @@ Clustering
   * [K-Means Walkthrough in Observable](https://observablehq.com/@andreaskdk/k-means)
   * [kmeans() in Observable](https://observablehq.com/@spond/k-means-clustering-algorithm)
 
-D3 Vis - *to be added*
+D3 Vis
+
+* [NYU Vis Bar Chart Walkthrough](https://observablehq.com/@nyuvis/bar-chart-walk-through)
+* [NYU Vis SVG and D3 Basics Practice](https://observablehq.com/@nyuvis/svg-and-d3-basics-practice-solutions) - scatterplot
+* [NYU Vis Lines and Maps](https://observablehq.com/@nyuvis/lines-and-maps) - line and area charts
+* [NYT Vis Graphical Encoding Examples](https://observablehq.com/@nyuvis/graphical-encoding-examples) - layered line charts, small multiple area charts
 
 ## Week 6
 
