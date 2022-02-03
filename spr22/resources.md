@@ -190,6 +190,9 @@ D3 Vis
 * [NYU Vis SVG and D3 Basics Practice](https://observablehq.com/@nyuvis/svg-and-d3-basics-practice-solutions) - scatterplot
 * [NYU Vis Lines and Maps](https://observablehq.com/@nyuvis/lines-and-maps) - line and area charts
 * [NYT Vis Graphical Encoding Examples](https://observablehq.com/@nyuvis/graphical-encoding-examples) - layered line charts, small multiple area charts
+* [Arquero and D3](https://observablehq.com/@uwdata/arquero-and-d3?collection=@uwdata/arquero)
+* [Multi-line chart data preparation in Arquero](https://observablehq.com/@uwdata/multi-line-chart-data-preparation)
+* [Multi-line chart D3 template](https://observablehq.com/@d3/multi-line-chart)
 
 ## Week 6
 
