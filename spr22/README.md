@@ -9,7 +9,7 @@ Tu 4:20-7pm, [MGB 0127](https://www.odu.edu/ts/labs-classrooms/technology-classr
 [Blackboard Course](https://www.blackboard.odu.edu/ultra/courses/_394424_1/cl/outline)  
 &nbsp; &nbsp; [Media Gallery](https://www.blackboard.odu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_394424_1&tool_id=_5549_1&tool_type=TOOL&mode=cpview&mode=reset) | [Discussion Board](https://www.blackboard.odu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_394424_1&tool_id=_2588_1&tool_type=TOOL&mode=cpview&mode=reset) | [Assignment Submission](https://www.blackboard.odu.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_10420532_1&course_id=_394424_1&mode=reset) | [Blackboard Calendar](https://www.blackboard.odu.edu/webapps/blackboard/content/launchLink.jsp?course_id=_394424_1&tool_id=_152_1&tool_type=TOOL&mode=cpview&mode=reset)
 
-[GitHub Classroom](https://classroom.github.com/classrooms/76785200-odu-cs-725-information-visualization-spring-2022)
+[CS725-S22 Collection at Observable](https://observablehq.com/collection/@weiglemc/cs-725-825-spring-2022)
 
 [*Visualization Analysis and Design* textbook](https://www.cs.ubc.ca/~tmm/vadbook/) (VAD)
 
