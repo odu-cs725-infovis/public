@@ -107,7 +107,8 @@ Materials:
   * [Bar Chart](https://observablehq.com/@weiglemc/cs725-s22-d3-intro-bar-chart?collection=@weiglemc/cs-725-825-spring-2022)
   * [Scatterplot](https://observablehq.com/@weiglemc/cs725-s22-d3-intro-scatterplot?collection=@weiglemc/cs-725-825-spring-2022)
   * [Line and Area Charts](https://observablehq.com/@weiglemc/cs725-s22-d3-intro-line-and-area-charts?collection=@weiglemc/cs-725-825-spring-2022)
-  * Layered Line and Area Charts - *to be added*
+  * [Layered Line and Area Charts](https://observablehq.com/@weiglemc/cs725-s22-d3-intro-layered-line-and-area-charts?collection=@weiglemc/cs-725-825-spring-2022)
+  * [Multi-Line Chart Arquero Data Setup](https://observablehq.com/@weiglemc/cs725-s22-multi-line-chart-arquero-data-setup?collection=@weiglemc/cs-725-825-spring-2022)
 
 Assignment:
 
