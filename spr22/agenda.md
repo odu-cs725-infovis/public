@@ -112,7 +112,7 @@ Materials:
 
 Assignment:
 
-* HW3
+* [HW3](HW3.md)
 * Review next week's materials before class
 
 ## Week 6
