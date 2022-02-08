@@ -1,9 +1,10 @@
-# Homework 3 - D3 Intro 
+# Homework 3 - D3 Intro
+
 **Due:** Wednesday, February 23, 2022 by 11:59pm
 
-*Read the entire assignment before starting.* 
+*Read the entire assignment before starting.*
 
-## Assignment 
+## Assignment
 
 In this assignment, you'll be recreating some of the charts from HW1 using D3.
 
@@ -41,6 +42,7 @@ For all charts, filter out rows with:
 For charts that use percent positivity, only compute this metric for dates where at least 100 tests were administered.
 
 You can use the following code to generate a Set of the Hampton Roads health districts:
+
 ```js
 hr_districts = new Set(["Western Tidewater", "Peninsula", "Chesapeake", "Virginia Beach", "Norfolk", "Portsmouth", "Hampton"])
 ```
@@ -58,13 +60,13 @@ Use D3 in Observable to create the following charts.  You do not need tooltips o
 2. Scatterplot - number of PCR tests administered vs. PCR positivity rate (latest report date)
    * x: number of PCR tests given
    * y: % PCR positivity
-   * each point represents a particular health district for the latest report date only 
+   * each point represents a particular health district for the latest report date only
 3. Line Chart - time series of % PCR positivity for the entire state
    * x: time
-   * y: % PCR positivity per report day 
+   * y: % PCR positivity per report day
 4. Layered Line Chart - time series of % PCR positivity for 3 health districts (your choice)
    * x: time
-   * y: % PCR positivity per report day 
+   * y: % PCR positivity per report day
    * color: health district -- use `Swatches()` to generate a legend in the cell above your chart
    * for best readability, choose 3 districts that experienced waves at different times (for instance, one district in Northern VA, one in Hampton Roads, and one in Southwest VA)
 5. *Extra Credit*: Layered Area and Line Chart - time series of number PCR tests given, number PCR tests positive in VA over time
@@ -78,12 +80,12 @@ Use D3 in Observable to create the following charts.  You do not need tooltips o
 There are two steps to submission:
 
 1. Publish your Observable notebook to make it viewable.
-  * Set the Visibility as "Unlisted" rather than "Public"
-  * I will use the latest published/edited timestamp as your submission date. 
-  * You can edit your notebook after publishing, but the changes will not be viewable until you "Re-publish" the notebook.
+   * Set the Visibility as "Unlisted" rather than "Public"
+   * I will use the latest published/edited timestamp as your submission date.
+   * You can edit your notebook after publishing, but the changes will not be viewable until you "Re-publish" the notebook.
 
 2. Submit the URL of your Observable notebook in Blackboard:
-  * Click on HW3 under Assignments.
-  * Under "Assignment Submission", click the "Write Submission" button.
-  * Copy/paste the URL of your Observable notebook into the edit box.
-  * Make sure to "Submit" your assignment or I will not be able to find your notebook or grade your work.
+   * Click on HW3 under Assignments.
+   * Under "Assignment Submission", click the "Write Submission" button.
+   * Copy/paste the URL of your Observable notebook into the edit box.
+   * Make sure to "Submit" your assignment or I will not be able to find your notebook or grade your work.
