@@ -75,7 +75,6 @@ Use D3 in Observable to create the following charts.  You do not need tooltips o
    * color: health district -- use `Swatches()` to generate a legend in the cell above your chart
    * for best readability, choose 3 districts that experienced waves at different times (for instance, one district in Northern VA, one in Hampton Roads, and one in Southwest VA)
 
-
 *Extra Credit:* Create a small multiples grid visualization showing the % PCR positivity as area charts for each health district over time. You may want to refer to the [NYU Vis Small Multiples notebook](https://observablehq.com/@nyuvis/small-multiples) for an example.
 
 ## Submission
