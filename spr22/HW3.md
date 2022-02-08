@@ -64,16 +64,19 @@ Use D3 in Observable to create the following charts.  You do not need tooltips o
 3. Line Chart - time series of % PCR positivity for the entire state
    * x: time
    * y: % PCR positivity per report day
-4. Layered Line Chart - time series of % PCR positivity for 3 health districts (your choice)
+4. Layered Area and Line Chart - time series of number PCR tests given, number PCR tests positive in VA over time
+   * x: time
+   * y: {number PCR given, number PCR positive} per lab report day
+   * sum data over all health districts for each report day
+   * single chart with number of PCR tests given as an area mark with color 'steelblue' and number of positive PCR tests as line mark with color `#f6ac23`
+5. Multi-Line Chart - time series of % PCR positivity for 3 health districts (your choice)
    * x: time
    * y: % PCR positivity per report day
    * color: health district -- use `Swatches()` to generate a legend in the cell above your chart
    * for best readability, choose 3 districts that experienced waves at different times (for instance, one district in Northern VA, one in Hampton Roads, and one in Southwest VA)
-5. *Extra Credit*: Layered Area and Line Chart - time series of number PCR tests given, number PCR tests positive in VA over time
-   * x: time
-   * y: {number PCR given, number PCR positive} per lab report day
-   * sum data over all health districts for each report day
-   * single chart with number of PCR tests given as an area mark (default color) and number of positive PCR tests as line mark with color `#f6ac23`
+
+
+*Extra Credit:* Create a small multiples grid visualization showing the % PCR positivity as area charts for each health district over time. You may want to refer to the [NYU Vis Small Multiples notebook](https://observablehq.com/@nyuvis/small-multiples) for an example.
 
 ## Submission
 
