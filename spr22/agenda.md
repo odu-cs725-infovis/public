@@ -119,7 +119,7 @@ Assignment:
 
 [References and Additional Resources for Week 6](resources.md#week-6)
 
-**Tues, Feb 15** - Graph Visualization, Interactivity in D3
+**Tues, Feb 15** - Network and Tree Visualization, Interactivity in D3
 
 Due (before class):
 

@@ -31,7 +31,7 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |[3](agenda.md#week-3)|Jan 25<br/>ONLINE|IEEE VIS Conferences, Reading Academic Papers, D3 Principles and Data Manipulation | [HW2](HW2.md) | HW1 (Jan 26) |
 |[4](agenda.md#week-4)|Feb 1| Giving Presentations, D3 Vis Intro  | [paper presentation](presentation.md) |  |
 |[5](agenda.md#week-5)|Feb 8| Handling Complexity in Data, D3 Vis | [HW3](HW3.md) | HW2 (Feb 9) |
-|[6](agenda.md#week-6)|Feb 15|Graph Visualization, Interactivity in D3 |  | paper selected|
+|[6](agenda.md#week-6)|Feb 15|Network and Tree Visualization, Interactivity in D3 |  | paper selected|
 |[7](agenda.md#week-7)|Feb 22|Dashboard Design, Implementing Dashboards in Vega-Lite and D3 | HW4 | HW3 (Feb 23) |
 |[8](agenda.md#week-8)|Mar 1|Project Discussion | project | |
 ||Mar 8|**NO CLASS - Spring Break** | | |
