@@ -178,14 +178,17 @@ https://www.youtube.com/playlist?list=PLmRfPZr9-VoGodduNBkPKoNNXeOBMmQGz) - incl
 Clustering
 
 * Segaran, [*Programming Collective Intelligence*](https://go.oreilly.com/old-dominion-university/library/view/programming-collective-intelligence/9780596529321/) - textbook used in CS 432/532, includes lots of Python code examples
+* [Flat and Hierarchical Clustering | The Dendrogram Explained video](https://www.youtube.com/watch?v=ijUMKMC4f9I)
 * K-Means
   * [K-means Clustering Python Example](https://towardsdatascience.com/machine-learning-algorithms-part-9-k-means-example-in-python-f2ad05ed5203)
   * [Visualizing K-Means Algorithm](http://tech.nitoyon.com/en/blog/2013/11/07/k-means/)
   * [K-Means Walkthrough in Observable](https://observablehq.com/@andreaskdk/k-means)
   * [kmeans() in Observable](https://observablehq.com/@spond/k-means-clustering-algorithm)
+  * [K Means Clustering: Pros and Cons of K Means Clustering video](https://www.youtube.com/watch?v=YIGtalP1mv0) - watch up to time 4:44
 
 D3 Vis
 
+* [CS 725/825, S22 Observable Collection](https://observablehq.com/collection/@weiglemc/cs-725-825-spring-2022) - public notebooks for this semester
 * [NYU Vis Bar Chart Walkthrough](https://observablehq.com/@nyuvis/bar-chart-walk-through)
 * [NYU Vis SVG and D3 Basics Practice](https://observablehq.com/@nyuvis/svg-and-d3-basics-practice-solutions) - scatterplot
 * [NYU Vis Lines and Maps](https://observablehq.com/@nyuvis/lines-and-maps) - line and area charts

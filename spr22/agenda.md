@@ -124,6 +124,7 @@ Assignment:
 Due (before class):
 
 * Paper selection for presentation
+* Review Ch 9 in *Visualization Analysis & Design* (textbook link in the Syllabus)
 
 ## Week 7
 
