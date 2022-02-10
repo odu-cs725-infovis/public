@@ -199,7 +199,20 @@ D3 Vis
 
 ## Week 6
 
-**Tues, Feb 15** - Graph Visualization, Interactivity in D3
+**Tues, Feb 15** - Network and Tree Visualization, Interactivity in D3
+
+Network and Tree Visualization Slide References
+
+* Tamara Munzner, Visualization Analysis & Design [slides](https://www.cs.ubc.ca/~tmm/talks/minicourse14/vadallslides.pdf) (pdf)
+* [Force-directed Graph Drawing (Wikipedia)](https://en.wikipedia.org/wiki/Force-directed_graph_drawing)
+* Kate Starbird, [“Information Wars: A Window into the Alternative Media Ecosystem”](https://medium.com/hci-design-at-uw/information-wars-a-window-into-the-alternative-media-ecosystem-a1347f32fd8f)
+* [NYU Networks notebook](https://observablehq.com/@nyuvis/networks) - adjacency matrix, force-directed node-link
+* [Intro to Forced Layouts](https://observablehq.com/@jkeohan/intro-to-forced-layouts) - examples of different forces
+* [Force-Directed Graph](https://observablehq.com/@d3/force-directed-graph) - interactive version (interaction code starts at function drag())
+* [Interactive & Dynamic Force-Directed Graphs with D3](https://medium.com/ninjaconcept/interactive-dynamic-force-directed-graphs-with-d3-da720c6d7811) - walkthrough with more explanation (d3.v4)
+* [Simple Force-Directed Graph for CS 432/532](https://observablehq.com/@weiglemc/force-directed-layout-example-cs-432-532-spring-2020)
+
+Interactivity resources *to be added*
 
 ## Week 7
 

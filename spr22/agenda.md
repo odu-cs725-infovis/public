@@ -127,6 +127,12 @@ Due (before class):
 * Review Ch 9 in *Visualization Analysis & Design* (textbook link in the Syllabus)
 * Skim Heer and Shneiderman, [Interactive Dynamics for Visual Analysis](https://queue.acm.org/detail.cfm?id=2146416) ([CACM pdf](https://idl.cs.washington.edu/files/2012-InteractiveDynamics-CACM.pdf)), *Communications of the ACM*, vol. 55, no. 4, pgs. 45-54
 
+Network and Tree Vis Materials:
+
+* Network and Tree Visualization slides [Week-06-Networks-Trees](https://docs.google.com/presentation/d/1fW5TVaA5_qGBbzoBpvHNwagkgycg3mQzvaYzN6KJfII/preview?rm=minimal)
+
+Interactivity Materials - *to be added*
+
 ## Week 7
 
 [References and Additional Resources for Week 7](resources.md#week-7)
