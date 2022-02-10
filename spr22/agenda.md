@@ -125,6 +125,7 @@ Due (before class):
 
 * Paper selection for presentation
 * Review Ch 9 in *Visualization Analysis & Design* (textbook link in the Syllabus)
+* Skim Heer and Shneiderman, [Interactive Dynamics for Visual Analysis](https://queue.acm.org/detail.cfm?id=2146416) ([CACM pdf](https://idl.cs.washington.edu/files/2012-InteractiveDynamics-CACM.pdf), *Communications of the ACM*, vol. 55, no. 4, pgs. 45-54
 
 ## Week 7
 
