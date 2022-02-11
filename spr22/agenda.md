@@ -132,7 +132,10 @@ Network and Tree Vis Materials:
 
 * Network and Tree Visualization slides [Week-06-Networks-Trees](https://docs.google.com/presentation/d/1fW5TVaA5_qGBbzoBpvHNwagkgycg3mQzvaYzN6KJfII/preview?rm=minimal)
 
-Interactivity Materials - *to be added*
+Interactivity Materials
+
+* Interaction in Vega-Lite, https://observablehq.com/@weiglemc/cs725-s22-interaction-in-vega-lite?collection=@weiglemc/cs-725-825-spring-2022
+* Interaction in D3 - *to be added*
 
 Assignment:
 
