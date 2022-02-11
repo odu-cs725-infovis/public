@@ -212,7 +212,10 @@ Network and Tree Visualization Slide References
 * [Interactive & Dynamic Force-Directed Graphs with D3](https://medium.com/ninjaconcept/interactive-dynamic-force-directed-graphs-with-d3-da720c6d7811) - walkthrough with more explanation (d3.v4)
 * [Simple Force-Directed Graph for CS 432/532](https://observablehq.com/@weiglemc/force-directed-layout-example-cs-432-532-spring-2020)
 
-Interactivity resources *to be added*
+Interactivity References
+
+* [Interaction - Vega-Lite](https://observablehq.com/@uwdata/interaction) - notebook from UW IDL
+* [Interaction - D3](https://observablehq.com/@nyuvis/interaction?collection=@nyuvis/guides-and-examples) - notebook from NYU Vis
 
 ## Week 7
 
