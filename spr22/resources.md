@@ -10,9 +10,9 @@ Addtional Resources
 * Jeffrey Heer, Michael Bostock, and Vadim Ogievetsky, ["A Tour Through the Visualization Zoo"](https://queue.acm.org/detail.cfm?id=1805128%20), *ACM Queue*, Vol. 8, No. 5, May 2010
 * [eagereyesTV](https://www.youtube.com/c/eagereyes/videos) - visualization videos from Robert Kosara
 * Visualization Idioms
-  * Improper use of line charts - http://callingbullshit.org/case_studies/case_study_musician_mortality.html
+  * Improper use of line charts - <http://callingbullshit.org/case_studies/case_study_musician_mortality.html>
   * [Understanding Pie Charts](https://eagereyes.org/techniques/pie-charts), Robert Kosara, eagereyes.org
-  * Stacked Bar charts - http://www.storytellingwithdata.com/blog/2017/11/22/use-cases-for-stacked-bars
+  * Stacked Bar charts - <http://www.storytellingwithdata.com/blog/2017/11/22/use-cases-for-stacked-bars>
   * [Histogram Design Decisions](https://policyviz.com/2018/11/27/histogram-design-decisions/), policyviz.com
   * [Why We Love the CDF and Do Not Like Histograms That Much](http://www.andata.at/en/software-blog-reader/why-we-love-the-cdf-and-do-not-like-histograms-that-much.html), Andreas Kuhn, ANDATA Software Blog
   * [Hexagonal Binning – a new method of visualization for data analysis](https://www.meccanismocomplesso.org/en/hexagonal-binning-a-new-method-of-visualization-for-data-analysis/) - nice explanation of why hexagons
@@ -22,7 +22,7 @@ Addtional Resources
 
 ## Week 2
 
-**Tues, Jan 18** 
+**Tues, Jan 18** - Visual Analytics Principles, Vega-Lite Intro
 
 Visual Analytics
 
@@ -75,18 +75,18 @@ Arquero - dplyr-like data manipulation in JavaScript
 IEEE VIS
 
 * [Things are Changing in 2021](http://ieeevis.org/year/2021/blog/things-are-changing-2021)
-* https://www.ieee-vis.org
+* <https://www.ieee-vis.org>
 * Papers lists from previous conferences:
-  * http://ieeevis.org/year/2019/info/papers-sessions
-  * http://ieeevis.org/year/2020/info/papers-sessions
-  * http://ieeevis.org/year/2021/info/papers-sessions
-* IEEE Xplore - https://ieeexplore-ieee-org.proxy.lib.odu.edu/Xplore/home.jsp
+  * <http://ieeevis.org/year/2019/info/papers-sessions>
+  * <http://ieeevis.org/year/2020/info/papers-sessions>
+  * <http://ieeevis.org/year/2021/info/papers-sessions>
+* IEEE Xplore - <https://ieeexplore-ieee-org.proxy.lib.odu.edu/Xplore/home.jsp>
 * [IEEE VisWeek Papers on the Web](http://www.cad.zju.edu.cn/home/vagblog/vispapers.html)
 * [IEEE Transactions on Visualization and Computer Graphics (TVCG)](https://www.computer.org/csdl/journal/tg)
   * [TVCG @ IEEE Xplore](https://ieeexplore-ieee-org.proxy.lib.odu.edu/xpl/RecentIssue.jsp?punumber=29456754)
   * VIS 2019 ([TVCG, No. 1, Jan 2020](https://ieeexplore-ieee-org.proxy.lib.odu.edu/xpl/tocresult.jsp?isnumber=8911289&punumber=2945))
-  * VIS 2020 ([TVCG, No. 2, Feb 2021](https://ieeexplore-ieee-org.proxy.lib.odu.edu/xpl/tocresult.jsp?isnumber=9340023&punumber=2945)) 
-  * VIS 2021 ([TVCG, No. 1, Jan 2022](https://ieeexplore-ieee-org.proxy.lib.odu.edu/xpl/tocresult.jsp?isnumber=9663056&punumber=2945)) 
+  * VIS 2020 ([TVCG, No. 2, Feb 2021](https://ieeexplore-ieee-org.proxy.lib.odu.edu/xpl/tocresult.jsp?isnumber=9340023&punumber=2945))
+  * VIS 2021 ([TVCG, No. 1, Jan 2022](https://ieeexplore-ieee-org.proxy.lib.odu.edu/xpl/tocresult.jsp?isnumber=9663056&punumber=2945))
 * [Vispubdata](https://sites.google.com/site/vispubdata/home)
 * [IEEE Anthology Vis](https://visav.vizhub.ai/)
 
@@ -112,17 +112,17 @@ Past VIS Reflections
 Reading Academic Papers
 
 * [My Research Methods Guidelines](https://docs.google.com/document/d/1ZIlCog36OoNKymgWZkJ5D8142JQ19WGjbaqW34ymd_8/edit)
-* Example of off-campus access to ACM Digital Library, https://dl-acm-org.proxy.lib.odu.edu/doi/abs/10.5555/1218112.1218509
-* Example of off-campus access to IEEE Xplore, https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/6970187
-* Fatcat, https://fatcat.wiki/
-  * My papers: https://fatcat.wiki/release/search?q=michele+c.+weigle
-  * Example search for a particular paper, https://fatcat.wiki/release/search?q=Automatically+Selecting+Striking+Images+for+Social+Cards 
-  * Example search for a particular conference venue, https://fatcat.wiki/container/search?q=Joint+conference+on+digital+libraries  
-  * JCDL page, https://fatcat.wiki/container/kw2apmx5ynfyjf6jhs5gzrrx6e
-  * IEEE Transactions on Visualization and Computer Graphics page, https://fatcat.wiki/container/hjrujdrg7zaghbdsp5pdzq7cmm 
-* Internet Archive Scholar, https://scholar.archive.org/
-  * My papers: https://scholar.archive.org/search?q=michele+c.+weigle 
-  * Example search for a particular paper, https://scholar.archive.org/search?q=automatically+selecting+striking+images+for+social+cards 
+* Example of off-campus access to ACM Digital Library, <https://dl-acm-org.proxy.lib.odu.edu/doi/abs/10.5555/1218112.1218509>
+* Example of off-campus access to IEEE Xplore, <https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/6970187>
+* Fatcat, <https://fatcat.wiki/>
+  * My papers: <https://fatcat.wiki/release/search?q=michele+c.+weigle>
+  * Example search for a particular paper, <https://fatcat.wiki/release/search?q=Automatically+Selecting+Striking+Images+for+Social+Cards>
+  * Example search for a particular conference venue, <https://fatcat.wiki/container/search?q=Joint+conference+on+digital+libraries>
+  * JCDL page, <https://fatcat.wiki/container/kw2apmx5ynfyjf6jhs5gzrrx6e>
+  * IEEE Transactions on Visualization and Computer Graphics page, <https://fatcat.wiki/container/hjrujdrg7zaghbdsp5pdzq7cmm>
+* Internet Archive Scholar, <https://scholar.archive.org/>
+  * My papers: <https://scholar.archive.org/search?q=michele+c.+weigle>
+  * Example search for a particular paper, <https://scholar.archive.org/search?q=automatically+selecting+striking+images+for+social+cards>
 * S. Keshav, [How to Read a Paper](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
 * [Reading Papers](https://www.cs.odu.edu/~jbrunelle/cs891/lectures/03_reading_papers.pdf) (pdf), lecture slides from Dr. Brunelle's CS 891, Spring 2019
 * William Griswold, [How to Read an Engineering Research Paper](http://www.cs.ucsd.edu/users/wgg/CSE210/howtoread.html)
@@ -151,7 +151,7 @@ Giving Presentations
 * Jiri Srba, [How to Read and Present a Scientific Paper](https://people.cs.aau.dk/~hans/Dat5/slides.pdf)
 * Nicholas Nethercote, [Giving a Good Research Talk](https://web.archive.org/web/20200220135851/http://njn.valgrind.org/good-talk.html)
 * Justin Brunelle, [Presenting Academic Research slides](https://www.cs.odu.edu/~jbrunelle/cs891/lectures/06_presenting101.pdf), from CS 891, Fall 2019
-* Tamara Munzner, http://www.cs.ubc.ca/~tmm/policy.txt 
+* Tamara Munzner, <http://www.cs.ubc.ca/~tmm/policy.txt>
 * Jones et al., [How to Give a Good Research Talk](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/giving-a-talk.pdf)
 * Arnaud Legout, [How To Give a Talk](http://cel.archives-ouvertes.fr/cel-00529505/en/) - comprehensive set of guidelines, includes advice on slide design
 * Jean-luc Doumont, [Creating Effective Slides](https://www.youtube.com/watch?v=meBXuTIPJQk), talk April 4, 2013 at Clark Center, Stanford Univeristy, video (1:03:03)
@@ -212,10 +212,31 @@ Network and Tree Visualization Slide References
 * [Interactive & Dynamic Force-Directed Graphs with D3](https://medium.com/ninjaconcept/interactive-dynamic-force-directed-graphs-with-d3-da720c6d7811) - walkthrough with more explanation (d3.v4)
 * [Simple Force-Directed Graph for CS 432/532](https://observablehq.com/@weiglemc/force-directed-layout-example-cs-432-532-spring-2020)
 
-Interactivity References
+Interactivity in Vega-Lite
 
 * [Interaction - Vega-Lite](https://observablehq.com/@uwdata/interaction) - notebook from UW IDL
+* <https://observablehq.com/@uwdata/interaction>
+* <https://observablehq.com/@john-guerra/vega-lite-selection-methods>
+* <https://vega.github.io/vega-lite-api/api/#selections>
+* <https://vega.github.io/vega/docs/event-streams/>
+* <https://vega.github.io/vega-lite-api/api/#selection-bindings>
+* <https://vega.github.io/vega-lite/examples/#interactive>
+
+Observable Inputs
+
+* <https://observablehq.com/@observablehq/inputs?collection=@observablehq/libraries>
+* <https://observablehq.com/@observablehq/hello-inputs>
+* <https://observablehq.com/@mbostock/scrubber>
+
+Interaction in D3
+
 * [Interaction - D3](https://observablehq.com/@nyuvis/interaction?collection=@nyuvis/guides-and-examples) - notebook from NYU Vis
+* <https://observablehq.com/@nyuvis/interaction>
+* <https://developer.mozilla.org/en-US/docs/Web/Events#Standard_events>
+* <https://observablehq.com/@observablehq/introduction-to-views>
+* <https://github.com/d3/d3-brush>
+* <https://observablehq.com/collection/@d3/d3-brush>
+* <https://observablehq.com/@uwdata/introduction-to-d3-part-2>
 
 ## Week 7
 

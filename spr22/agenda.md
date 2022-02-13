@@ -28,7 +28,7 @@ Assignment:
 
 [References and Additional Resources for Week 2](resources.md#week-2)
 
-**Tues, Jan 18** - Visual Analytics Principles, Vega-Lite 
+**Tues, Jan 18** - Visual Analytics Principles, Vega-Lite
 
 Due (before class):
 
@@ -134,8 +134,8 @@ Network and Tree Vis Materials:
 
 Interactivity Materials
 
-* Interaction in Vega-Lite, https://observablehq.com/@weiglemc/cs725-s22-interaction-in-vega-lite?collection=@weiglemc/cs-725-825-spring-2022
-* Interaction in D3 - *to be added*
+* Interaction in Vega-Lite, <https://observablehq.com/@weiglemc/cs725-s22-interaction-in-vega-lite>
+* NYU Vis Interaction notebook, <https://observablehq.com/@nyuvis/interaction> - D3
 
 Assignment:
 
@@ -147,9 +147,21 @@ Assignment:
 
 **Tues, Feb 22** - Dashboard Design, Implementing Dashboards in Vega-Lite and D3
 
+Due before class:
+
+* Watch the [13 min talk](https://vimeo.com/299862354) that covers the paper Sarikaya et al., ["What Do We Talk About When We Talk About Dashboards?"](https://alper.datav.is/publications/dashboards/), IEEE VIS 2018.
+* Read Froese and Tory, ["Lessons Learned from Designing Visualization Dashboards"](https://ieeexplore.ieee.org.proxy.lib.odu.edu/iel7/38/7426235/07426275.pdf), *IEEE Computer Graphics and Applications*, 36:2, pp. 83-89, 2016.
+
 Due (before 11:59pm on Wed):
 
 * HW3
+
+Materials: *to be posted*
+
+Assignment:
+
+* HW4 - *to be posted*
+* Review next week's materials before class
 
 ## Week 8
 
