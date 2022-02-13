@@ -130,7 +130,7 @@ Due (before class):
 
 Network and Tree Vis Materials:
 
-* Network and Tree Visualization slides [Week-06-Networks-Trees](https://docs.google.com/presentation/d/1fW5TVaA5_qGBbzoBpvHNwagkgycg3mQzvaYzN6KJfII/preview?rm=minimal)
+* Network and Tree Visualization slides ([Week-06-Networks-Trees](https://docs.google.com/presentation/d/1fW5TVaA5_qGBbzoBpvHNwagkgycg3mQzvaYzN6KJfII/preview?rm=minimal))
 
 Interactivity Materials
 
