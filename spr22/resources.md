@@ -199,6 +199,8 @@ D3 Vis
 
 ## Week 6
 
+Text Visualizations browser, <https://textvis.lnu.se/>
+
 **Tues, Feb 15** - Network and Tree Visualization, Interactivity in D3
 
 Network and Tree Visualization Slide References
