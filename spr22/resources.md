@@ -244,6 +244,11 @@ Interaction in D3
 
 **Tues, Feb 22** - Dashboard Design, Implementing Dashboards in Vega-Lite and D3
 
+Dashboard Design
+
+* Bakusevych, [10 Rules for Better Dashboard Design](https://uxplanet.org/10-rules-for-better-dashboard-design-ef68189d734c)
+* Tableau Help, [Best Visual Practices](https://help.tableau.com/current/blueprint/en-us/bp_visual_best_practices.htm%20)
+
 ## Week 8
 
 **Tues, Mar 1** - Project Discussion

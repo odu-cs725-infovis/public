@@ -156,7 +156,7 @@ Due (before 11:59pm on Wed):
 
 * HW3
 
-Materials: 
+Materials:
 
 * Dashboard Design slides ([Week-07-Dashboards](https://docs.google.com/presentation/d/1oBMKKPERCHGBxK-wkXU-DDj67Op4Rsk2Ys1FtJig7-4/edit?usp=sharing))
 * Dashboard notebooks - *to be posted*
