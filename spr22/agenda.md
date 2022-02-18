@@ -150,7 +150,7 @@ Assignment:
 Due before class:
 
 * Watch the [13 min talk](https://vimeo.com/299862354) that covers the paper Sarikaya et al., ["What Do We Talk About When We Talk About Dashboards?"](https://alper.datav.is/publications/dashboards/), IEEE VIS 2018.
-* Read Froese and Tory, ["Lessons Learned from Designing Visualization Dashboards"](https://ieeexplore.ieee.org.proxy.lib.odu.edu/iel7/38/7426235/07426275.pdf), *IEEE Computer Graphics and Applications*, 36:2, pp. 83-89, 2016.
+* Read Froese and Tory, ["Lessons Learned from Designing Visualization Dashboards"](https://ieeexplore-ieee-org.proxy.lib.odu.edu/iel7/38/7426235/07426275.pdf), *IEEE Computer Graphics and Applications*, 36:2, pp. 83-89, 2016.
 
 Due (before 11:59pm on Wed):
 
