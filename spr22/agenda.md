@@ -159,8 +159,8 @@ Due (before 11:59pm on Wed):
 Materials:
 
 * Dashboard Design slides ([Week-07-Dashboards](https://docs.google.com/presentation/d/1oBMKKPERCHGBxK-wkXU-DDj67Op4Rsk2Ys1FtJig7-4/edit?usp=sharing))
-* Vega-Lite Dashboard notebook - https://observablehq.com/@weiglemc/cs725-s22-vega-lite-dashboard-with-brushing-and-linking?collection=@weiglemc/cs-725-825-spring-2022
-* D3 Dashboard notebook - https://observablehq.com/@weiglemc/cs725-s22-d3-dashboard-with-brushing-and-linking
+* [Vega-Lite Dashboard notebook](https://observablehq.com/@weiglemc/cs725-s22-vega-lite-dashboard-with-brushing-and-linking?collection=@weiglemc/cs-725-825-spring-2022)
+* [D3 Dashboard notebook](https://observablehq.com/@weiglemc/cs725-s22-d3-dashboard-with-brushing-and-linking)
 
 Assignment:
 
