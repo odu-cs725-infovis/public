@@ -169,9 +169,11 @@ Assignment:
 
 ## Week 8
 
-[References and Additional Resources for Week 8](resources.md#week-8)
-
 **Tues, Mar 1** - Project Discussion
+
+Assignment:
+
+* [Project](project.md) - Interactive Dashboard Visualization
 
 ## Week 9
 
