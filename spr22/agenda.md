@@ -164,7 +164,7 @@ Materials:
 
 Assignment:
 
-* HW4 - *to be posted*
+* [HW4](HW4.md) - Dashboards and Interaction
 * Review next week's materials before class
 
 ## Week 8
