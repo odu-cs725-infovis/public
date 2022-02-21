@@ -37,7 +37,7 @@ Construct a Virginia COVID Dashboard in Vega-Lite with a drop-down menu allowing
 
 The charts should be arranged such that chart 1 is above chart 2, similar to 
 
-<img src="hw-pcr-pos-example.png" width=700/>
+<img src="hw4-pcr-pos-example.png" width=700/>
 
 Chart 3 should be to the right of charts 1 and 2.  You may add other charts in the area to the right of charts 1 and 2, but the total height should be the same as the combined height of charts 1 and 2.
 
