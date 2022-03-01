@@ -83,8 +83,14 @@ In addition, you should be prepared to answer questions about your visualization
 
 ## Submission
 
-Before class time on your demo day, submit the links to your project and your project report in Blackboard.  If you use an Observable notebook, make sure that you Publish the notebook so that it is viewable.
+Before class time on Apr 12, submit the link to your project in Blackboard. If you use an Observable notebook, make sure that you Publish the notebook so that it is viewable.
 * Click on Project under Assignments.
 * Under "Assignment Submission", click the "Write Submission" button.
-* Copy/paste the URLs of your Observable notebook and report into the edit box. 
+* Copy/paste the URL of your report webpage or Observable notebook into the edit box. 
+* Make sure to "Submit" your assignment.
+
+Before class time on Apr 19, submit the link to your project report in Blackboard.
+* Click on Project Report under Assignments.
+* Under "Assignment Submission", click the "Write Submission" button.
+* Copy/paste the URL of report (either GitHub or Observable) into the edit box. 
 * Make sure to "Submit" your assignment.
