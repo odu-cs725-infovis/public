@@ -249,30 +249,19 @@ Dashboard Design
 * Bakusevych, [10 Rules for Better Dashboard Design](https://uxplanet.org/10-rules-for-better-dashboard-design-ef68189d734c)
 * Tableau Help, [Best Visual Practices](https://help.tableau.com/current/blueprint/en-us/bp_visual_best_practices.htm%20)
 
-## Week 8
-
-**Tues, Mar 1** - Project Discussion
-
 ## Week 9
 
 **Tues, Mar 15** - Visualizing Uncertainty
 
-## Week 10
+Slide References
 
-**Tues, Mar 22** - VIS Paper Presentations
-
-## Week 11
-
-**Tues, Mar 29** - VIS Paper Presentations
-
-## Week 12
-
-**Tues, Apr 5** - VIS Paper Presentations
-
-## Week 13
-
-**Tues, Apr 12** - Project Demos
-
-## Week 14
-
-**Tues, Apr 19** - Project Demos
+* Nicole Torres, "Why It’s So Hard for Us to Visualize Uncertainty", Harvard Business Review, https://hbr.org/2016/11/why-its-so-hard-for-us-to-visualize-uncertainty 
+* Nathan Yau, "Visualizing the Uncertainty in Data", https://flowingdata.com/2018/01/08/visualizing-the-uncertainty-in-data/
+* Nathan Yau, "Showing uncertainty during the live election forecast", https://flowingdata.com/2016/11/15/showing-uncertainty-during-the-live-election-forecast/
+* Live Presidential Forecast, *NY Times*, https://www.nytimes.com/elections/2016/forecast/president
+* Lace Padilla, http://space.ucmerced.edu, Assistant Professor of Cognitive and Information Sciences, UC Merced
+* Jessica Hullman, http://users.eecs.northwestern.edu/~jhullman/, Associate Professor of Computer Science, Northwestern University
+* Lace Padilla, Matthew Key, and Jessica Hullman, "Uncertainty Visualization", in *Handbook of Computational Statistics and Data Science*, book chapter preprint, https://psyarxiv.com/ebd6r 
+* Lace Padilla, "How to Read Uncertainty Visualizations", https://www.youtube.com/watch?v=byDZlMwi7kU 
+* Claus Wilke, *Fundamentals of Data Visualization*, https://clauswilke.com/dataviz/ 
+* Hullman, J., P. Resnick, and E. Adar. 2015. “Hypothetical Outcome Plots Outperform Error Bars and Violin Plots for Inferences About Reliability of Variable Ordering.” *PLOS ONE* 10: e0142444. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142444 
