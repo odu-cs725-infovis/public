@@ -185,9 +185,11 @@ Due (before 11:59pm on Wed):
 
 * HW4
 
-## Week 10
+Materials:
 
-[References and Additional Resources for Week 10](resources.md#week-10)
+* Visualizing Uncertainty slides ([Week-09-Uncertainty](https://docs.google.com/presentation/d/1FY8cUXbX0ebcbvKScBkrtN7NlI4RrOOSKZNV7llDV20/preview))
+
+## Week 10
 
 **Tues, Mar 22** - VIS Paper Presentations
 
@@ -197,19 +199,13 @@ Due before class:
 
 ## Week 11
 
-[References and Additional Resources for Week 11](resources.md#week-11)
-
 **Tues, Mar 29** - VIS Paper Presentations
 
 ## Week 12
 
-[References and Additional Resources for Week 12](resources.md#week-12)
-
 **Tues, Apr 5** - VIS Paper Presentations
 
 ## Week 13
-
-[References and Additional Resources for Week 13](resources.md#week-13)
 
 **Tues, Apr 12** - Project Demos
 
@@ -218,7 +214,5 @@ Due before class:
 * project
 
 ## Week 14
-
-[References and Additional Resources for Week 14](resources.md#week-14)
 
 **Tues, Apr 19** - Project Demos
