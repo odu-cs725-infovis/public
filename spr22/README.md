@@ -36,8 +36,8 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |[8](agenda.md#week-8)|Mar 1<br/>ONLINE|Project Discussion | [project](project.md) | |
 ||Mar 8|**NO CLASS - Spring Break** | | |
 |[9](agenda.md#week-9)|Mar 15<br/>ONLINE|Visualizing Uncertainty | | HW4 (Mar 16)|
-|[10](agenda.md#week-10)| Mar 22|VIS Paper Presentations | | paper  presentation |
-|[11](agenda.md#week-11)| Mar 29|VIS Paper Presentations | | |
-|[12](agenda.md#week-12)| Apr 5|VIS Paper Presentations | | |
+|[10](agenda.md#week-10)| Mar 22|VIS Paper Presentations<br/>(Kim, Emily, Yasith, Lesley) | | paper  presentation |
+|[11](agenda.md#week-11)| Mar 29|VIS Paper Presentations<br/>(Shadin, Prachi, Kira, Adeniyi) | | |
+|[12](agenda.md#week-12)| Apr 5|VIS Paper Presentations<br/>(Kyle L., Allison, Kyle C.) | | |
 |[13](agenda.md#week-13)| Apr 12|Project Demos | | project |
 |[14](agenda.md#week-14)| Apr 19|Project Demos | | |
