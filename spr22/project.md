@@ -30,7 +30,7 @@ As opposed to an open exploration of all elements of the data, your dashboard mu
 
 **Tue, Mar 15, 4pm** - dataset and topic chosen (posted in Blackboard discussion forum)
 
-**Tue, Mar 22, 4pm** - description of the user audience, specific tasks that will be enabled, and example analysis scenario (document submitted in Blackboard)
+**Thu, Mar 24, 11:59pm** - description of the user audience, specific tasks that will be enabled, and example analysis scenario (document submitted in Blackboard) (updated Mar 15)
 
 **Wed, Mar 30** - deadline for meeting with me to discuss your initial design
 
