@@ -197,13 +197,35 @@ Due before class:
 
 * paper presentation slides
 
+Kim - Semantic concept spaces: Guided topic model refinement using word-embedding projections. IEEE VIS 2019, https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/8807224
+
+Emily - Visual Analytics of Discrimination in Machine Learning. IEEE VIS 2020, https://ieeexplore-ieee-org.proxy.lib.odu.edu/abstract/document/9222272
+
+Lesley (Zoom) - Visualizing Uncertainty in Probabilistic Graphs with Network Hypothetical Outcome Plots (NetHOPs), IEEE VIS 2021, https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/9552465
+
 ## Week 11
 
 **Tues, Mar 29** - VIS Paper Presentations
 
+Shadin - Chartem: Reviving Chart Images with Data Embedding. IEEE VIS 2020, https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/9293003
+
+Prachi - Color Crafting: Automating the Construction of Designer Quality Color Ramps, IEEE VIS 2019, https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/8805429
+
+Adeniyi - ScatterNet: A deep subjective similarity model for visual analysis of scatterplots, IEEE VIS 2019, https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/8490694
+
+Yasith (Zoom) - Interactive Dimensionality Reduction for Comparative Analysis, IEEE VIS 2021, https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/9555244
+
 ## Week 12
 
 **Tues, Apr 5** - VIS Paper Presentations
+
+Kyle L. (Zoom) - CNNPruner: Pruning Convolutional Neural Networks with Visual Analytics. IEEE VIS 2020, https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/9222510
+
+Allison (Zoom) - Designing Narrative-Focused Role-Playing Games for Visualization Literacy in Young Children. IEEE VIS 2021, https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/9222251 
+
+Kyle C. (Zoom) - Rethinking the Ranks of Visual Channels, IEEE VIS 2021, https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/9557878
+
+Kira (Zoom) - Real-Time Visual Analysis of High-Volume Social Media Posts, IEEE VIS 2021, https://ieeexplore-ieee-org.proxy.lib.odu.edu/document/9552886
 
 ## Week 13
 
