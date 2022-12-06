@@ -37,7 +37,7 @@ CS 825 (PhD) sections:
 * CRN 30753 - WC5 (in Virginia, but outside of Hampton Roads)
 * CRN 30767 - WC7 (in the US, but outside of Virginia)
 
-All course materials, including the link to the Zoom class session, will be made available in Canvas. The audio of in-person class meetings and all materials projected in class will be live streamed via Zoom and recorded for later viewing. *Online students are strongly encouraged to actively participate in the Zoom session during the regular class meeting time.* Online students must meet the same deadlines as face-to-face students. All deadlines are based on the local timezone in Norfolk, VA.
+The link to the Zoom class session will be made available through the Course Collaboration Tool in Canvas. All course materials will be made available through this GitHub reposistory with links also available in Canvas. The audio of in-person class meetings and all materials projected in class will be live streamed via Zoom and recorded for later viewing. *Online students are strongly encouraged to actively participate in the Zoom session during the regular class meeting time.* Online students must meet the same deadlines as face-to-face students. All deadlines are based on the local timezone in Norfolk, VA.
 
 ## Textbook and Materials
 
