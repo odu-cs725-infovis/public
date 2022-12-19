@@ -39,7 +39,7 @@ CS 825 (PhD) sections:
 
 The link to the Zoom class session will be made available through the Course Collaboration Tool in Canvas. All course materials will be made available through this GitHub reposistory with links also available in Canvas. The audio of in-person class meetings and all materials projected in class will be live streamed via Zoom and recorded.  Online students must meet the same deadlines as face-to-face students. All deadlines are based on the local timezone in Norfolk, VA.
 
-*This is a synchronous class. All students (whether in-person or online) are expected to actively participate during the regular class meeting time.*  Additionally, if you are registered for an in-person section, you are expected to attend class in-person unless you are sick. In-person students who cannot attend a class meeting in-person must email the instructor at least 2 hours before class time.
+*This is a synchronous class. All students (whether in-person or online) are expected to actively participate during the regular class meeting time.* 
 
 ## Textbook and Materials
 
