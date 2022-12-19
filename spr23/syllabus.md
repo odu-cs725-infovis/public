@@ -2,7 +2,7 @@
 
 M 4:20-7pm, Dragas 2117 and online via Zoom
 
-[Download printable PDF version](https://github.com/odu-cs725-infovis/public/raw/main/spr23/syllabus.pdf) - *coming soon*
+[Download printable PDF version](https://github.com/odu-cs725-infovis/public/raw/main/spr23/syllabus.pdf)
 
 ## Course Overview
 
@@ -37,7 +37,9 @@ CS 825 (PhD) sections:
 * CRN 30753 - WC5 (in Virginia, but outside of Hampton Roads)
 * CRN 30767 - WC7 (in the US, but outside of Virginia)
 
-All course materials, including the link to the Zoom class session, will be made available in Canvas. The audio of in-person class meetings and all materials projected in class will be live streamed via Zoom and recorded for later viewing. *Online students are strongly encouraged to actively participate in the Zoom session during the regular class meeting time.* Online students must meet the same deadlines as face-to-face students. All deadlines are based on the local timezone in Norfolk, VA.
+The link to the Zoom class session will be made available through the Course Collaboration Tool in Canvas. All course materials will be made available through this GitHub reposistory with links also available in Canvas. The audio of in-person class meetings and all materials projected in class will be live streamed via Zoom and recorded.  Online students must meet the same deadlines as face-to-face students. All deadlines are based on the local timezone in Norfolk, VA.
+
+*This is a synchronous class. All students (whether in-person or online) are expected to actively participate during the regular class meeting time.* 
 
 ## Textbook and Materials
 
@@ -59,7 +61,7 @@ In addition, see the online writing resources collected on the ODU-CS [New Stude
 
 ## Grading
 
-This will be a project and presentation based course, so no exams will be given. The general breakdown will be:
+This will be a project and presentation based course. No exams will be given. The general breakdown will be:
 
 * 50% - homework assignments
 * 25% - paper presentation
@@ -125,9 +127,9 @@ Each student must check the class Canvas site and email daily. You should use ou
 
 ### Attendance
 
-In-person students: I expect you to arrive on time for class. Your grade will be affected if you are consistently tardy. Students may leave after 15 minutes if the instructor or a guest lecturer does not arrive in that time.
-
-Online students: It is essential that you regularly stay involved in class activities. This includes attending synchronous class meetings when possible, checking the class Canvas for announcements, and submitting assignments on time. Online students who cannot attend synchronously are expected to have watched the posted videos of the week's in-class meetings before the next week's first meeting. However, students are strongly encouraged to watch the videos on the same day they are posted.
+In-person students: I expect you to arrive on time for class. Your grade will be affected if you are consistently tardy. Students may leave after 15 minutes if the instructor or a guest lecturer does not arrive in that time.  You are expected to attend class in-person unless you are sick. If you cannot attend a class meeting in-person, you must email the instructor at least 2 hours before class time.
+ 
+Online students: It is essential that you regularly stay involved in class activities. This includes attending synchronous class meetings, checking the class Canvas for announcements, and submitting assignments on time.  *This is a synchronous class. All students (whether in-person or online) are expected to actively participate during the regular class meeting time.* 
 
 If you have to miss a class, you are responsible checking the course Canvas site to find any assignments or notes you may have missed.
 
@@ -167,6 +169,8 @@ The following behaviors along with classroom disruptions violate this policy, co
 Any evidence of an academic integrity violation (cheating) will result in a 0 grade for the assignment/exam, and the incident will be submitted to the Department of Computer Science for further review. Note that academic integrity violations can result in a permanent notation being placed on the student's transcript or even expulsion from the University. Evidence of cheating may include a student being unable to satisfactorily answer questions asked by the instructor about a submitted solution. Cheating includes not only receiving unauthorized assistance, but also giving unauthorized assistance. For class files kept in Unix space, students are expected to use Unix file permission protections (chmod) to keep other students from accessing the files. Failure to adequately protect files may result in a student being held responsible for giving unauthorized assistance, even if not directly aware of it.
 
 Students may still provide legitimate assistance to one another. You are encouraged to form study groups to discuss course topics. Students should avoid discussions of solutions to ongoing assignments and should not, under any circumstances, show or share code solutions for an ongoing assignment.
+
+Any resources or examples used in completing an assignment should be acknowledged and listed in the assignment report.
 
 All students are responsible for knowing the rules. If you are unclear about whether a certain activity is allowed or not, please contact the instructor.
 
