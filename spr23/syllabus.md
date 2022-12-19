@@ -2,7 +2,7 @@
 
 M 4:20-7pm, Dragas 2117 and online via Zoom
 
-[Download printable PDF version](https://github.com/odu-cs725-infovis/public/raw/main/spr23/syllabus.pdf) - *coming soon*
+[Download printable PDF version](https://github.com/odu-cs725-infovis/public/raw/main/spr23/syllabus.pdf)
 
 ## Course Overview
 
