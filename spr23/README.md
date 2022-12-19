@@ -4,7 +4,7 @@ M 4:20-7pm, [Dragas 2117](https://ww1.odu.edu/ts/labs-classrooms/technology-clas
 
 ## Links
 
-[Syllabus](syllabus.md)
+[Syllabus](syllabus.md) | [Instructor Contact Info](https://canvas.odu.edu/courses/132393/pages/meet-your-instructor?module_item_id=3734954)
 
 [Canvas Course](https://canvas.odu.edu/courses/132393)  
 
