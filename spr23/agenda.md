@@ -28,8 +28,10 @@
 * Data Vis Overview
   * discuss questions from [Week 1 Discussion](https://canvas.odu.edu/courses/132393/discussion_topics/473799)
 * Data Sources
+  * [Stop using Kaggle for your Data Science projects](https://faun.dev/c/stories/edwarda_johnson/stop-using-kaggle-for-your-data-science-projects/)
+* Interesting Visualizations
 
 ### Assignment
 
-* HW1 - Vega-Lite Intro
+* [HW1 - Vega-Lite Intro](HW1-VegaLite.md)
 * Review Week 2 materials and complete the reading assignment before class
