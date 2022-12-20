@@ -21,8 +21,8 @@
 ### Agenda and Materials
 
 * Course Intro
-  * [Canvas course](https://canvas.odu.edu/courses/132393)
   * [GitHub repo](README.md)
+  * [Canvas course](https://canvas.odu.edu/courses/132393)
   * [Syllabus](syllabus.md)
 * [Personal Intro](https://canvas.odu.edu/courses/132393/discussion_topics/473801) - Canvas discussion
 * Data Vis Overview
