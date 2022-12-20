@@ -2,9 +2,7 @@
 
 ## Week 1
 
-**Mon, Jan 9** - Course Intro, Data Vis Overview
-
-Addtional Resources
+### Data Vis Overview
 
 * Tamara Munzner's half-day [IEEE VIS 2020 Visualization Analysis & Design Tutorial](https://www.youtube.com/playlist?reload=9&list=PLT4XLHmqHJBffudbh19w_duD7mprvNf4Q)
 * Jeffrey Heer, Michael Bostock, and Vadim Ogievetsky, ["A Tour Through the Visualization Zoo"](https://queue.acm.org/detail.cfm?id=1805128%20), *ACM Queue*, Vol. 8, No. 5, May 2010
