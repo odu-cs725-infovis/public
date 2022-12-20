@@ -19,7 +19,7 @@ M 4:20-7pm, [Dragas 2117](https://ww1.odu.edu/ts/labs-classrooms/technology-clas
 
 [ODU Spring 2023 academic schedule](https://www.odu.edu/academics/calendar/spring)
 
-Click on the week number to get that week's agenda, reading assignment, and links to additional resources. (*Links to be added*)
+Click on the week number to get that week's agenda, reading assignment, and links to additional resources. 
 
 |Week |Date|Topic|HW Assigned|HW Due|
 |---|---|---|---|---|
