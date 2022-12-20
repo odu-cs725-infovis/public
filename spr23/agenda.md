@@ -6,9 +6,7 @@
 
 [References and Additional Resources for Week 1](resources.md#week-1)
 
-**Mon, Jan 9** - Course Intro, Data Vis Overview
-
-Due (before class):
+### Due (before class)
 
 * Complete the "Start Here" tasks in Canvas
 * Make an "Introduce Yourself to the Class" post in Canvas
@@ -20,6 +18,18 @@ Due (before class):
     * CS 432/532 - Mod 03, p2 - Visualization Idioms (12:39)
 * Make a "Week 1 | Discussion Vis Overview" post in Canvas and review other students' questions.
 
-Assignment:
+### Agenda and Materials
 
+* Course Intro
+  * [Canvas course](https://canvas.odu.edu/courses/132393)
+  * [GitHub repo](README.md)
+  * [Syllabus](syllabus.md)
+* [Personal Intro](https://canvas.odu.edu/courses/132393/discussion_topics/473801) - Canvas discussion
+* Data Vis Overview
+  * discuss questions from [Week 1 Discussion](https://canvas.odu.edu/courses/132393/discussion_topics/473799)
+* Data Sources
+
+### Assignment
+
+* HW1 - Vega-Lite Intro
 * Review Week 2 materials and complete the reading assignment before class
