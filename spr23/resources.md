@@ -19,3 +19,16 @@
 * [Dataviz Cheatsheet](https://policyviz.com/2018/08/07/dataviz-cheatsheet/), from policyviz.com
 * [my guiding principles](http://www.storytellingwithdata.com/blog/2017/8/9/my-guiding-principles), storytellingwithdata.com -- set of basic principles for vis design
 * [How to define a map’s bins to visualize your data](https://policyviz.com/2018/02/08/how-to-define-a-maps-bins-to-visualize-your-data/), Policy Viz
+
+### Data Sources
+
+* [list of public datasets from CS 625-F21, HW6](https://github.com/odu-cs625-datavis/public/blob/main/fall21/HW6.md#data-sources)
+* [Data Is Plural archive](https://www.data-is-plural.com/archive/) - weekly newsletter of useful/curious datasets
+* [Our World in Data GitHub](https://github.com/owid), [datasets](https://github.com/owid/owid-datasets/tree/master/datasets)
+
+### Interesting Visualizations
+
+* dots - <https://www.npr.org/2022/06/30/1107868327/trump-election-fraud-jan-6>
+* spiral chart - <https://twitter.com/abmakulec/status/1479496579040034822>
+* connected scatterplot - <https://twitter.com/visualisingdata/status/1476518279187415045>
+* Marey Diagram and others in analysis of Boston subway system - <http://mbtaviz.github.io/>, [commentary by Kaiser Fung](https://junkcharts.typepad.com/junk_charts/2014/06/a-great-visual-of-complicated-schedules.html)
