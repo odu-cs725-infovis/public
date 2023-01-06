@@ -35,3 +35,16 @@
 
 * [HW1 - Vega-Lite Intro](HW1-VegaLite.md)
 * Review Week 2 materials and complete the reading assignment before class
+
+## Week 2
+
+### Due (before class)
+
+* Read Keim et al., [Visual Analytics: Definition, Process, and Challenges](https://d-nb.info/1098134664/34), *Information Visualization*, 2008
+
+### Agenda and Materials
+
+* Visual Analytics intro
+* Quick tour of Observable
+* Quick refresher on Vega-Lite
+* Intro to Arquero
