@@ -25,6 +25,10 @@
 * [list of public datasets from CS 625-F21, HW6](https://github.com/odu-cs625-datavis/public/blob/main/fall21/HW6.md#data-sources)
 * [Data Is Plural archive](https://www.data-is-plural.com/archive/) - weekly newsletter of useful/curious datasets
 * [Our World in Data GitHub](https://github.com/owid), [datasets](https://github.com/owid/owid-datasets/tree/master/datasets)
+* [US Census Bureau data](https://data.census.gov)
+  * articles with tools and tips on using US Census Bureau data, https://www.ncdemography.org/category/story-recipe/
+  * working with US Census Bureau data in R using the tidycensus package, https://walker-data.com/tidycensus/
+
 
 ### Interesting Visualizations
 
