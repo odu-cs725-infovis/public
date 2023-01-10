@@ -27,7 +27,8 @@
 * [Our World in Data GitHub](https://github.com/owid), [datasets](https://github.com/owid/owid-datasets/tree/master/datasets)
 * [US Census Bureau data](https://data.census.gov)
   * articles with tools and tips on using US Census Bureau data, https://www.ncdemography.org/category/story-recipe/
-  * working with US Census Bureau data in R using the tidycensus package, https://walker-data.com/tidycensus/
+  * R package, https://walker-data.com/tidycensus/
+  * Python package, https://pypi.org/project/census/
 
 
 ### Interesting Visualizations
