@@ -1,6 +1,6 @@
 # CS 725/825, Spring 2023 Syllabus
 
-M 4:20-7pm, Dragas 2117 and online via Zoom
+M 4:20-7pm, ECSB 3316 and online via Zoom
 
 [Download printable PDF version](https://github.com/odu-cs725-infovis/public/raw/main/spr23/syllabus.pdf)
 
@@ -25,14 +25,14 @@ This course will be delivered in a hybrid method, with one face-to-face section 
 
 CS 725 (MS) sections:
 
-* CRN 33173 - in-person (Dragas 2117)
+* CRN 33173 - in-person 
 * CRN 30757 - WC2 (in Hampton Roads)
 * CRN 30747 - WC5 (in Virginia, but outside of Hampton Roads)
 * CRN 30760 - WC7 (in the US, but outside of Virginia)
 
 CS 825 (PhD) sections:
 
-* CRN 33174 - in-person (Dragas 2117)
+* CRN 33174 - in-person 
 * CRN 30763 - WC2 (in Hampton Roads)
 * CRN 30753 - WC5 (in Virginia, but outside of Hampton Roads)
 * CRN 30767 - WC7 (in the US, but outside of Virginia)
