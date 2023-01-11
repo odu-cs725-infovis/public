@@ -11,7 +11,7 @@ M 4:20-7pm, [ECSB](https://ww1.odu.edu/life/buildings/buildings/ecsb) 3316 (3rd 
 * [TM VAD lecture slides](https://www.cs.ubc.ca/~tmm/talks.html#vadallslides) by Tamara Munzner (textbook author)
 * [EB VAD lecture slides](http://bit.ly/lecture-slides-iv16) by [Enrico Bertini](http://enrico.bertini.io/), NYU
 
-[CS725-S23 Collection at Observable](https://observablehq.com/collection/@weiglemc/cs-725-825-spring-2023) - *to be added*
+[CS725-S23 Collection at Observable](https://observablehq.com/collection/@weiglemc/cs-725-825-spring-2023) 
 
 ## Schedule
 
