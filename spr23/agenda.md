@@ -38,13 +38,34 @@
 
 ## Week 2
 
+[References and Additional Resources for Week 2](resources.md#week-2)
+
 ### Due (before class)
 
 * Read Keim et al., [Visual Analytics: Definition, Process, and Challenges](https://d-nb.info/1098134664/34), *Information Visualization*, 2008
 
 ### Agenda and Materials
 
-* Visual Analytics intro
-* Quick tour of Observable
-* Quick refresher on Vega-Lite
-* Intro to Arquero
+* Visual Analytics slides - *to be posted*
+* [Getting Started with Observable](https://observablehq.com/@observablehq/getting-started)
+  * [Keyboard Shortcuts](https://observablehq.com/@observablehq/keyboard-shortcuts)
+  * [A Minimal Introduction to JavaScript and Observable](https://observablehq.com/@uwdata/a-minimal-introduction-to-javascript-and-observable)
+  * [Observable/GitHub flavored Markdown summary](https://observablehq.com/@ajlimbert/github-flavored-markdown-cheatsheet-observable)
+  * [Introduction to Data](https://observablehq.com/@observablehq/introduction-to-data)
+  * [Minimap](https://observablehq.com/@observablehq/minimap)
+* [Observable for Vega-Lite](https://observablehq.com/collection/@observablehq/observable-for-vega-lite)
+  * [Charting with Vega-Lite](https://observablehq.com/@observablehq/vega-lite?collection=@observablehq/observable-for-vega-lite)
+  * [Vega-Lite Chart Types](https://observablehq.com/@observablehq/vega-lite-chart-types?collection=@observablehq/observable-for-vega-lite)
+  * [Layers and Facets and Concat, Oh My!](https://observablehq.com/@observablehq/layers-facets-concat?collection=@observablehq/observable-for-vega-lite)
+  * [Vega-Lite API v4](https://observablehq.com/@vega/vega-lite-api) vs. [Vega-Lite API v5](https://observablehq.com/@vega/vega-lite-api-v5)
+  * [CS 625 Observable Collection](https://observablehq.com/collection/@weiglemc/cs625)
+  * [Vega-Lite API vs. JSON Examples](https://observablehq.com/@weiglemc/vega-lite-api-vs-json-examples)
+* [Introducing to Arquero](https://observablehq.com/@uwdata/introducing-arquero) - library for query processing and transformation of array-backed data tables
+* Breakout session - using Arquero and Vega-Lite in Observable to create simple charts
+  * fork the [CS 725-S23 Vega-Lite Breakout Observable notebook](https://observablehq.com/@weiglemc/cs725-s23-vega-lite-breakout-notebook) to get started
+
+### Assignment
+
+* HW1 is due next week
+* Review next week's materials before class
+  * in particular, fork and start experimenting with the D3 Observable notebook - *to be posted*
