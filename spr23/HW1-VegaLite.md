@@ -1,6 +1,6 @@
 # Homework 1 - Vega-Lite Intro
 
-**Due:** Monday, January 30, 2022 by 4pm
+**Due:** Monday, January 30, 2023 by 4pm
 
 Read the entire assignment before starting.
 
