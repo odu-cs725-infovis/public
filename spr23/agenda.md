@@ -13,7 +13,7 @@
 * Watch intro to data visualization videos
   * [Tamara Munzner's keynote at d3.unconf](https://www.youtube.com/watch?v=jVC6SQS23ak) (55:49) ([slides](https://www.cs.ubc.ca/~tmm/talks/minicourse14/vad15d3unconf.pdf))
     * at time 34:15 (slide 19) -- pause this video, watch the two below, then go back and finish this one
-  * My Intro to InfoVis lectures from CS 432/532 in the Media Gallery ([slides](https://docs.google.com/presentation/d/1dnKwKgOAWQ37QzHXxbbIZ-J4R8KYFO4Ss12VFkit-wA/preview?rm=minimal))
+  * My Intro to InfoVis lectures from CS 432/532 in the Media Gallery ([slides](https://docs.google.com/presentation/d/1dnKwKgOAWQ37QzHXxbbIZ-J4R8KYFO4Ss12VFkit-wA/preview))
     * CS 432/532 - Mod 03, p1 - InfoVis Principles (12:15)
     * CS 432/532 - Mod 03, p2 - Visualization Idioms (12:39)
 * Make a "Week 1 | Discussion Vis Overview" post in Canvas and review other students' questions.
@@ -46,7 +46,7 @@
 
 ### Agenda and Materials
 
-* [Week 2 - Visual Analytics slides](https://docs.google.com/presentation/d/1SnabdFdtfhyYQov66Hr3ZvfMp1U3TZ3DSuTVDBZHTTU/preview?rm=minimal)
+* [Week 2 - Visual Analytics slides](https://docs.google.com/presentation/d/1SnabdFdtfhyYQov66Hr3ZvfMp1U3TZ3DSuTVDBZHTTU/preview)
 * [Getting Started with Observable](https://observablehq.com/@observablehq/getting-started)
   * [Keyboard Shortcuts](https://observablehq.com/@observablehq/keyboard-shortcuts)
   * [A Minimal Introduction to JavaScript and Observable](https://observablehq.com/@uwdata/a-minimal-introduction-to-javascript-and-observable)
