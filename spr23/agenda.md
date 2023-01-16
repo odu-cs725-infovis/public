@@ -46,7 +46,7 @@
 
 ### Agenda and Materials
 
-* [Week 2 - Visual Analytics slides](https://docs.google.com/presentation/d/1SnabdFdtfhyYQov66Hr3ZvfMp1U3TZ3DSuTVDBZHTTU/edit?usp=share_link)
+* [Week 2 - Visual Analytics slides](https://docs.google.com/presentation/d/1SnabdFdtfhyYQov66Hr3ZvfMp1U3TZ3DSuTVDBZHTTU/preview?rm=minimal)
 * [Getting Started with Observable](https://observablehq.com/@observablehq/getting-started)
   * [Keyboard Shortcuts](https://observablehq.com/@observablehq/keyboard-shortcuts)
   * [A Minimal Introduction to JavaScript and Observable](https://observablehq.com/@uwdata/a-minimal-introduction-to-javascript-and-observable)
