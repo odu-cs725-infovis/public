@@ -1,6 +1,6 @@
 # ODU CS 725/825 - Information Visualization & Data Analytics, Spring 2023
 
-M 4:20-7pm, [ECSB](https://ww1.odu.edu/life/buildings/buildings/ecsb) 3316 (3rd floor conference room) and online via Zoom
+M 4:20-7pm, [ECSB](https://odu.edu/life/buildings/buildings/ecsb) 3316 (3rd floor conference room) and online via Zoom
 
 ## Links
 
@@ -25,7 +25,7 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |---|---|---|---|---|
 |[1](agenda.md#week-1)|Jan 9|Course Intro, Data Vis Overview | HW1  | Personal Intro, Week 1 Discussion |
 ||Jan 16|**NO CLASS - MLK Day** | | |
-|[2](agenda.md#week-2)|Jan 23|Visual Analytics Principles, Vega-Lite Intro | |  |
+|[2](agenda.md#week-2)|Jan 23<br>**ONLINE**|Visual Analytics Principles, Vega-Lite Intro | |  |
 |[3](agenda.md#week-3)|Jan 30|IEEE VIS Conferences, Reading Academic Papers, D3 Principles and Data Manipulation | HW2 | HW1  |
 |[4](agenda.md#week-4)|Feb 6| Giving Presentations, D3 Vis Intro  | paper presentation |  |
 |[5](agenda.md#week-5)|Feb 13| Handling Complexity in Data, D3 Vis | HW3 | HW2  |
