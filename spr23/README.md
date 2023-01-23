@@ -1,6 +1,6 @@
 # ODU CS 725/825 - Information Visualization & Data Analytics, Spring 2023
 
-M 4:20-7pm, [ECSB](https://ww1.odu.edu/life/buildings/buildings/ecsb) 3316 (3rd floor conference room) and online via Zoom
+M 4:20-7pm, [ECSB](https://odu.edu/life/buildings/buildings/ecsb) 3316 (3rd floor conference room) and online via Zoom
 
 ## Links
 
