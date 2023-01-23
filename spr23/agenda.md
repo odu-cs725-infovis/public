@@ -69,3 +69,25 @@
 * HW1 is due next week
 * Review next week's materials before class
   * in particular, fork and start experimenting with the D3 Observable notebook - *to be posted*
+
+## Week 3
+
+[References and Additional Resources for Week 3](resources.md#week-3)
+
+### Due (by 4pm)
+
+* HW1
+
+### Agenda and Materials
+
+* IEEE VIS Conferences
+  * slides ([Week-03-VIS](https://docs.google.com/presentation/d/1Qy17ElNTbgEvvcqxKuAqRMfrifVDPDr8KbKCR5mb6Vw/preview))
+* Reading Academic Papers
+  * slides from CS 800 ([Week-03b-Reading](https://docs.google.com/presentation/d/1iCAQLektZfcHzJi95StyGhzhAc-zjhi2cDmII3_Tlik/preview))
+* D3 Principles and Data Manipulation
+  * [D3 Data Intro](https://observablehq.com/@weiglemc/cs725-s23-d3-data-intro)
+
+### Assignment
+
+* [HW2](HW2-data.md) -  Data Manipulation - *to be posted*
+* Review next week's materials before class
