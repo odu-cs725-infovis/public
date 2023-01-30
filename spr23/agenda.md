@@ -93,3 +93,21 @@
 
 * [HW2](HW2-data.md) -  Data Manipulation
 * Review next week's materials before class
+
+## Week 4
+
+[References and Additional Resources for Week 4](resources.md#week-4)
+
+### Agenda and Materials
+
+* Giving Presentations
+  * slides from CS 800 ([Week-06-Presenting](https://docs.google.com/presentation/d/1bCCL7bw5j41e3se3oLH-qakLT0P0GKFhec5T8EZ9FXs/preview))
+* *5 min break*
+* [D3 Vis Intro](https://observablehq.com/@weiglemc/cs725-s23-d3-vis-intro)
+
+### Assignment
+
+* [Academic Paper Presentation](presentation.md) - *to be posted*
+  * Required reading: Tamara Munzner, ["Process and Pitfalls in Writing Information Visualization Research Papers"](http://www.cs.ubc.ca/labs/imager/tr/2008/pitfalls/pitfalls.pdf), 2008.
+* Review next week's materials before class
+
