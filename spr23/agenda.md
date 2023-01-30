@@ -82,12 +82,14 @@
 
 * IEEE VIS Conferences
   * slides ([Week-03-VIS](https://docs.google.com/presentation/d/1Qy17ElNTbgEvvcqxKuAqRMfrifVDPDr8KbKCR5mb6Vw/preview))
+* *3 min break*
 * Reading Academic Papers
   * slides from CS 800 ([Week-03b-Reading](https://docs.google.com/presentation/d/1iCAQLektZfcHzJi95StyGhzhAc-zjhi2cDmII3_Tlik/preview))
+* *5 min break*
 * D3 Principles and Data Manipulation
   * [D3 Data Intro](https://observablehq.com/@weiglemc/cs725-s23-d3-data-intro)
 
 ### Assignment
 
-* [HW2](HW2-data.md) -  Data Manipulation - *to be posted*
+* [HW2](HW2-data.md) -  Data Manipulation
 * Review next week's materials before class
