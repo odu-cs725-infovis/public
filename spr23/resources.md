@@ -124,3 +124,31 @@
   * NYU Vis [JavaScript Basics](https://observablehq.com/@nyuvis/javascript-basics?collection=@nyuvis/guides-and-examples)
 * NYU Vis [Data Transformation](https://observablehq.com/@nyuvis/data-transformation)
 * NYU Vis [SVG and D3 Basics](https://observablehq.com/@nyuvis/d3-introduction?collection=@nyuvis/guides-and-examples)
+
+## Week 4
+
+### Giving Presentations
+
+* Ashwin Ram, [Presenting a Paper](https://www.cc.gatech.edu/faculty/ashwin/wisdom/how-to-present-a-paper.html) - focuses on presenting others' work
+* Jiri Srba, [How to Read and Present a Scientific Paper](https://homes.cs.aau.dk/~srba/courses/FS-07/slides-talk.pdf)
+* Nicholas Nethercote, [Giving a Good Research Talk](https://web.archive.org/web/20200220135851/http://njn.valgrind.org/good-talk.html)
+* Justin Brunelle, [Presenting Academic Research slides](https://www.cs.odu.edu/~jbrunelle/cs891/lectures/06_presenting101.pdf), from CS 891, Fall 2019 - *link current doesn't work, checking it out*
+* Tamara Munzner, <http://www.cs.ubc.ca/~tmm/policy.txt>
+* Jones et al., [How to Give a Good Research Talk](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/giving-a-talk.pdf)
+* Arnaud Legout, [How To Give a Talk](http://cel.archives-ouvertes.fr/cel-00529505/en/) - comprehensive set of guidelines, includes advice on slide design
+* Jean-luc Doumont, [Creating Effective Slides](https://www.youtube.com/watch?v=meBXuTIPJQk), talk April 4, 2013 at Clark Center, Stanford Univeristy, video (1:03:03)
+* English Communication for Scientists, [Giving Oral Presentations](https://www.nature.com/scitable/ebooks/english-communication-for-scientists-14053993/giving-oral-presentations-14239332) (includes delivering as a non-native speaker)
+
+### D3 Vis Intro
+
+* [Video playlist for W209 Data Visualization at UC Berkeley's Masters in Data Science (MIDS) Program](https://www.youtube.com/playlist?list=PLmRfPZr9-VoGodduNBkPKoNNXeOBMmQGz) - includes web development basics, ObservableHQ, Intro to D3 with Observable, Intro to Vega-Lite with Observable, and more!
+* [CS725-S23 D3 Vis Intro](https://observablehq.com/@weiglemc/cs725-s23-d3-vis-intro)
+  * [NYU Visualization Guides and Examples Collection](https://observablehq.com/collection/@nyuvis/guides-and-examples)
+  * [NYU Vis D3 Introduction](https://observablehq.com/@nyuvis/d3-introduction?collection=@nyuvis/guides-and-examples)
+  * [SVG Translate Example slides](https://docs.google.com/presentation/d/1TKFcgmPKvybFX22-XDJ8f3Hn_0IVbmo5rt045GX34jE/preview?rm=minimal)
+  * [NYU Vis Bar Chart Walk-through](https://observablehq.com/@nyuvis/bar-chart-walk-through?collection=@nyuvis/guides-and-examples)
+* [Learn D3 Collection](https://observablehq.com/collection/@d3/learn-d3)
+  * [Learn D3: By Example](https://observablehq.com/@d3/learn-d3-by-example?collection=@d3/learn-d3)
+* [D3 Documentation Collection](https://observablehq.com/collection/@d3/documentation)
+* [D3 Gallery](https://observablehq.com/@d3/gallery)
+* [D3 API Reference](https://github.com/d3/d3/blob/main/API.md)
