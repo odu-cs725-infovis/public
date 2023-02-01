@@ -107,7 +107,7 @@
 
 ### Assignment
 
-* [Academic Paper Presentation](presentation.md) - *to be posted*
+* [Academic Paper Presentation](presentation.md) 
   * Required reading: Tamara Munzner, ["Process and Pitfalls in Writing Information Visualization Research Papers"](http://www.cs.ubc.ca/labs/imager/tr/2008/pitfalls/pitfalls.pdf), 2008.
 * Review next week's materials before class
 
