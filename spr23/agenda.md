@@ -111,3 +111,29 @@
   * Required reading: Tamara Munzner, ["Process and Pitfalls in Writing Information Visualization Research Papers"](http://www.cs.ubc.ca/labs/imager/tr/2008/pitfalls/pitfalls.pdf), 2008.
 * Review next week's materials before class
 
+## Week 5
+
+[References and Additional Resources for Week 5](resources.md#week-5)
+
+### Due (before class)
+
+* HW2
+
+### Agenda and Materials
+
+* Handling Complexity in Data
+  * slides ([Week-05-Complexity](https://docs.google.com/presentation/d/14ddgduj5kJ-JzJ-_pTkzOKmbO9NlSVuJcUX_IZLr7n0/preview))
+  * [Flat and Hierarchical Clustering | The Dendrogram Explained](https://www.youtube.com/watch?v=ijUMKMC4f9I) (8:26)
+  * [K Means Clustering: Pros and Cons of K Means Clustering](https://www.youtube.com/watch?v=YIGtalP1mv0) (watch up to time 4:44)
+* [Clustering Example with Vega-Lite](https://observablehq.com/@weiglemc/cs725-clustering-example-with-vega-lite)
+* D3 Vis Intro
+  * [Bar Chart](https://observablehq.com/@weiglemc/cs725-d3-intro-bar-chart)
+  * [Scatterplot](https://observablehq.com/@weiglemc/cs725-d3-intro-scatterplot)
+  * [Line and Area Charts](https://observablehq.com/@weiglemc/cs725-d3-intro-line-and-area-charts)
+  * [Layered Line and Area Charts](https://observablehq.com/@weiglemc/cs725-d3-intro-layered-line-and-area-charts)
+  * [Multi-Line Chart Arquero Data Setup](https://observablehq.com/@weiglemc/cs725-multi-line-chart-arquero-data-setup)
+
+### Assignment
+
+* [HW3](HW3.md) - *link to be posted*
+* Review next week's materials before class
