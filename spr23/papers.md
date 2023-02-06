@@ -8,7 +8,7 @@ At the bottom, I have a list of papers that were presented in class in 2020 and 
 
 ## Pre-2019
 
-1. Graph-Theoretic Scagnostics 
+1. Graph-Theoretic Scagnostics  
 Authors: Leland Wilkinson, Anushka Anand, Robert Grossman  
 IEEE InfoVis 2005
 1. Graphical Inference for Infovis  
