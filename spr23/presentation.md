@@ -1,6 +1,6 @@
 # Academic Paper Presentation
 
-Give a 15-20 minute presentation on an academic paper from the IEEE VIS conference. The presentations will be scheduled during class starting on **March 27** with no more than 4 presentations per class meeting. (Definite dates still TBA.)
+Give a 15-20 minute presentation on an academic paper from the IEEE VIS conference. The presentations will be scheduled during class on **March 27** and **April 3** with 4 presentations per class meeting. 
 
 ## Mechanics
 
@@ -72,4 +72,4 @@ Students who are not presenting also have responsibilities.
 
 ## Submission
 
-Before class on **Monday, March 27**, submit your slides via Canvas in the Academic Paper Presentation. Either upload your slides or submit the link if they're in Google Slides.
+Before class on **Monday, March 27**, submit your slides via Canvas in the Academic Paper Presentation Assignment. Either upload your slides or submit the link if they're in Google Slides.
