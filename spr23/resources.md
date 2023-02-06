@@ -132,7 +132,7 @@
 * Ashwin Ram, [Presenting a Paper](https://www.cc.gatech.edu/faculty/ashwin/wisdom/how-to-present-a-paper.html) - focuses on presenting others' work
 * Jiri Srba, [How to Read and Present a Scientific Paper](https://homes.cs.aau.dk/~srba/courses/FS-07/slides-talk.pdf)
 * Nicholas Nethercote, [Giving a Good Research Talk](https://web.archive.org/web/20200220135851/http://njn.valgrind.org/good-talk.html)
-* Justin Brunelle, [Presenting Academic Research slides](https://www.cs.odu.edu/~jbrunelle/cs891/lectures/06_presenting101.pdf), from CS 891, Fall 2019 - *link current doesn't work, checking it out*
+* Justin Brunelle, [Presenting Academic Research slides](https://drive.google.com/file/d/1UYJehNbfIYRvcFm5ve5Bx7l0IKZipRWp/view?usp=share_link), from CS 891, Fall 2019
 * Tamara Munzner, <http://www.cs.ubc.ca/~tmm/policy.txt>
 * Jones et al., [How to Give a Good Research Talk](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/giving-a-talk.pdf)
 * Arnaud Legout, [How To Give a Talk](http://cel.archives-ouvertes.fr/cel-00529505/en/) - comprehensive set of guidelines, includes advice on slide design
