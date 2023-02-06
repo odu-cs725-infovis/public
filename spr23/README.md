@@ -36,6 +36,6 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |[9](agenda.md#week-9)|Mar 20|Visualizing Uncertainty | | HW4 |
 |[10](agenda.md#week-10)| Mar 27|VIS Paper Presentations | | paper presentation |
 |[11](agenda.md#week-11)| Apr 3|VIS Paper Presentations | | |
-|[12](agenda.md#week-12)| Apr 10|VIS Paper Presentations | | |
+|12| Apr 10|**NO CLASS - Work on project** | | |
 |[13](agenda.md#week-13)| Apr 17|Project Demos | | project |
 |[14](agenda.md#week-14)| Apr 24|Project Demos | | project report|
