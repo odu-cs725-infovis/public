@@ -4,7 +4,9 @@ M 4:20-7pm, [ECSB](https://odu.edu/life/buildings/buildings/ecsb) 3316 (3rd floo
 
 ## Links
 
-[Canvas Course](https://canvas.odu.edu/courses/132393) | [Syllabus](syllabus.md) | [Instructor Contact Info](https://canvas.odu.edu/courses/132393/pages/meet-your-instructor?module_item_id=3734954)
+[Canvas Course](https://canvas.odu.edu/courses/132393): [Syllabus](syllabus.md) | [Instructor Contact Info](https://canvas.odu.edu/courses/132393/pages/meet-your-instructor?module_item_id=3734954)
+
+* [Paper Presentation Schedule](https://canvas.odu.edu/courses/132393/pages/paper-presentation-schedule)
 
 [*Visualization Analysis and Design* textbook](https://www.cs.ubc.ca/~tmm/vadbook/) (VAD)
 
