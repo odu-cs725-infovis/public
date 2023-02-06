@@ -4,7 +4,9 @@ Give a 15-20 minute presentation on an academic paper from the IEEE VIS conferen
 
 ## Mechanics
 
-Paper selection and scheduling will be done through Discussion Boards in Canvas.  See the "Paper Selection" Discussion Board for information on how to register your selection. Once all papers have been chosen, we'll start scheduling the presentations in a similar manner.  See [Suggested Papers](papers.md) for a list of suggested papers, but you may request approval to present any other IEEE VIS paper. All papers must be selected by **Monday, February 20** *before class*.
+Paper selection and scheduling will be done through Discussion Boards in Canvas.  See the "Paper Selection" Discussion Board for information on how to register your selection. Once all papers have been chosen, we'll start scheduling the presentations in a similar manner.  Selected papers and the final schedule will be posted on the [Paper Presentation Schedule](https://canvas.odu.edu/courses/132393/pages/paper-presentation-schedule) page in Canvas.
+
+See [Suggested Papers](papers.md) for a list of suggested papers, but you may request approval to present any other IEEE VIS paper. All papers must be selected by **Monday, February 20** *before class*.
 
 All presentations must be completed by **Monday, March 27** *before class*.  See [Submission](#submission) below.
 
