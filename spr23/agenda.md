@@ -2,6 +2,8 @@
 
 *Video recordings of class meetings will typically be posted in the Canvas Media Gallery by the morning after class.*
 
+[Jump to this week](#week-5)
+
 ## Week 1
 
 [References and Additional Resources for Week 1](resources.md#week-1)
@@ -118,14 +120,14 @@
 ### Due (before class)
 
 * HW2
+* Watch the videos [Flat and Hierarchical Clustering | The Dendrogram Explained](https://www.youtube.com/watch?v=ijUMKMC4f9I) (8:26) and [K Means Clustering: Pros and Cons of K Means Clustering](https://www.youtube.com/watch?v=YIGtalP1mv0) (watch up to time 4:44)
 
 ### Agenda and Materials
 
 * Handling Complexity in Data
   * slides ([Week-05-Complexity](https://docs.google.com/presentation/d/14ddgduj5kJ-JzJ-_pTkzOKmbO9NlSVuJcUX_IZLr7n0/preview))
-  * [Flat and Hierarchical Clustering | The Dendrogram Explained](https://www.youtube.com/watch?v=ijUMKMC4f9I) (8:26)
-  * [K Means Clustering: Pros and Cons of K Means Clustering](https://www.youtube.com/watch?v=YIGtalP1mv0) (watch up to time 4:44)
 * [Clustering Example with Vega-Lite](https://observablehq.com/@weiglemc/cs725-clustering-example-with-vega-lite)
+* *5 min break*
 * D3 Vis Intro
   * [Bar Chart](https://observablehq.com/@weiglemc/cs725-d3-intro-bar-chart)
   * [Scatterplot](https://observablehq.com/@weiglemc/cs725-d3-intro-scatterplot)
