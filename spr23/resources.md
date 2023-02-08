@@ -1,5 +1,7 @@
 # References and Additional Resources
 
+[Jump to this week](#week-5)
+
 ## Week 1
 
 [CS 725/825 project highlights (2021-2022)](https://ws-dl.blogspot.com/2022/12/2022-12-02-visualization-class-projects.html)
@@ -169,6 +171,7 @@
 ### D3 Vis
 
 * [CS 725/825, S23 Observable Collection](https://observablehq.com/collection/@weiglemc/cs-725-825-spring-2023) - public notebooks for this semester
+* [D3 Lessons](http://lessons.vaclab.unc.edu/), UNC INLS 641 Visual Analytics, David Gotz
 * [NYU Vis Bar Chart Walkthrough](https://observablehq.com/@nyuvis/bar-chart-walk-through)
 * [NYU Vis SVG and D3 Basics Practice](https://observablehq.com/@nyuvis/svg-and-d3-basics-practice-solutions) - scatterplot
 * [NYU Vis Lines and Maps](https://observablehq.com/@nyuvis/lines-and-maps) - line and area charts
