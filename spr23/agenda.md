@@ -106,6 +106,7 @@
   * slides from CS 800 ([Week-06-Presenting](https://docs.google.com/presentation/d/1bCCL7bw5j41e3se3oLH-qakLT0P0GKFhec5T8EZ9FXs/preview))
 * *5 min break*
 * [D3 Vis Intro](https://observablehq.com/@weiglemc/cs725-s23-d3-vis-intro)
+  * [supplemental slides](https://docs.google.com/presentation/d/1r_hh5f0sdSrxXYb-UJGSu-OlG1U65H32pAgraMVDVg0/preview)
 
 ### Assignment
 
