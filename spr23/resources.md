@@ -158,6 +158,13 @@
 
 ## Week 5
 
+### Handling Complexity
+* Tamara Munzner's VAD lectures
+  * [Ch 11/12 Interactive Views, p1](https://www.youtube.com/watch?v=dHSYXZMY96s&list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk&index=19) (25:38)
+  * [Ch 11/12 Interactive Views, p2](https://www.youtube.com/watch?v=hxBRDRf_rTM&list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk&index=20) (29:27)
+  * [Ch 13 Reduce: Aggregation and Filtering](https://www.youtube.com/watch?v=3KjGpVo6JDU&list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk&index=21) (24:39)
+  * [Ch 14 Embed: Focus + Context](https://www.youtube.com/watch?v=A6NfuuAlENc&list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk&index=22) (8:53)
+
 ### Clustering
 
 * Segaran, [*Programming Collective Intelligence*](https://go.oreilly.com/old-dominion-university/library/view/programming-collective-intelligence/9780596529321/) - textbook used in CS 432/532, includes lots of Python code examples
