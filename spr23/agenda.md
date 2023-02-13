@@ -138,7 +138,7 @@
 
 ### Assignment
 
-* [HW3-D3](HW3.md) - Intro to D3
+* [HW3](HW3-D3.md) - Intro to D3
 * Review next week's materials before class
 
 ## Week 6
