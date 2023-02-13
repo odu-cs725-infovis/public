@@ -193,6 +193,7 @@
 ### Network and Tree Visualization Slide References
 
 * Tamara Munzner, Visualization Analysis & Design [slides](https://www.cs.ubc.ca/~tmm/talks/minicourse14/vadallslides.pdf) (pdf)
+   * [Ch 9 Network Data](https://www.youtube.com/watch?v=XOUJssmvz58&list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk&index=13) (30:49)
 * [Force-directed Graph Drawing (Wikipedia)](https://en.wikipedia.org/wiki/Force-directed_graph_drawing)
 * Kate Starbird, [“Information Wars: A Window into the Alternative Media Ecosystem”](https://medium.com/hci-design-at-uw/information-wars-a-window-into-the-alternative-media-ecosystem-a1347f32fd8f)
 * [NYU Networks notebook](https://observablehq.com/@nyuvis/networks) - adjacency matrix, force-directed node-link
