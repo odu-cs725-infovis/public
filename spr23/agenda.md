@@ -130,7 +130,7 @@
 * [Clustering Example with Vega-Lite](https://observablehq.com/@weiglemc/cs725-clustering-example-with-vega-lite)
 * *5 min break*
 * D3 Vis Intro
-  * [Bar Chart](https://observablehq.com/@weiglemc/cs725-d3-intro-bar-chart)
+  * [Bar Chart](https://observablehq.com/@weiglemc/cs725-d3-intro-bar-chart) ([supplemental slides](https://docs.google.com/presentation/d/1r_hh5f0sdSrxXYb-UJGSu-OlG1U65H32pAgraMVDVg0/preview))
   * [Scatterplot](https://observablehq.com/@weiglemc/cs725-d3-intro-scatterplot)
   * [Line and Area Charts](https://observablehq.com/@weiglemc/cs725-d3-intro-line-and-area-charts)
   * [Layered Line and Area Charts](https://observablehq.com/@weiglemc/cs725-d3-intro-layered-line-and-area-charts)
