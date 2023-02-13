@@ -180,3 +180,44 @@
 * [Arquero and D3](https://observablehq.com/@uwdata/arquero-and-d3?collection=@uwdata/arquero)
 * [Multi-line chart data preparation in Arquero](https://observablehq.com/@uwdata/multi-line-chart-data-preparation)
 * [Multi-line chart D3 template](https://observablehq.com/@d3/multi-line-chart)
+
+## Week 6
+
+### Network and Tree Visualization Slide References
+
+* Tamara Munzner, Visualization Analysis & Design [slides](https://www.cs.ubc.ca/~tmm/talks/minicourse14/vadallslides.pdf) (pdf)
+* [Force-directed Graph Drawing (Wikipedia)](https://en.wikipedia.org/wiki/Force-directed_graph_drawing)
+* Kate Starbird, [“Information Wars: A Window into the Alternative Media Ecosystem”](https://medium.com/hci-design-at-uw/information-wars-a-window-into-the-alternative-media-ecosystem-a1347f32fd8f)
+* [NYU Networks notebook](https://observablehq.com/@nyuvis/networks) - adjacency matrix, force-directed node-link
+* [Intro to Forced Layouts](https://observablehq.com/@jkeohan/intro-to-forced-layouts) - examples of different forces
+* [Force-Directed Graph](https://observablehq.com/@d3/force-directed-graph) - interactive version (interaction code starts at function drag())
+* [Interactive & Dynamic Force-Directed Graphs with D3](https://medium.com/ninjaconcept/interactive-dynamic-force-directed-graphs-with-d3-da720c6d7811) - walkthrough with more explanation (d3.v4)
+* [Simple Force-Directed Graph for CS 432/532](https://observablehq.com/@weiglemc/force-directed-layout-example-cs-432-532-spring-2020)
+
+### Interactivity in Vega-Lite
+
+* [Interaction - Vega-Lite](https://observablehq.com/@uwdata/interaction) - notebook from UW IDL
+  * [Intro to Interactions in Vega-Lite](https://observablehq.com/@jonfroehlich/intro-to-interaction-in-vega-lite), complements original UW notebook and includes more complex examples
+* Vega-Lite v5 updates - <https://github.com/vega/vega-lite/releases/tag/v5.0.0> (moves from using `selection` to `params`)
+  * Selection Parameters section in Dynamic Behaviors with Parameters, <https://vega.github.io/vega-lite/docs/parameter.html#select>
+* <https://observablehq.com/@john-guerra/vega-lite-selection-methods> - uses Vega-Lite v4
+* <https://vega.github.io/vega-lite-api/api/#parameters>
+* <https://vega.github.io/vega-lite-api/api/#parameter-bindings>
+* <https://vega.github.io/vega/docs/event-streams/>
+* <https://vega.github.io/vega-lite/examples/#interactive> 
+
+### Observable Inputs
+
+* <https://observablehq.com/@observablehq/inputs?collection=@observablehq/libraries>
+* <https://observablehq.com/@observablehq/hello-inputs>
+* <https://observablehq.com/@mbostock/scrubber>
+
+### Interaction in D3
+
+* [Interaction - D3](https://observablehq.com/@nyuvis/interaction?collection=@nyuvis/guides-and-examples) - notebook from NYU Vis
+* <https://observablehq.com/@nyuvis/interaction>
+* <https://developer.mozilla.org/en-US/docs/Web/Events#Standard_events>
+* <https://observablehq.com/@observablehq/introduction-to-views>
+* <https://github.com/d3/d3-brush>
+* <https://observablehq.com/collection/@d3/d3-brush>
+* <https://observablehq.com/@uwdata/introduction-to-d3-part-2>

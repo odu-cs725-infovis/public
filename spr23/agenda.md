@@ -138,5 +138,29 @@
 
 ### Assignment
 
-* [HW3](HW3.md) - *link to be posted*
+* [HW3-D3](HW3.md) - Intro to D3
+* Review next week's materials before class
+
+## Week 6
+
+[References and Additional Resources for Week 6](resources.md#week-6)
+
+### Due (before class)
+
+* Paper selection for presentation
+* Review Ch 9 in *Visualization Analysis & Design* (textbook link in the Syllabus)
+* Skim Heer and Shneiderman, [Interactive Dynamics for Visual Analysis](https://queue.acm.org/detail.cfm?id=2146416) ([CACM pdf](https://idl.cs.washington.edu/files/2012-InteractiveDynamics-CACM.pdf)), *Communications of the ACM*, vol. 55, no. 4, pgs. 45-54
+* Skim Interaction notebooks for [Vega-Lite](https://observablehq.com/@uwdata/interaction) and [D3](https://observablehq.com/@nyuvis/interaction?collection=@nyuvis/guides-and-examples)
+
+### Agenda and Materials
+
+* Network and Tree Vis
+  * slides ([Week-06-Networks-Trees](https://docs.google.com/presentation/d/1fW5TVaA5_qGBbzoBpvHNwagkgycg3mQzvaYzN6KJfII/preview))
+* *5 min break*
+* Interactivity
+  * Vega-Lite: Interaction in Vega-Lite, <https://observablehq.com/@weiglemc/cs725-interaction-in-vega-lite>
+  * D3: NYU Vis Interaction notebook, <https://observablehq.com/@nyuvis/interaction> 
+
+### Assignment
+
 * Review next week's materials before class
