@@ -26,6 +26,13 @@ Some papers may have an associated 30-second video (for example, see the [VIS 20
 
 **Update (2/8/23):** Each presentation must include a classification of the paper into one of five paper types (technique, design study, systems, evaluation, model) as described in Tamara Munzner's ["Process and Pitfalls in Writing Information Visualization Research Papers"](http://www.cs.ubc.ca/labs/imager/tr/2008/pitfalls/pitfalls.pdf). This classification should be based on the paper's main contribution and you must explain why the paper fits into the selected category.
 
+* Technique/Algorithm - focus on novel algorithms, must include an implementation, evaluation would include algorithm complexity analysis, quantitative timing measurements of the implementation, and/or qualitiative discussion of images created by the new algorithm
+* Design Study - makes the case that a new visual representation is a suitable solution for a particular domain problem, must explain the target problem, state design requirements, present visual encoding and interaction mechanisms, main contribution is a well-reasoned justification of how existing techniques can be usefully combined
+* Systems/Toolkit - focus on architectural choices made in the design of an infrastructure, framework, or toolkit, does *not* introduce new algorithms or a new design, contribution is the discussion of architectural design choices and abstractions in a framework or library
+* Evaluation/Summative User Study - focus on assessing how an infovis system or technique is used by some target population, does *not* introduce new algorithms or techniques, most common approach is a formal user study
+* Model - present formalisms and abstractions, meta-research papers (purpose is to help other researchers think about their own work)
+* Combination - some papers are a mixture
+
 ## Grading
 
 This assignment is worth 25% of your final grade. The main portions of the grade are further explained below.  
