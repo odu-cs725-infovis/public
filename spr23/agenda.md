@@ -2,7 +2,7 @@
 
 *Video recordings of class meetings will typically be posted in the Canvas Media Gallery by the morning after class.*
 
-[Jump to this week](#week-5)
+[Jump to this week](#week-6)
 
 ## Week 1
 
@@ -163,4 +163,24 @@
 
 ### Assignment
 
+* Review next week's materials before class
+
+## Week 7
+
+[References and Additional Resources for Week 7](resources.md#week-7)
+
+### Due (before class)
+
+* Read Bach et al., "Dashboard Design Patterns", IEEE VIS 2022, https://ieeexplore.ieee.org/document/9903550 ([arXiv](https://arxiv.org/abs/2205.00757))
+* HW3
+
+### Agenda and Materials
+*to be updated*
+
+* Dashboard Design
+* Implementing Dashboards
+
+### Assignment
+
+* HW4 - Dashboards and Interaction - *to be updated*
 * Review next week's materials before class
