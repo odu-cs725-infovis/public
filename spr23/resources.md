@@ -1,6 +1,6 @@
 # References and Additional Resources
 
-[Jump to this week](#week-5)
+[Jump to this week](#week-6)
 
 ## Week 1
 
@@ -229,3 +229,10 @@
 * <https://github.com/d3/d3-brush>
 * <https://observablehq.com/collection/@d3/d3-brush>
 * <https://observablehq.com/@uwdata/introduction-to-d3-part-2>
+
+## Week 7
+
+### Dashboard Design
+
+* Bakusevych, [10 Rules for Better Dashboard Design](https://uxplanet.org/10-rules-for-better-dashboard-design-ef68189d734c)
+* Tableau Help, [Best Visual Practices](https://help.tableau.com/current/blueprint/en-us/bp_visual_best_practices.htm%20)
