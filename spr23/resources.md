@@ -1,6 +1,6 @@
 # References and Additional Resources
 
-[Jump to this week](#week-6)
+[Jump to this week](#week-7)
 
 ## Week 1
 
