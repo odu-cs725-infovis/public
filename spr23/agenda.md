@@ -2,7 +2,7 @@
 
 *Video recordings of class meetings will typically be posted in the Canvas Media Gallery by the morning after class.*
 
-[Jump to this week](#week-6)
+[Jump to this week](#week-7)
 
 ## Week 1
 
@@ -175,12 +175,15 @@
 * HW3
 
 ### Agenda and Materials
-*to be updated*
 
 * Dashboard Design
+  * walk-through <https://dashboarddesignpatterns.github.io/>
+* *5 min break*
 * Implementing Dashboards
+  * [Vega-Lite Dashboard with Brushing and Linking](https://observablehq.com/@weiglemc/cs725-vega-lite-dashboard-with-brushing-and-linking)
+  * [D3 Dashboard with Brushing and Linking](https://observablehq.com/@weiglemc/cs725-d3-dashboard-with-brushing-and-linking)
 
 ### Assignment
 
-* HW4 - Dashboards and Interaction - *to be updated*
-* Review next week's materials before class
+* HW4 - Dashboards and Interaction - *to be posted*
+* Next week is Spring Break!
