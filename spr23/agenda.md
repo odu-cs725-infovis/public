@@ -185,5 +185,6 @@
 
 ### Assignment
 
+* Table Scraps video and discussion - see Canvas
 * HW4 - Dashboards and Interaction - *to be posted*
 * Next week is Spring Break!
