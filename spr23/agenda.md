@@ -180,7 +180,9 @@
   * Gotz et al., "Improving Visualization Interpretation Using Counterfactuals", IEEE VIS 2021, https://vaclab.unc.edu/publication/tvcg_2022_kaul/tvcg_2022_kaul.pdf
   * Video of presentation: https://vimeo.com/640020787 (10:55)
 * Dashboard Design
-  * walk-through <https://dashboarddesignpatterns.github.io/>
+  * Dashboard Design Patterns website, <https://dashboarddesignpatterns.github.io/>
+  * Bakusevych, [10 Rules for Better Dashboard Design](https://uxplanet.org/10-rules-for-better-dashboard-design-ef68189d734c)
+  * Tableau Help, [Best Visual Practices](https://help.tableau.com/current/blueprint/en-us/bp_visual_best_practices.htm)
 * *5 min break*
 * Implementing Dashboards
   * [Vega-Lite Dashboard with Brushing and Linking](https://observablehq.com/@weiglemc/cs725-vega-lite-dashboard-with-brushing-and-linking)
