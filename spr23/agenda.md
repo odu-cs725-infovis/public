@@ -190,6 +190,7 @@
 
 ### Assignment
 
-* Table Scraps video and discussion - see Canvas
+* Table Scraps video and discussion - see Canvas Discussions
 * [HW4](HW4-dashboard.md) - Dashboards and Interaction
+* [Interactive Dashboard Visualization Project](project.md)
 * Next week is Spring Break!
