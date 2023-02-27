@@ -176,6 +176,9 @@
 
 ### Agenda and Materials
 
+* Counterfactuals
+  * Gotz et al., "Improving Visualization Interpretation Using Counterfactuals", IEEE VIS 2021, https://vaclab.unc.edu/publication/tvcg_2022_kaul/tvcg_2022_kaul.pdf
+  * Video of presentation: https://vimeo.com/640020787 (10:55)
 * Dashboard Design
   * walk-through <https://dashboarddesignpatterns.github.io/>
 * *5 min break*
