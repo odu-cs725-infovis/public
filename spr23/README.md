@@ -35,8 +35,8 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |[7](agenda.md#week-7)|Feb 27|Dashboard Design, Implementing Dashboards in Vega-Lite and D3 | HW4 | HW3  |
 ||Mar 6|**NO CLASS - Spring Break** | | |
 |[8](agenda.md#week-8)|Mar 13|Project Discussion | project | |
-|[9](agenda.md#week-9)|Mar 20|Visualizing Uncertainty | | HW4 |
-|[10](agenda.md#week-10)| Mar 27|VIS Paper Presentations | | paper presentation |
+|[9](agenda.md#week-9)|Mar 20|Visualizing Uncertainty | | HW4<br/>project topic |
+|[10](agenda.md#week-10)| Mar 27|VIS Paper Presentations | | paper presentation<br/>project audience, task, and scenario |
 |[11](agenda.md#week-11)| Apr 3|VIS Paper Presentations | | |
 |12| Apr 10|**NO CLASS - Work on project** | | |
 |[13](agenda.md#week-13)| Apr 17|Project Demos | | project |
