@@ -232,12 +232,4 @@
 
 ## Week 7
 
-### Counterfactuals
-
-* Gotz et al., "Improving Visualization Interpretation Using Counterfactuals", IEEE VIS 2021, https://vaclab.unc.edu/publication/tvcg_2022_kaul/tvcg_2022_kaul.pdf
-* Video of presentation: https://vimeo.com/640020787 (10:55)
-
-### Dashboard Design
-
-* Bakusevych, [10 Rules for Better Dashboard Design](https://uxplanet.org/10-rules-for-better-dashboard-design-ef68189d734c)
-* Tableau Help, [Best Visual Practices](https://help.tableau.com/current/blueprint/en-us/bp_visual_best_practices.htm%20)
+*No additional resources*
