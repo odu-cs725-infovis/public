@@ -27,14 +27,14 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |---|---|---|---|---|
 |[1](agenda.md#week-1)|Jan 9|Course Intro, Data Vis Overview | HW1  | Personal Intro, Week 1 Discussion |
 ||Jan 16|**NO CLASS - MLK Day** | | |
-|[2](agenda.md#week-2)|Jan 23<br>**ONLINE**|Visual Analytics Principles, Vega-Lite Intro | |  |
+|[2](agenda.md#week-2)|Jan 23<br/>**ONLINE**|Visual Analytics Principles, Vega-Lite Intro | |  |
 |[3](agenda.md#week-3)|Jan 30|IEEE VIS Conferences, Reading Academic Papers, D3 Principles and Data Manipulation | HW2 | HW1  |
 |[4](agenda.md#week-4)|Feb 6| Giving Presentations, D3 Vis Intro  | paper presentation |  |
 |[5](agenda.md#week-5)|Feb 13| Handling Complexity in Data, D3 Vis | HW3 | HW2  |
 |[6](agenda.md#week-6)|Feb 20|Network and Tree Visualization, Interactivity in D3 |  | paper selected|
 |[7](agenda.md#week-7)|Feb 27|Dashboard Design, Implementing Dashboards in Vega-Lite and D3 | HW4<br/>project | HW3  |
 ||Mar 6|**NO CLASS - Spring Break** | | |
-|[8](agenda.md#week-8)|Mar 13|Project Discussion | | |
+|[8](agenda.md#week-8)|Mar 13<br/>**ONLINE**|Project Discussion | | |
 |[9](agenda.md#week-9)|Mar 20|Visualizing Uncertainty | | HW4<br/>project topic |
 |[10](agenda.md#week-10)| Mar 27|VIS Paper Presentations | | paper presentation<br/>project audience, task, and scenario |
 |[11](agenda.md#week-11)| Apr 3|VIS Paper Presentations | | |
