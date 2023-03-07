@@ -2,7 +2,7 @@
 
 *Video recordings of class meetings will typically be posted in the Canvas Media Gallery by the morning after class.*
 
-[Jump to this week](#week-7)
+[Jump to this week](#week-8)
 
 ## Week 1
 
@@ -194,3 +194,14 @@
 * [HW4](HW4-dashboard.md) - Dashboards and Interaction
 * [Interactive Dashboard Visualization Project](project.md)
 * Next week is Spring Break!
+
+## Week 8
+
+### Agenda and Materials
+
+* Project Discussion
+
+### Assignment
+
+* [Project](project.md) - Interactive Dashboard Visualization
+
