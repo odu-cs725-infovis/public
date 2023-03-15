@@ -1,6 +1,6 @@
 # References and Additional Resources
 
-[Jump to this week](#week-7)
+[Jump to this week](#week-9)
 
 ## Week 1
 
@@ -230,6 +230,25 @@
 * <https://observablehq.com/collection/@d3/d3-brush>
 * <https://observablehq.com/@uwdata/introduction-to-d3-part-2>
 
-## Week 7
+## Weeks 7-8
+
+*No additional resources*
+
+## Week 9
+
+### Visualizing Uncertainty Slide References
+
+* Nicole Torres, ["Why It’s So Hard for Us to Visualize Uncertainty"](https://hbr.org/2016/11/why-its-so-hard-for-us-to-visualize-uncertainty), Harvard Business Review,  
+* Nathan Yau, ["Visualizing the Uncertainty in Data"](https://flowingdata.com/2018/01/08/visualizing-the-uncertainty-in-data/)
+* Nathan Yau, ["Showing uncertainty during the live election forecast"](https://flowingdata.com/2016/11/15/showing-uncertainty-during-the-live-election-forecast/)
+* [Live Presidential Forecast](https://www.nytimes.com/elections/2016/forecast/president), *NY Times*
+* [Lace Padilla](http://space.ucmerced.edu), Assistant Professor of Cognitive and Information Sciences, UC Merced
+* [Jessica Hullman](http://users.eecs.northwestern.edu/~jhullman/), Associate Professor of Computer Science, Northwestern University
+* Lace Padilla, Matthew Key, and Jessica Hullman, ["Uncertainty Visualization"](https://psyarxiv.com/ebd6r), in *Handbook of Computational Statistics and Data Science*, book chapter preprint  
+* Lace Padilla, "How to Read Uncertainty Visualizations", [video](https://www.youtube.com/watch?v=byDZlMwi7kU)
+* Claus Wilke, [*Fundamentals of Data Visualization*](https://clauswilke.com/dataviz/)
+* Hullman, J., P. Resnick, and E. Adar. 2015. [“Hypothetical Outcome Plots Outperform Error Bars and Violin Plots for Inferences About Reliability of Variable Ordering.”](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142444) *PLOS ONE* 10: e0142444.
+
+## Weeks 10-14
 
 *No additional resources*
