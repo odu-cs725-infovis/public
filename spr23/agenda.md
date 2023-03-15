@@ -2,7 +2,7 @@
 
 *Video recordings of class meetings will typically be posted in the Canvas Media Gallery by the morning after class.*
 
-[Jump to this week](#week-8)
+[Jump to this week](#week-9)
 
 ## Week 1
 
@@ -204,4 +204,43 @@
 ### Assignment
 
 * [Project](project.md) - Interactive Dashboard Visualization
+
+## Week 9
+
+[References and Additional Resources for Week 9](resources.md#week-9)
+
+### Due (before class)
+
+* HW4
+* Project topic
+
+### Agenda and Materials
+
+* Visualizing Uncertainty
+  * slides ([Week-09-Uncertainty](https://docs.google.com/presentation/d/1sAO0ARfRDhF1I2014zqnoqSzTuM7H9_9PLpJRPPuexg/preview))
+
+## Week 10
+
+### Due (before class)
+
+* Academic Paper Presentation slides
+* Project audience, task, and scenario
+
+### Agenda and Materials
+
+VIS Paper Presentations ([schedule with links](https://canvas.odu.edu/courses/132393/pages/paper-presentation-schedule))
+* Daniel	- PassVizor: Toward Better Understanding of the Dynamics of Soccer Passes, 2020
+* Caleb	- A Comparative Evaluation of Animation and Small Multiples for Trend Visualization on Mobile Phones, 2019
+* Neeraja (Zoom)	- What Makes a Data-GIF Understandable?, 2020
+* Heng	- Sporthesia: Augmenting Sports Videos Using Natural Language, 2022
+
+## Week 11
+
+### Agenda and Materials
+
+VIS Paper Presentations ([schedule with links](https://canvas.odu.edu/courses/132393/pages/paper-presentation-schedule))
+* Stephanie	- Data Hunches: Incorporating Personal Knowledge into Visualizations, 2022
+* Gabriela (Zoom)	- Evaluating the Use of Uncertainty Visualisations for Imputations of Data Missing At Random in Scatterplots, 2022
+* Tarannum	- Do you believe your (social media) data? A personal story on location data biases, errors, and plausibility as well as their visualization, 2022
+* Alan (Zoom) - Revealing the Semantics of Data Wrangling Scripts With COMANTICS, 2022
 
