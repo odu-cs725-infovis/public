@@ -88,8 +88,6 @@ Authors: Zhutian Chen, Shuainan Ye, Xiangtong Chu, Haijun Xia, Hui Zhang, Huamin
 
 1. Affective Learning Objectives for Communicative Visualizations (Best Paper Award)  
 Authors: Elsie Lee-Robbins, Eytan Adar
-1. Multiple Forecast Visualizations (MFVs): Trade-offs in Trust and Performance in Multiple COVID-19 Forecast Visualizations (Best Paper Award)  
-Authors: Lace Padilla, Racquel Fygenson, Spencer C. Castro, Enrico Bertini
 1. TrafficVis: Visualizing Organized Activity and Spatio-Temporal Patterns for Detecting Human Trafficking  
 Authors: Catalina Vajiac, Duen Horng Chau, Andreas Olligschlaeger, Rebecca Mackenzie, Pratheeksha Nair, Meng-Chieh Lee, Yifei Li, Namyong Park, Reihaneh Rabbany, Christos Faloutsos
 1. A Design Space for Surfacing Content Recommendations in Visual Analytic Platforms  
