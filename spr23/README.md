@@ -40,4 +40,4 @@ Click on the week number to get that week's agenda, reading assignment, and link
 |[11](agenda.md#week-11)| Apr 3|VIS Paper Presentations | | |
 |12| Apr 10|**NO CLASS - Work on project** | | |
 |[13](agenda.md#week-13)| Apr 17|Project Demos | | project |
-|[14](agenda.md#week-14)| Apr 24|Project Demos | | project report|
+|14| Apr 24|**NO CLASS** | | project report at 11:59pm|
