@@ -18,7 +18,7 @@ Your project must be implemented in Vega-Lite or D3. You may build your project 
 
 You will also provide a report about the design of your project.  This should be done as a Markdown document separate from your project visualization page.  Details are below.  
 
-Your project page/notebook must include your name, CS 725/825 (as appropriate), Spring 2023, and a link to your report (can initially be a placeholder - report may be due later than the project).
+Your project page/notebook must include your name, CS 725/825 (as appropriate), Spring 2023, and a link to your report (can initially be a placeholder).
 
 ### Deadlines
 
@@ -28,9 +28,9 @@ Your project page/notebook must include your name, CS 725/825 (as appropriate), 
 
 **Wed, Apr 5** - deadline for meeting with me to discuss your initial design
 
-**Mon, Apr 17, 4pm** - final project deadline (last modifications to implementation notebook) - *tentative*
+**Mon, Apr 17, 4pm** - final project deadline (last modifications to implementation notebook)
 
-**Mon, Apr 24, 4pm** - final report deadline - *tentative*
+**Mon, Apr 24, 11:59pm** - final report deadline
 
 ## Grading
 
@@ -77,4 +77,4 @@ In addition, you should be prepared to answer questions about your visualization
 
 ## Submission
 * Before 4pm on Apr 17, submit the URL of your project in the Project Assignment in Canvas.
-* Before 4pm on Apr 24, submit the URL of your project report in the Project Report Assignment in Canvas.
+* Before 11:59pm on Apr 24, submit the URL of your project report in the Project Report Assignment in Canvas.
