@@ -238,6 +238,11 @@ VIS Paper Presentations ([schedule with links](https://canvas.odu.edu/courses/13
 
 ### Agenda and Materials
 
+LSU Women's Basketball 2023 National Championship highlights:
+* https://pbs.twimg.com/media/FsvaHSkXoAkHaRx?format=jpg&name=large
+* https://lsusports.net/news/2023/04/02/ncaa-womens-basketball-national-title-game-recap/
+* https://www.youtube.com/watch?v=NDiChOV6xyI
+
 VIS Paper Presentations ([schedule with links](https://canvas.odu.edu/courses/132393/pages/paper-presentation-schedule))
 * Stephanie	- Data Hunches: Incorporating Personal Knowledge into Visualizations, 2022
 * Gabriela (Zoom)	- Evaluating the Use of Uncertainty Visualisations for Imputations of Data Missing At Random in Scatterplots, 2022
